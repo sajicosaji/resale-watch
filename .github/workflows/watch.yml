@@ -1,0 +1,29 @@
+name: resale-watch
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # 08:00 JST (morning)
+    - cron: "0 11 * * *"   # 20:00 JST (evening)
+  workflow_dispatch:
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Claude Code
+        run: |
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Run resale watch
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          claude -p "$(cat prompt.md)" \
+            --model claude-sonnet-5 \
+            --allowedTools "WebSearch,WebFetch,Bash,Read,Write" \
+            --max-turns 80
