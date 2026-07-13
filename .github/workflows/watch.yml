@@ -29,6 +29,7 @@ jobs:
           claude -p "$(cat prompt.md)" \
             --model claude-sonnet-5 \
             --allowedTools "WebSearch,WebFetch,Bash,Read,Write" \
+            --permission-mode bypassPermissions \
             --max-turns 80
 
       - name: Save history
