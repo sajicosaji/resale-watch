@@ -1,0 +1,46 @@
+name: aichi-watch
+
+on:
+  schedule:
+    - cron: "30 22 * * *"   # 07:30 JST (morning)
+    - cron: "30 9 * * *"    # 18:30 JST (evening)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Claude Code
+        run: |
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Run aichi watch
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DISCORD_WEBHOOK_AICHI: ${{ secrets.DISCORD_WEBHOOK_AICHI }}
+        run: |
+          claude -p "$(cat aichi_prompt.md)" \
+            --model claude-sonnet-5 \
+            --allowedTools "WebSearch,WebFetch,Bash,Read,Write" \
+            --permission-mode bypassPermissions \
+            --max-turns 80
+
+      - name: Save history
+        run: |
+          git config user.name "resale-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add history_aichi.json
+          if git diff --cached --quiet; then
+            echo "No history changes."
+          else
+            git commit -m "愛知配信履歴を更新"
+            git pull --rebase origin main || true
+            git push
+          fi
