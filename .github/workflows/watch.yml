@@ -2,7 +2,8 @@ name: resale-watch
 
 on:
   schedule:
-    - cron: "0 9 * * *"    # 18:00 JST (evening only, 2026-07-25: reduced to 1x/day for GitHub Actions minute conservation)
+    - cron: "0 22 * * *"   # 07:00 JST (morning)
+    - cron: "0 9 * * *"    # 18:00 JST (evening, 2026-07-26: restored to 2x/day — repo is now public, no Actions minute limit)
   workflow_dispatch:
 
 permissions:
