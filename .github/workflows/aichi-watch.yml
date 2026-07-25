@@ -2,8 +2,7 @@ name: aichi-watch
 
 on:
   schedule:
-    - cron: "30 22 * * *"   # 07:30 JST (morning)
-    - cron: "30 9 * * *"    # 18:30 JST (evening)
+    - cron: "30 9 * * *"    # 18:30 JST (evening only, 2026-07-25: reduced to 1x/day)
   workflow_dispatch:
 
 permissions:

@@ -2,8 +2,7 @@ name: fukuoka-watch
 
 on:
   schedule:
-    - cron: "20 22 * * *"   # 07:20 JST (morning)
-    - cron: "20 9 * * *"    # 18:20 JST (evening)
+    - cron: "20 9 * * *"    # 18:20 JST (evening only, 2026-07-25: reduced to 1x/day)
   workflow_dispatch:
 
 permissions:
