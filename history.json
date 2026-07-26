@@ -65,7 +65,8 @@
       "price": "定価6000→相場36000",
       "release_date": "2026-07-31",
       "reminded": false,
-      "url": "https://www.pokemon-card.com/ex/m6/"
+      "url": "https://www.pokemon-card.com/ex/m6/",
+      "deadline": "2026-07-19"
     },
     {
       "date": "2026-07-15",
@@ -254,7 +255,8 @@
       "topic": "ポケ ストームエメラルダ WonderGOO/新星堂/GANRYU店舗抽選(7/29締切)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
-      "url": "https://www.pokemon-card.com/ex/m6/"
+      "url": "https://www.pokemon-card.com/ex/m6/",
+      "deadline": "2026-07-29"
     },
     {
       "date": "2026-07-21",
@@ -312,7 +314,8 @@
       "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 本日受付開始(7/22 14:00-7/24 23:59、関東/関西/北陸/四国)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
-      "url": "https://www.pokemon-card.com/ex/m6/"
+      "url": "https://www.pokemon-card.com/ex/m6/",
+      "deadline": "2026-07-24"
     },
     {
       "date": "2026-07-22",
@@ -339,7 +342,8 @@
       "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 締切間近(7/24 23:59)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
-      "url": "https://www.pokemon-card.com/ex/m6/"
+      "url": "https://www.pokemon-card.com/ex/m6/",
+      "deadline": "2026-07-24"
     },
     {
       "date": "2026-07-23",
@@ -395,7 +399,8 @@
       "topic": "【続報】ストームエメラルダ カードショップ各社抽選(お宝創庫・ホビーステーション・晴れる屋2・イエローサブマリン等、7/26締切)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
-      "url": "https://www.pokemon-card.com/ex/m6/"
+      "url": "https://www.pokemon-card.com/ex/m6/",
+      "deadline": "2026-07-26"
     },
     {
       "date": "2026-07-23",
@@ -407,7 +412,8 @@
       "topic": "ポケ ストームエメラルダ TSUTAYA各店LivePocket個店抽選(本日7/26 21:00締切)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
-      "url": "https://www.pokemon-card.com/ex/m6/"
+      "url": "https://www.pokemon-card.com/ex/m6/",
+      "deadline": "2026-07-26"
     },
     {
       "date": "2026-07-26",
@@ -510,7 +516,8 @@
       "topic": "【続報】ストームエメラルダBOX エクストレカ定価抽選 締切間近(7/30)",
       "price": "定価6000→相場34000前後",
       "release_date": "2026-07-31",
-      "url": "https://gamenv.net/tc/stormemerald/"
+      "url": "https://gamenv.net/tc/stormemerald/",
+      "deadline": "2026-07-30"
     },
     {
       "date": "2026-07-26",

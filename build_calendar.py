@@ -13,6 +13,12 @@ SOURCES = [
     ("history_fukuoka.json", "福岡", "🍜", "#1660a8"),
 ]
 
+def parse_date(s):
+    try:
+        return datetime.strptime(s, "%Y-%m-%d").date()
+    except (ValueError, TypeError):
+        return None
+
 def load_items():
     items = []
     for filename, label, emoji, color in SOURCES:
@@ -21,16 +27,19 @@ def load_items():
         with open(filename, encoding="utf-8") as f:
             data = json.load(f)
         for it in data.get("items", []):
-            rd = it.get("release_date")
-            if not rd:
+            deadline = parse_date(it.get("deadline"))
+            if deadline and deadline < TODAY:
+                # 締切を過ぎたものはもう行動できないので表示しない
                 continue
-            try:
-                d = datetime.strptime(rd, "%Y-%m-%d").date()
-            except ValueError:
+            release_date = parse_date(it.get("release_date"))
+            # 締切があればそちらを基準にカレンダーへ配置する（発売日より締切のほうが行動の期限として重要）
+            d = deadline or release_date
+            if not d:
                 continue
             url = it.get("url", "")
             items.append({
                 "date": d,
+                "deadline": deadline,
                 "topic": it.get("topic", ""),
                 "price": it.get("price", ""),
                 "url": url if url.startswith("http") else "",
@@ -69,10 +78,22 @@ def build_html(items):
                     topic_html = f'<a class="topic-link" href="{html.escape(it["url"])}" target="_blank" rel="noopener">{topic_esc} 🔗</a>'
                 else:
                     topic_html = topic_esc
+                deadline_html = ""
+                if it["deadline"]:
+                    dl = it["deadline"]
+                    dl_days = (dl - TODAY).days
+                    if dl_days == 0:
+                        dl_label = "本日締切"
+                    elif dl_days == 1:
+                        dl_label = "明日締切"
+                    else:
+                        dl_label = f"あと{dl_days}日で締切"
+                    deadline_html = f'<div class="deadline">⏰<span class="deadline-date">{dl.strftime("%m/%d")}</span><span class="deadline-label">{dl_label}</span></div>'
                 out.append(f'''
                 <div class="item" style="border-left-color:{it['color']}">
                     <div class="source">{it['emoji']} {it['source']}</div>
                     <div class="topic">{topic_html}</div>
+                    {deadline_html}
                     {price_html}
                 </div>''')
             out.append('</div>')
@@ -105,6 +126,10 @@ def build_html(items):
   .topic-link:hover {{ text-decoration: underline; }}
   @media (prefers-color-scheme: dark) {{ .topic-link {{ color: #6fb3ff; }} }}
   .price {{ font-size: 13px; color: #1d7a4f; margin-top: 4px; font-weight: bold; }}
+  .deadline {{ display: flex; align-items: baseline; gap: 6px; font-size: 13px; color: #b3261e; margin-top: 4px; font-weight: bold; }}
+  .deadline-date {{ font-variant-numeric: tabular-nums; font-family: "Consolas", "Yu Gothic UI", monospace; min-width: 42px; display: inline-block; }}
+  .deadline-label {{ font-weight: normal; color: #8a4a45; }}
+  @media (prefers-color-scheme: dark) {{ .deadline {{ color: #ff8a80; }} .deadline-label {{ color: #d9a29d; }} }}
   .empty {{ color: #999; }}
   @media (prefers-color-scheme: dark) {{
     body {{ background: #1a1a1a; color: #eee; }}

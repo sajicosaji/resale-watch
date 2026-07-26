@@ -22,6 +22,10 @@
   .topic-link:hover { text-decoration: underline; }
   @media (prefers-color-scheme: dark) { .topic-link { color: #6fb3ff; } }
   .price { font-size: 13px; color: #1d7a4f; margin-top: 4px; font-weight: bold; }
+  .deadline { display: flex; align-items: baseline; gap: 6px; font-size: 13px; color: #b3261e; margin-top: 4px; font-weight: bold; }
+  .deadline-date { font-variant-numeric: tabular-nums; font-family: "Consolas", "Yu Gothic UI", monospace; min-width: 42px; display: inline-block; }
+  .deadline-label { font-weight: normal; color: #8a4a45; }
+  @media (prefers-color-scheme: dark) { .deadline { color: #ff8a80; } .deadline-label { color: #d9a29d; } }
   .empty { color: #999; }
   @media (prefers-color-scheme: dark) {
     body { background: #1a1a1a; color: #eee; }
@@ -34,14 +38,40 @@
 <body>
 <div class="wrap">
   <h1>🎴 転売ウォッチ カレンダー</h1>
-  <div class="updated">最終更新: 2026-07-26 20:07 JST（毎日自動更新）</div>
+  <div class="updated">最終更新: 2026-07-26 21:34 JST（毎日自動更新）</div>
 
   <h2>📅 今後の予定</h2>
-  <div class="date-group"><h3>2026年07月30日 (木) <span class="badge">4日後</span></h3>
+  <div class="date-group"><h3>2026年07月26日 (日) <span class="badge today">本日</span></h3>
+
+                <div class="item" style="border-left-color:#e63946">
+                    <div class="source">🎴 本体</div>
+                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">【続報】ストームエメラルダ カードショップ各社抽選(お宝創庫・ホビーステーション・晴れる屋2・イエローサブマリン等、7/26締切) 🔗</a></div>
+                    <div class="deadline">⏰<span class="deadline-date">07/26</span><span class="deadline-label">本日締切</span></div>
+                    <div class="price">定価6000→相場32000-36000</div>
+                </div>
+
+                <div class="item" style="border-left-color:#e63946">
+                    <div class="source">🎴 本体</div>
+                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ポケ ストームエメラルダ TSUTAYA各店LivePocket個店抽選(本日7/26 21:00締切) 🔗</a></div>
+                    <div class="deadline">⏰<span class="deadline-date">07/26</span><span class="deadline-label">本日締切</span></div>
+                    <div class="price">定価6000→相場32000-36000</div>
+                </div>
+</div>
+<div class="date-group"><h3>2026年07月29日 (水) <span class="badge">3日後</span></h3>
+
+                <div class="item" style="border-left-color:#e63946">
+                    <div class="source">🎴 本体</div>
+                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ポケ ストームエメラルダ WonderGOO/新星堂/GANRYU店舗抽選(7/29締切) 🔗</a></div>
+                    <div class="deadline">⏰<span class="deadline-date">07/29</span><span class="deadline-label">あと3日で締切</span></div>
+                    <div class="price">定価6000→相場32000-36000</div>
+                </div>
+</div>
+<div class="date-group"><h3>2026年07月30日 (木) <span class="badge">4日後</span></h3>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/kimetsu30" target="_blank" rel="noopener">一番くじ 鬼滅の刃 上弦の弐 7/30発売(仕込み候補・童磨初MASTERLISE化) 🔗</a></div>
+                    
                     
                 </div>
 
@@ -49,11 +79,20 @@
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/kimetsu30" target="_blank" rel="noopener">【続報】一番くじ鬼滅の刃 上弦の弐 ラストワン賞詳細判明(童磨MASTERLISE特別仕様) 🔗</a></div>
                     
+                    
+                </div>
+
+                <div class="item" style="border-left-color:#e63946">
+                    <div class="source">🎴 本体</div>
+                    <div class="topic"><a class="topic-link" href="https://gamenv.net/tc/stormemerald/" target="_blank" rel="noopener">【続報】ストームエメラルダBOX エクストレカ定価抽選 締切間近(7/30) 🔗</a></div>
+                    <div class="deadline">⏰<span class="deadline-date">07/30</span><span class="deadline-label">あと4日で締切</span></div>
+                    <div class="price">定価6000→相場34000前後</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/kimetsu30" target="_blank" rel="noopener">一番くじ 鬼滅の刃 ～上弦の弐～（ローソン他、7月30日発売） 🔗</a></div>
+                    
                     <div class="price">790円→ラストワン賞相場10,000〜20,000円（過去シリーズ実績ベース）</div>
                 </div>
 </div>
@@ -61,91 +100,50 @@
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ポケ ストームエメラルダ しまむらパーク抽選(7/19締切) 🔗</a></div>
-                    <div class="price">定価6000→相場36000</div>
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/me/" target="_blank" rel="noopener">ゲオ抽選 MEGAスターターセットex イーブイex 仕込み候補(7/31発売) 🔗</a></div>
+                    
                     <div class="price">定価1800→相場未確定(参考値なし)</div>
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ポケ ストームエメラルダ WonderGOO/新星堂/GANRYU店舗抽選(7/29締切) 🔗</a></div>
-                    <div class="price">定価6000→相場32000-36000</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/info/004753.html" target="_blank" rel="noopener">【愛知】イオンモール東浦 ポケモンカード専門ストア新規オープン 🔗</a></div>
                     
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 本日受付開始(7/22 14:00-7/24 23:59、関東/関西/北陸/四国) 🔗</a></div>
-                    <div class="price">定価6000→相場32000-36000</div>
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 締切間近(7/24 23:59) 🔗</a></div>
-                    <div class="price">定価6000→相場32000-36000</div>
+                    
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ストームエメラルダ ローソン店頭先着販売(新チャネル、抽選不要) 🔗</a></div>
+                    
                     <div class="price">1パック200円→BOX相場換算で1パックあたり1000円前後</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">【続報】ストームエメラルダ カードショップ各社抽選(お宝創庫・ホビーステーション・晴れる屋2・イエローサブマリン等、7/26締切) 🔗</a></div>
-                    <div class="price">定価6000→相場32000-36000</div>
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ポケ ストームエメラルダ TSUTAYA各店LivePocket個店抽選(本日7/26 21:00締切) 🔗</a></div>
-                    <div class="price">定価6000→相場32000-36000</div>
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://news.denfaminicogamer.jp/news/2607222o" target="_blank" rel="noopener">シャドウバースEVOLVE アカデミー・ロワイヤル(ウマ娘コラボ) 7/31発売(仕込み候補) 🔗</a></div>
+                    
                     <div class="price">既存弾チェイスカード買取実績13000-35000円(参考値)</div>
-                </div>
-
-                <div class="item" style="border-left-color:#e63946">
-                    <div class="source">🎴 本体</div>
-                    <div class="topic"><a class="topic-link" href="https://gamenv.net/tc/stormemerald/" target="_blank" rel="noopener">【続報】ストームエメラルダBOX エクストレカ定価抽選 締切間近(7/30) 🔗</a></div>
-                    <div class="price">定価6000→相場34000前後</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">ポケモンカードMEGA拡張パック「ストームエメラルダ」（メガレックウザexパック、セブンイレブン先着販売） 🔗</a></div>
+                    
                     <div class="price">定価6,000円(BOX)→発売前フリマ相場4〜5万円、当たりMUR初動買取予想12万円（供給増後は反動安の可能性あり、即買い即売り推奨）</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/me/" target="_blank" rel="noopener">ポケモンカード MEGA スターターセットex 3種（イーブイex/ゾロア&amp;ゾロアークex/ニャオハ&amp;マスカーニャex） 🔗</a></div>
+                    
                     <div class="price">各1,800円→相場データ薄い（MEGA第1弾の構築済みデッキ、化ける可能性ありの推測ベース）</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
-                    <div class="topic"><a class="topic-link" href="https://www.pokemon-card.com/ex/m6/" target="_blank" rel="noopener">【続報】ポケモンカードMEGA「ストームエメラルダ」ファミリーマート オンライン抽選予約（申込7/20締切・当選発表7/22・店舗受取8/7〜8/20） 🔗</a></div>
-                    <div class="price">定価6,000円→BOX買取相場シュリンクあり19,800円前後/シュリンクなし15,300円前後（発売時点予想）、当たりのメガレックウザexMURは買取8万円超予想</div>
-                </div>
-
-                <div class="item" style="border-left-color:#f77f00">
-                    <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://www.lawson.co.jp/lab/entertainment/art/20260721_toypokemon.html" target="_blank" rel="noopener">【続報】ポケモンカードMEGA「ストームエメラルダ」ローソン販売方法確定（7/31朝7時〜先着、なくなり次第終了） 🔗</a></div>
+                    
                     <div class="price">1パック200円→既報の高値相場（供給拡大後は下落リスクあり、朝一仕込み即売り推奨）</div>
                 </div>
 </div>
@@ -154,6 +152,7 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://toy.bandai.co.jp/ja/item/01_20774/" target="_blank" rel="noopener">[警戒済]デジモン 新型デジヴァイス 8/1発売。旧デジヴァイス相場を訂正 🔗</a></div>
+                    
                     <div class="price">旧型: 紹介時ヤフオク5-8万円→直近90日落札平均約1.7万円</div>
                 </div>
 </div>
@@ -162,12 +161,14 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://jumpsq.shueisha.co.jp/sq/yokoku.html" target="_blank" rel="noopener">【サブ枠】ジャンプSQ.2026年9月号 新テニスの王子様完結記念CD付録(8/4発売、複数書店で予約受付終了) 🔗</a></div>
+                    
                     <div class="price">定価699円→予約殺到で入手困難の可能性(参考値)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/cutiestreet" target="_blank" rel="noopener">一番くじ CUTIE STREET くじを手にする戦いなのです！（ローソン・ミニストップ他、8月4日発売） 🔗</a></div>
+                    
                     <div class="price">700円→ラストワン賞は推しメンの声入りアラームクロック、相場データ薄いがアイドルグッズはプレミア化傾向あり（推測ベース）</div>
                 </div>
 </div>
@@ -176,30 +177,42 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/onep104" target="_blank" rel="noopener">一番くじ ワンピース エルバフ編 GIANT BASH!! Vol.2 8/8発売 🔗</a></div>
+                    
                     <div class="price">1回770円→前作Vol.1実績:ラストワン賞15800円、D賞10000円、C賞3500円、A/B賞各2000円</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.favore.jp/event/detail/?cd=001241" target="_blank" rel="noopener">【サブ枠】ボンボンドロップシール 富山ファボーレPOP UP STORE(8/8-16開催) 🔗</a></div>
+                    
                     <div class="price">過去実績ベース:定価550→2500-8000程度(参考)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.dbs-cardgame.com/fw/jp/products/01_401.html" target="_blank" rel="noopener">ドラゴンボールフュージョンワールド エナジーマーカー系 高額買取判明・8/8新弾STORY BOOSTER 01 🔗</a></div>
+                    
                     <div class="price">エナジーマーカー1巻表紙200万、30巻表紙70万、ゴジータ:GT SCR★★55万</div>
+                </div>
+
+                <div class="item" style="border-left-color:#e63946">
+                    <div class="source">🎴 本体</div>
+                    <div class="topic"><a class="topic-link" href="https://www.yugioh-card.com/japan/products/ut01/" target="_blank" rel="noopener">【ワンピ以外TCG・仕込み候補】遊戯王 UTILITY SELECTION 8/8発売。全カードSR以上(UR30種+SR30種)の当たりパック仕様、直近テーマの再録中心 🔗</a></div>
+                    
+                    <div class="price">ボックス5,940円→相場未確定(全SR以上パックは発売直後にプレミアがつきやすい傾向、参考値)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/onep104" target="_blank" rel="noopener">一番くじワンピース エルバフ編 GIANT BASH!! Vol.2（セブン-イレブン他、8月8日発売） 🔗</a></div>
+                    
                     <div class="price">790円→ラストワン賞相場15,800円前後（前弾実績）、他フィギュア3,000〜13,000円</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=nikke8&amp;grp_id=9999" target="_blank" rel="noopener">一番くじ 勝利の女神：NIKKE CHAPTER8（ローソン、8月8日発売） 🔗</a></div>
+                    
                     <div class="price">850円→過去チャプターのラストワン賞買取実績7,000円前後（推測ベース、水着フィギュア一番くじ初登場）</div>
                 </div>
 </div>
@@ -208,6 +221,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/natsume48" target="_blank" rel="noopener">一番くじ 夏目友人帳 雨の日も、晴れの日も。（ファミリーマート他、8月14日発売） 🔗</a></div>
+                    
                     <div class="price">760円→ラストワン賞ニャンコ先生日焼けぬいぐるみ、過去シリーズ実績120日平均5,222円（Yahoo!オークション、最高26,980円）</div>
                 </div>
 </div>
@@ -216,18 +230,21 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://hobby.dengeki.com/news/3082695" target="_blank" rel="noopener">一番くじ ハイキュー!! -烏野の未来- 8/15発売(仕込み候補) 🔗</a></div>
+                    
                     <div class="price">1回790円→ハイキュー系ラストワン賞過去平均11353円(参考値)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/disney_kh5" target="_blank" rel="noopener">一番くじ KINGDOM HEARTS -25th Anniversary-（セブン-イレブン他、8月15日発売） 🔗</a></div>
+                    
                     <div class="price">790円→ラストワン賞リクスタチュー等、相場データ薄いが化ける可能性あり（推測ベース）</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/haikyu32" target="_blank" rel="noopener">一番くじ ハイキュー!! -烏野の未来-（ローソン、8月15日発売） 🔗</a></div>
+                    
                     <div class="price">790円→ラストワン賞月島蛍フィギュア、相場目安3,000〜8,000円程度</div>
                 </div>
 </div>
@@ -236,12 +253,14 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://x.com/bonbon_drop/status/1955101938044833857" target="_blank" rel="noopener">【サブ枠】ボンボンドロップシール新柄 8月中旬発売(オンライン8/18頃) 🔗</a></div>
+                    
                     <div class="price">過去実績:ちょこみんボンボン フリマ2800円(定価比5倍)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://x.com/bonbon_drop/status/1955101938044833857" target="_blank" rel="noopener">【サブ枠】ボンボンドロップシール新柄ユニコーン柄 8/18頃オンライン発売 🔗</a></div>
+                    
                     <div class="price">過去実績ベース参考値</div>
                 </div>
 </div>
@@ -250,6 +269,7 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://x.com/GUNDAM_GCG_JP/status/2076962405335138517" target="_blank" rel="noopener">【先回り・広範囲スカウティング】Vジャンプ10月号 hololive宝鐘マリン/ガンダムカードゲームドモン・カッシュ付録カード。ジャンプ33号と同じ転売懸念がニュースで事前報道 🔗</a></div>
+                    
                     <div class="price">定価未確認→ジャンプ33号前例(数千〜数万円)から高騰の可能性(参考値)</div>
                 </div>
 
@@ -257,11 +277,13 @@
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.oricon.co.jp/news/2468550/full/" target="_blank" rel="noopener">【続報】Vジャンプ10月号 ONE PIECEカード「シャーロット・プリン」付録は中止確定。hololive宝鐘マリン・ガンダムドモンカッシュ付録は予定通り実施 🔗</a></div>
                     
+                    
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/gintama22" target="_blank" rel="noopener">一番くじ 銀魂 生誕20周年記念 銀魂展～はたちのつどい～その弐（ローソン他） 🔗</a></div>
+                    
                     <div class="price">800円→相場データ薄い。ラストワン賞はモノクロカラーEdition＋ロゴフィギュア（推測ベース）</div>
                 </div>
 </div>
@@ -270,36 +292,42 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://one-piece.com/news/80565/index.html" target="_blank" rel="noopener">【続報】ワンピ OP-17 世界最強の戦士 BOX予約価格判明(発売前から高額取引) 🔗</a></div>
+                    
                     <div class="price">BOX定価想定5760→予約価格23600-28000</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://one-piece.com/news/80565/index.html" target="_blank" rel="noopener">【続報】ワンピ OP-17 世界最強の戦士 楽天市場でも取扱い開始 🔗</a></div>
+                    
                     <div class="price">定価想定5760→予約相場23600-28000</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/db_gt" target="_blank" rel="noopener">一番くじ ドラゴンボールGT 8/22発売 仕込み候補 🔗</a></div>
+                    
                     <div class="price">1回790円→ドラゴンボール系ラストワン賞直近相場平均14387円(参考)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://one-piece.com/news/80565/index.html" target="_blank" rel="noopener">ONE PIECEカードゲーム ブースターパック「世界最強の戦士」OP-17（4周年記念パック、全国発売） 🔗</a></div>
+                    
                     <div class="price">BOX想定5,500〜6,500円→当たり封入BOXは1万円超の可能性</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/db_gt" target="_blank" rel="noopener">一番くじ ドラゴンボールGT（ローソン、8月22日発売） 🔗</a></div>
+                    
                     <div class="price">790円→ラストワン賞相場10,000〜15,000円前後（直近シリーズ実績・Yahoo!オークション120日平均15,505円）</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/db_gt" target="_blank" rel="noopener">【続報】一番くじ ドラゴンボールGT（ローソン他）ラストワン賞判明：THE GIGANT NAME（ロゴ約36cm立体化） 🔗</a></div>
+                    
                     <div class="price">790円→前弾GIANT BASH系ラストワン賞実績（メルカリ1.6万円前後/買取1〜1.3万円）から高額化期待（推測ベース）</div>
                 </div>
 </div>
@@ -308,6 +336,7 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://www.takaratomy-arts.co.jp/items/item.html?n=Y111204" target="_blank" rel="noopener">ポケモン Poké-Charm 30周年ロゴマスコット(食玩) 仕込み候補 🔗</a></div>
+                    
                     <div class="price">定価418→相場未確定(全20種+オーロラ仕様レアあり)</div>
                 </div>
 </div>
@@ -316,12 +345,14 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/hxh11" target="_blank" rel="noopener">一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売） 🔗</a></div>
+                    
                     <div class="price">850円→前弾ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)買取相場11,000〜17,000円台（推測ベース、今弾も同水準期待）</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/eva19" target="_blank" rel="noopener">一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他、8月29日発売） 🔗</a></div>
+                    
                     <div class="price">790円→過去のエヴァ系一番くじはラストワン賞フリマ相場14,500円〜（買取〜10,000円）、A賞も7,000円〜の実績（推測ベース、当シリーズのラストワン賞は未発表）</div>
                 </div>
 </div>
@@ -330,6 +361,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/myhero47" target="_blank" rel="noopener">一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-（ファミリーマート他、9月12日発売） 🔗</a></div>
+                    
                     <div class="price">790円→ヒロアカ一番くじ過去相場1,300〜8,400円程度、10周年記念の豪華ラインナップで上振れ期待（推測ベース）</div>
                 </div>
 </div>
@@ -338,6 +370,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://www.30th.pokemon-card.com/product/m6a" target="_blank" rel="noopener">ポケモンカードMEGA拡張パック「30th CELEBRATION」（ポケカ30周年記念、全カードキラ仕様・新レアリティFUR初登場、セブンイレブン等で先着販売の可能性） 🔗</a></div>
+                    
                     <div class="price">価格・入荷未確定（推測ベース）。25周年記念パックは当時高騰し現在も高値維持の実績あり</div>
                 </div>
 </div>
@@ -346,6 +379,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/chainsawman3" target="_blank" rel="noopener">一番くじ 劇場版『チェンソーマン レゼ篇』第2弾（ローソン他、ラストワン賞はチェンソーマン＆ビームMEGAIMPACT） 🔗</a></div>
+                    
                     <div class="price">880円→前作(レゼ篇第1弾)ラストワン賞買取実績18,000〜28,000円、続編も高値期待（推測ベース）</div>
                 </div>
 </div>
@@ -354,12 +388,14 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic"><a class="topic-link" href="https://jujutsukaisen.jp/goods/goods144_5th.php" target="_blank" rel="noopener">一番くじ 呪術廻戦5周年FINAL 9/26発売(仕込み候補) 🔗</a></div>
+                    
                     <div class="price">1回800円→相場未確定(参考値なし)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/jujutsu15" target="_blank" rel="noopener">一番くじ アニメ『呪術廻戦』5周年FINAL！（ファミリーマート他、ラストワン賞は五条悟MASTERLISE） 🔗</a></div>
+                    
                     <div class="price">800円→過去シリーズ(死滅回游)ラストワン賞買取実績3,000〜22,000円、人気No.1キャラの最終章で上振れ期待（推測ベース）</div>
                 </div>
 </div>
@@ -368,6 +404,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/onep_o12" target="_blank" rel="noopener">一番くじ ONE PIECE -空に奏でる&quot;島の歌声&quot;-（コンビニ各社、10月29日発売） 🔗</a></div>
+                    
                     <div class="price">850円→A〜D賞はルフィ・ナミ・モンブラン・クリケット・ワイパーの全てMASTERLISE EXPIECE、ラストワン賞未発表。過去のMASTERLISE系ワンピくじ実績（1万〜2万円台）から化ける可能性あり（推測ベース）</div>
                 </div>
 </div>
@@ -376,6 +413,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/miabyss" target="_blank" rel="noopener">一番くじ メイドインアビス（ミニストップ他、10月31日発売） 🔗</a></div>
+                    
                     <div class="price">850円→A賞・ラストワン賞ともにボンドルドMASTERLISE、相場データ薄いがMASTERLISEブランドは高額傾向（推測ベース）</div>
                 </div>
 </div>
@@ -384,6 +422,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic"><a class="topic-link" href="https://1kuji.com/products/jojo_26" target="_blank" rel="noopener">一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS（ローソン他、11月21日発売） 🔗</a></div>
+                    
                     <div class="price">850円→相場データ薄い。歴代ライバル7人(DIO・カーズ・ディアボロ等)集結の豪華ラインナップで人気集中の可能性（推測ベース）</div>
                 </div>
 </div>
@@ -394,6 +433,7 @@
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic">ONE PIECEカードゲーム スタートデッキ「赤 モンキー・D・ルフィ」（ST-31、コンビニ含む全国発売済み）</div>
+                    
                     <div class="price">定価550円→実勢価格1,980〜5,500円（価格.com）、リーダーカード買取1,400円前後。同時発売の他5色（ST-32〜36）は高騰なし</div>
                 </div>
 </div>
@@ -403,11 +443,13 @@
                     <div class="source">🎴 本体</div>
                     <div class="topic">一番くじ Pokémon 30th ANNIVERSARY vol.2</div>
                     
+                    
                 </div>
 
                 <div class="item" style="border-left-color:#f77f00">
                     <div class="source">🏪 コンビニ</div>
                     <div class="topic">一番くじ 刃牙～巨大なる鼓動～（ローソン、7月18日発売済み）</div>
+                    
                     <div class="price">850円→ラストワン賞 烈海王MASTERLISEフリマ相場16,000円〜（買取〜14,000円）、A賞 宮本武蔵MASTERLISE相場9,000円〜（買取〜8,000円）</div>
                 </div>
 </div>
@@ -416,12 +458,14 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic">ヴァイスシュヴァルツロゼ Re:ゼロ Vol.4 仕込み候補</div>
+                    
                     <div class="price">前作サイン入りSSP買取実績最高30000円(参考)</div>
                 </div>
 
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic">【続報】ヴァイスシュヴァルツロゼ Re:ゼロ Vol.4 予約特典判明</div>
+                    
                     <div class="price">前作サイン入りSSP買取実績最高30000円(参考)</div>
                 </div>
 </div>
@@ -430,6 +474,7 @@
                 <div class="item" style="border-left-color:#e63946">
                     <div class="source">🎴 本体</div>
                     <div class="topic">名探偵コナンカードゲーム 追憶の盟友 7/25発売 仕込み候補</div>
+                    
                     <div class="price">相場未確定・高額買取カード出現の兆候あり(参考値)</div>
                 </div>
 </div>
