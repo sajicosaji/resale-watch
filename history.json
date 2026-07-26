@@ -400,6 +400,12 @@
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
       "url": "https://cardchusen.com/pokeka/storm-emeralda",
+      "links": [
+        {"label": "お宝創庫", "url": "https://www.otakarasouko.com/app/", "app": "お宝創庫グループアプリ"},
+        {"label": "ホビーステーション", "url": "https://www.hbst.net/?p=410275"},
+        {"label": "晴れる屋2", "url": "https://www.hareruya2.com/pages/146654363968"},
+        {"label": "イエローサブマリン", "url": "https://cardchusen.com/pokeka/storm-emeralda"}
+      ],
       "deadline": "2026-07-26"
     },
     {

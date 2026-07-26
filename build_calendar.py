@@ -37,12 +37,18 @@ def load_items():
             if not d:
                 continue
             url = it.get("url", "")
+            links = [
+                {"label": l.get("label", ""), "url": l.get("url", ""), "app": l.get("app", "")}
+                for l in it.get("links", [])
+                if l.get("url", "").startswith("http") and l.get("label")
+            ]
             items.append({
                 "date": d,
                 "deadline": deadline,
                 "topic": it.get("topic", ""),
                 "price": it.get("price", ""),
                 "url": url if url.startswith("http") else "",
+                "links": links,
                 "source": label,
                 "emoji": emoji,
                 "color": color,
@@ -74,7 +80,19 @@ def build_html(items):
             for it in by_date[d]:
                 price_html = f'<div class="price">{html.escape(it["price"])}</div>' if it["price"] else ""
                 topic_esc = html.escape(it["topic"])
-                if it["url"]:
+                links_html = ""
+                if it["links"]:
+                    # 複数チャネルをまとめた項目は、それぞれ個別にクリックできる番号付きリンクにする
+                    topic_html = topic_esc
+                    chips = " ".join(
+                        f'<a class="link-chip" href="{html.escape(l["url"])}" target="_blank" rel="noopener">'
+                        f'<span class="link-chip-num">{i}</span>'
+                        + (f'📱{html.escape(l["label"])}（{html.escape(l["app"])}が必要）' if l["app"] else html.escape(l["label"]))
+                        + '</a>'
+                        for i, l in enumerate(it["links"], start=1)
+                    )
+                    links_html = f'<div class="links">応募先: {chips}</div>'
+                elif it["url"]:
                     topic_html = f'<a class="topic-link" href="{html.escape(it["url"])}" target="_blank" rel="noopener">{topic_esc} 🔗</a>'
                 else:
                     topic_html = topic_esc
@@ -93,6 +111,7 @@ def build_html(items):
                 <div class="item" style="border-left-color:{it['color']}">
                     <div class="source">{it['emoji']} {it['source']}</div>
                     <div class="topic">{topic_html}</div>
+                    {links_html}
                     {deadline_html}
                     {price_html}
                 </div>''')
@@ -125,6 +144,11 @@ def build_html(items):
   .topic-link {{ color: #1660a8; text-decoration: none; }}
   .topic-link:hover {{ text-decoration: underline; }}
   @media (prefers-color-scheme: dark) {{ .topic-link {{ color: #6fb3ff; }} }}
+  .links {{ font-size: 13px; margin-top: 6px; color: #666; display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }}
+  .link-chip {{ display: inline-flex; align-items: center; gap: 4px; color: #1660a8; text-decoration: none; background: #eef4fb; border-radius: 12px; padding: 2px 10px 2px 6px; }}
+  .link-chip:hover {{ text-decoration: underline; }}
+  .link-chip-num {{ display: inline-flex; align-items: center; justify-content: center; width: 16px; height: 16px; border-radius: 50%; background: #1660a8; color: #fff; font-size: 10px; font-weight: bold; }}
+  @media (prefers-color-scheme: dark) {{ .links {{ color: #aaa; }} .link-chip {{ color: #6fb3ff; background: #1c2733; }} .link-chip-num {{ background: #6fb3ff; color: #1a1a1a; }} }}
   .price {{ font-size: 13px; color: #1d7a4f; margin-top: 4px; font-weight: bold; }}
   .deadline {{ display: flex; align-items: baseline; gap: 6px; font-size: 13px; color: #b3261e; margin-top: 4px; font-weight: bold; }}
   .deadline-date {{ font-variant-numeric: tabular-nums; font-family: "Consolas", "Yu Gothic UI", monospace; min-width: 42px; display: inline-block; }}
