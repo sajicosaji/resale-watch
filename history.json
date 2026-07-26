@@ -396,15 +396,12 @@
     },
     {
       "date": "2026-07-23",
-      "topic": "【続報】ストームエメラルダ カードショップ各社抽選(お宝創庫・ホビーステーション・晴れる屋2・イエローサブマリン等、7/26締切)",
+      "topic": "【続報】ストームエメラルダ カードショップ各社抽選(お宝創庫のみ本日23:45締切で受付中。ホビーステーション/晴れる屋2/イエローサブマリンは受付終了済み)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
-      "url": "https://cardchusen.com/pokeka/storm-emeralda",
+      "url": "https://www.otakarasouko.com/app/",
       "links": [
-        {"label": "お宝創庫", "url": "https://www.otakarasouko.com/app/", "app": "お宝創庫グループアプリ"},
-        {"label": "ホビーステーション", "url": "https://www.hbst.net/?p=410275"},
-        {"label": "晴れる屋2", "url": "https://www.hareruya2.com/pages/146654363968"},
-        {"label": "イエローサブマリン", "url": "https://cardchusen.com/pokeka/storm-emeralda"}
+        {"label": "お宝創庫", "url": "https://www.otakarasouko.com/app/", "app": "お宝創庫グループアプリ"}
       ],
       "deadline": "2026-07-26"
     },
