@@ -21,13 +21,22 @@ jobs:
           curl -fsSL https://claude.ai/install.sh | bash
           echo "$HOME/.local/bin" >> "$GITHUB_PATH"
 
+      - name: Determine model (schedule=sonnet, manual test=haiku)
+        id: model
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "name=claude-haiku-4-5-20251001" >> "$GITHUB_OUTPUT"
+          else
+            echo "name=claude-sonnet-5" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run aichi watch
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           DISCORD_WEBHOOK_AICHI: ${{ secrets.DISCORD_WEBHOOK_AICHI }}
         run: |
           claude -p "$(cat aichi_prompt.md)" \
-            --model claude-sonnet-5 \
+            --model ${{ steps.model.outputs.name }} \
             --allowedTools "WebSearch,WebFetch,Bash,Read,Write" \
             --permission-mode bypassPermissions \
             --max-turns 80
