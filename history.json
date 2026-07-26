@@ -2,18 +2,6 @@
   "items": [
     {
       "date": "2026-07-12",
-      "topic": "一番くじ Pokémon 30th ANNIVERSARY vol.2 7/18発売"
-    },
-    {
-      "date": "2026-07-12",
-      "topic": "ユニクロ×ポケモン UTコレクション第2弾 7/24発売"
-    },
-    {
-      "date": "2026-07-12",
-      "topic": "ワンピ 受け継がれる意志（OP-13）BOX相場"
-    },
-    {
-      "date": "2026-07-12",
       "topic": "ストームエメラルダ イオン抽選(7/12締切)",
       "price": "定価6000→期待値8500(予想)"
     },
@@ -479,6 +467,62 @@
       "date": "2026-07-26",
       "topic": "【続報・締切間近】JAL×ボンボンドロップシール LINE友だち追加登録が本日7/26締切(予約自体は7/27-29)",
       "price": "1210円/2枚セット→想定利益未確定(参考値:過去コラボ実績2500-8000程度)"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "ワンピ EB-05 エクストラブースター Heroines Edition Vol.2 10月発売予定(仕込み候補)",
+      "price": "定価未確認→人気女性キャラ集結、高騰の可能性(参考値)",
+      "url": "https://premium.gamepedia.jp/toreca/archives/136"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "一番くじ ハイキュー!! -烏野の未来- 8/15発売(仕込み候補)",
+      "price": "1回790円→ハイキュー系ラストワン賞過去平均11353円(参考値)",
+      "release_date": "2026-08-15",
+      "reminded": false,
+      "url": "https://hobby.dengeki.com/news/3082695"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "一番くじ 呪術廻戦5周年FINAL 9/26発売(仕込み候補)",
+      "price": "1回800円→相場未確定(参考値なし)",
+      "release_date": "2026-09-26",
+      "reminded": false,
+      "url": "https://jujutsukaisen.jp/goods/goods144_5th.php"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "シャドウバースEVOLVE アカデミー・ロワイヤル(ウマ娘コラボ) 7/31発売(仕込み候補)",
+      "price": "既存弾チェイスカード買取実績13000-35000円(参考値)",
+      "release_date": "2026-07-31",
+      "reminded": false,
+      "url": "https://news.denfaminicogamer.jp/news/2607222o"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "【続報】一番くじ鬼滅の刃 上弦の弐 ラストワン賞詳細判明(童磨MASTERLISE特別仕様)",
+      "release_date": "2026-07-30",
+      "reminded": false,
+      "url": "https://1kuji.com/products/kimetsu30"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "【続報】ストームエメラルダBOX エクストレカ定価抽選 締切間近(7/30)",
+      "price": "定価6000→相場34000前後",
+      "release_date": "2026-07-31",
+      "url": "https://gamenv.net/tc/stormemerald/"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "【雑貨】ボンボンドロップシール 梅田ロフト等4会場抽選 応募締切7/27",
+      "price": "定価550→過去実績数千円台(参考値)",
+      "url": "https://bondro-news.com/"
+    },
+    {
+      "date": "2026-07-26",
+      "topic": "honto初回利用キャンペーン",
+      "price": "550円→1000pt還元(実質450円黒字)",
+      "url": "https://point-chiritsumo.com/recommended-points-activities-news/"
     }
   ]
 }
