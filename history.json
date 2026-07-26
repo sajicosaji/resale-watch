@@ -76,7 +76,8 @@
       "topic": "ポケ ストームエメラルダ しまむらパーク抽選(7/19締切)",
       "price": "定価6000→相場36000",
       "release_date": "2026-07-31",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-15",
@@ -97,7 +98,8 @@
       "topic": "[警戒済]デジモン 新型デジヴァイス 8/1発売。旧デジヴァイス相場を訂正",
       "price": "旧型: 紹介時ヤフオク5-8万円→直近90日落札平均約1.7万円",
       "release_date": "2026-08-01",
-      "reminded": false
+      "reminded": false,
+      "url": "https://toy.bandai.co.jp/ja/item/01_20774/"
     },
     {
       "date": "2026-07-16",
@@ -113,7 +115,8 @@
       "date": "2026-07-16",
       "topic": "ゲオ抽選 MEGAスターターセットex イーブイex 仕込み候補(7/31発売)",
       "price": "定価1800→相場未確定(参考値なし)",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/me/"
     },
     {
       "date": "2026-07-17",
@@ -153,7 +156,8 @@
     {
       "date": "2026-07-17",
       "topic": "一番くじ 鬼滅の刃 上弦の弐 7/30発売(仕込み候補・童磨初MASTERLISE化)",
-      "release_date": "2026-07-30"
+      "release_date": "2026-07-30",
+      "url": "https://1kuji.com/products/kimetsu30"
     },
     {
       "date": "2026-07-18",
@@ -177,7 +181,8 @@
       "date": "2026-07-18",
       "topic": "一番くじ ワンピース エルバフ編 GIANT BASH!! Vol.2 8/8発売",
       "price": "1回770円→前作Vol.1実績:ラストワン賞15800円、D賞10000円、C賞3500円、A/B賞各2000円",
-      "release_date": "2026-08-08"
+      "release_date": "2026-08-08",
+      "url": "https://1kuji.com/products/onep104"
     },
     {
       "date": "2026-07-19",
@@ -223,7 +228,8 @@
       "date": "2026-07-19",
       "topic": "【サブ枠】ボンボンドロップシール新柄 8月中旬発売(オンライン8/18頃)",
       "price": "過去実績:ちょこみんボンボン フリマ2800円(定価比5倍)",
-      "release_date": "2026-08-18"
+      "release_date": "2026-08-18",
+      "url": "https://x.com/bonbon_drop/status/1955101938044833857"
     },
     {
       "date": "2026-07-19",
@@ -259,7 +265,8 @@
       "date": "2026-07-21",
       "topic": "ポケ ストームエメラルダ WonderGOO/新星堂/GANRYU店舗抽選(7/29締切)",
       "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-21",
@@ -274,7 +281,8 @@
     {
       "date": "2026-07-21",
       "topic": "【愛知】イオンモール東浦 ポケモンカード専門ストア新規オープン",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/info/004753.html"
     },
     {
       "date": "2026-07-21",
@@ -298,7 +306,8 @@
       "date": "2026-07-21",
       "topic": "【続報】ワンピ OP-17 世界最強の戦士 BOX予約価格判明(発売前から高額取引)",
       "price": "BOX定価想定5760→予約価格23600-28000",
-      "release_date": "2026-08-22"
+      "release_date": "2026-08-22",
+      "url": "https://one-piece.com/news/80565/index.html"
     },
     {
       "date": "2026-07-21",
@@ -314,7 +323,8 @@
       "date": "2026-07-22",
       "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 本日受付開始(7/22 14:00-7/24 23:59、関東/関西/北陸/四国)",
       "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-22",
@@ -333,31 +343,36 @@
       "topic": "ポケモン Poké-Charm 30周年ロゴマスコット(食玩) 仕込み候補",
       "price": "定価418→相場未確定(全20種+オーロラ仕様レアあり)",
       "release_date": "2026-08-24",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y111204"
     },
     {
       "date": "2026-07-23",
       "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 締切間近(7/24 23:59)",
       "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-23",
       "topic": "ストームエメラルダ ローソン店頭先着販売(新チャネル、抽選不要)",
       "price": "1パック200円→BOX相場換算で1パックあたり1000円前後",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-23",
       "topic": "【続報】ワンピ OP-17 世界最強の戦士 楽天市場でも取扱い開始",
       "price": "定価想定5760→予約相場23600-28000",
-      "release_date": "2026-08-22"
+      "release_date": "2026-08-22",
+      "url": "https://one-piece.com/news/80565/index.html"
     },
     {
       "date": "2026-07-23",
       "topic": "一番くじ ドラゴンボールGT 8/22発売 仕込み候補",
       "price": "1回790円→ドラゴンボール系ラストワン賞直近相場平均14387円(参考)",
-      "release_date": "2026-08-22"
+      "release_date": "2026-08-22",
+      "url": "https://1kuji.com/products/db_gt"
     },
     {
       "date": "2026-07-23",
@@ -384,13 +399,15 @@
       "date": "2026-07-23",
       "topic": "【サブ枠】ボンボンドロップシール 富山ファボーレPOP UP STORE(8/8-16開催)",
       "price": "過去実績ベース:定価550→2500-8000程度(参考)",
-      "release_date": "2026-08-08"
+      "release_date": "2026-08-08",
+      "url": "https://www.favore.jp/event/detail/?cd=001241"
     },
     {
       "date": "2026-07-23",
       "topic": "【続報】ストームエメラルダ カードショップ各社抽選(お宝創庫・ホビーステーション・晴れる屋2・イエローサブマリン等、7/26締切)",
       "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-23",
@@ -401,7 +418,8 @@
       "date": "2026-07-26",
       "topic": "ポケ ストームエメラルダ TSUTAYA各店LivePocket個店抽選(本日7/26 21:00締切)",
       "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31"
+      "release_date": "2026-07-31",
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-26",
@@ -411,7 +429,8 @@
       "date": "2026-07-26",
       "topic": "ドラゴンボールフュージョンワールド エナジーマーカー系 高額買取判明・8/8新弾STORY BOOSTER 01",
       "price": "エナジーマーカー1巻表紙200万、30巻表紙70万、ゴジータ:GT SCR★★55万",
-      "release_date": "2026-08-08"
+      "release_date": "2026-08-08",
+      "url": "https://www.dbs-cardgame.com/fw/jp/products/01_401.html"
     },
     {
       "date": "2026-07-26",
@@ -422,13 +441,15 @@
       "date": "2026-07-26",
       "topic": "【サブ枠】ジャンプSQ.2026年9月号 新テニスの王子様完結記念CD付録(8/4発売、複数書店で予約受付終了)",
       "price": "定価699円→予約殺到で入手困難の可能性(参考値)",
-      "release_date": "2026-08-04"
+      "release_date": "2026-08-04",
+      "url": "https://jumpsq.shueisha.co.jp/sq/yokoku.html"
     },
     {
       "date": "2026-07-26",
       "topic": "【サブ枠】ボンボンドロップシール新柄ユニコーン柄 8/18頃オンライン発売",
       "price": "過去実績ベース参考値",
-      "release_date": "2026-08-18"
+      "release_date": "2026-08-18",
+      "url": "https://x.com/bonbon_drop/status/1955101938044833857"
     },
     {
       "date": "2026-07-26",
@@ -444,13 +465,15 @@
       "date": "2026-07-26",
       "topic": "【先回り・広範囲スカウティング】Vジャンプ10月号 hololive宝鐘マリン/ガンダムカードゲームドモン・カッシュ付録カード。ジャンプ33号と同じ転売懸念がニュースで事前報道",
       "price": "定価未確認→ジャンプ33号前例(数千〜数万円)から高騰の可能性(参考値)",
-      "release_date": "2026-08-21"
+      "release_date": "2026-08-21",
+      "url": "https://x.com/GUNDAM_GCG_JP/status/2076962405335138517"
     },
     {
       "date": "2026-07-26",
       "topic": "【続報】Vジャンプ10月号 ONE PIECEカード「シャーロット・プリン」付録は中止確定。hololive宝鐘マリン・ガンダムドモンカッシュ付録は予定通り実施",
       "release_date": "2026-08-21",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.oricon.co.jp/news/2468550/full/"
     },
     {
       "date": "2026-07-26",

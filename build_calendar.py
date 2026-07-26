@@ -1,3 +1,4 @@
+import html
 import json
 import os
 from datetime import datetime, timedelta, timezone
@@ -27,10 +28,12 @@ def load_items():
                 d = datetime.strptime(rd, "%Y-%m-%d").date()
             except ValueError:
                 continue
+            url = it.get("url", "")
             items.append({
                 "date": d,
                 "topic": it.get("topic", ""),
                 "price": it.get("price", ""),
+                "url": url if url.startswith("http") else "",
                 "source": label,
                 "emoji": emoji,
                 "color": color,
@@ -47,7 +50,7 @@ def build_html(items):
         by_date = {}
         for it in group:
             by_date.setdefault(it["date"], []).append(it)
-        html = []
+        out = []
         for d in sorted(by_date.keys()):
             days_away = (d - TODAY).days
             if days_away == 0:
@@ -58,17 +61,22 @@ def build_html(items):
                 badge = f'<span class="badge">{days_away}日後</span>'
             else:
                 badge = f'<span class="badge past">{-days_away}日前</span>'
-            html.append(f'<div class="date-group"><h3>{d.strftime("%Y年%m月%d日")} ({["月","火","水","木","金","土","日"][d.weekday()]}) {badge}</h3>')
+            out.append(f'<div class="date-group"><h3>{d.strftime("%Y年%m月%d日")} ({["月","火","水","木","金","土","日"][d.weekday()]}) {badge}</h3>')
             for it in by_date[d]:
-                price_html = f'<div class="price">{it["price"]}</div>' if it["price"] else ""
-                html.append(f'''
+                price_html = f'<div class="price">{html.escape(it["price"])}</div>' if it["price"] else ""
+                topic_esc = html.escape(it["topic"])
+                if it["url"]:
+                    topic_html = f'<a class="topic-link" href="{html.escape(it["url"])}" target="_blank" rel="noopener">{topic_esc} 🔗</a>'
+                else:
+                    topic_html = topic_esc
+                out.append(f'''
                 <div class="item" style="border-left-color:{it['color']}">
                     <div class="source">{it['emoji']} {it['source']}</div>
-                    <div class="topic">{it['topic']}</div>
+                    <div class="topic">{topic_html}</div>
                     {price_html}
                 </div>''')
-            html.append('</div>')
-        return "\n".join(html)
+            out.append('</div>')
+        return "\n".join(out)
 
     upcoming_html = render_group(upcoming, "今後の予定はまだありません")
     past_html = render_group(past, "")
@@ -93,6 +101,9 @@ def build_html(items):
   .item {{ background: #fff; border-left: 5px solid #ccc; border-radius: 6px; padding: 10px 14px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }}
   .source {{ font-size: 12px; color: #666; font-weight: bold; }}
   .topic {{ font-size: 15px; margin-top: 2px; }}
+  .topic-link {{ color: #1660a8; text-decoration: none; }}
+  .topic-link:hover {{ text-decoration: underline; }}
+  @media (prefers-color-scheme: dark) {{ .topic-link {{ color: #6fb3ff; }} }}
   .price {{ font-size: 13px; color: #1d7a4f; margin-top: 4px; font-weight: bold; }}
   .empty {{ color: #999; }}
   @media (prefers-color-scheme: dark) {{

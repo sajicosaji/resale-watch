@@ -5,7 +5,8 @@
       "topic": "一番くじワンピース エルバフ編 GIANT BASH!! Vol.2（セブン-イレブン他、8月8日発売）",
       "price": "790円→ラストワン賞相場15,800円前後（前弾実績）、他フィギュア3,000〜13,000円",
       "release_date": "2026-08-08",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/onep104"
     },
     {
       "date": "2026-07-15",
@@ -18,77 +19,88 @@
       "topic": "一番くじ 鬼滅の刃 ～上弦の弐～（ローソン他、7月30日発売）",
       "price": "790円→ラストワン賞相場10,000〜20,000円（過去シリーズ実績ベース）",
       "release_date": "2026-07-30",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/kimetsu30"
     },
     {
       "date": "2026-07-15",
       "topic": "ONE PIECEカードゲーム ブースターパック「世界最強の戦士」OP-17（4周年記念パック、全国発売）",
       "price": "BOX想定5,500〜6,500円→当たり封入BOXは1万円超の可能性",
       "release_date": "2026-08-22",
-      "reminded": false
+      "reminded": false,
+      "url": "https://one-piece.com/news/80565/index.html"
     },
     {
       "date": "2026-07-15",
       "topic": "一番くじ KINGDOM HEARTS -25th Anniversary-（セブン-イレブン他、8月15日発売）",
       "price": "790円→ラストワン賞リクスタチュー等、相場データ薄いが化ける可能性あり（推測ベース）",
       "release_date": "2026-08-15",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/disney_kh5"
     },
     {
       "date": "2026-07-15",
       "topic": "一番くじ ドラゴンボールGT（ローソン、8月22日発売）",
       "price": "790円→ラストワン賞相場10,000〜15,000円前後（直近シリーズ実績・Yahoo!オークション120日平均15,505円）",
       "release_date": "2026-08-22",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/db_gt"
     },
     {
       "date": "2026-07-15",
       "topic": "一番くじ ハイキュー!! -烏野の未来-（ローソン、8月15日発売）",
       "price": "790円→ラストワン賞月島蛍フィギュア、相場目安3,000〜8,000円程度",
       "release_date": "2026-08-15",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/haikyu32"
     },
     {
       "date": "2026-07-15",
       "topic": "ポケモンカードMEGA拡張パック「ストームエメラルダ」（メガレックウザexパック、セブンイレブン先着販売）",
       "price": "定価6,000円(BOX)→発売前フリマ相場4〜5万円、当たりMUR初動買取予想12万円（供給増後は反動安の可能性あり、即買い即売り推奨）",
       "release_date": "2026-07-31",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-16",
       "topic": "ポケモンカードMEGA拡張パック「30th CELEBRATION」（ポケカ30周年記念、全カードキラ仕様・新レアリティFUR初登場、セブンイレブン等で先着販売の可能性）",
       "price": "価格・入荷未確定（推測ベース）。25周年記念パックは当時高騰し現在も高値維持の実績あり",
       "release_date": "2026-09-16",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.30th.pokemon-card.com/product/m6a"
     },
     {
       "date": "2026-07-16",
       "topic": "ポケモンカード MEGA スターターセットex 3種（イーブイex/ゾロア&ゾロアークex/ニャオハ&マスカーニャex）",
       "price": "各1,800円→相場データ薄い（MEGA第1弾の構築済みデッキ、化ける可能性ありの推測ベース）",
       "release_date": "2026-07-31",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.pokemon-card.com/ex/me/"
     },
     {
       "date": "2026-07-17",
       "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」ファミリーマート オンライン抽選予約（申込7/20締切・当選発表7/22・店舗受取8/7〜8/20）",
       "price": "定価6,000円→BOX買取相場シュリンクあり19,800円前後/シュリンクなし15,300円前後（発売時点予想）、当たりのメガレックウザexMURは買取8万円超予想",
       "release_date": "2026-07-31",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.pokemon-card.com/ex/m6/"
     },
     {
       "date": "2026-07-18",
       "topic": "一番くじ アニメ『呪術廻戦』5周年FINAL！（ファミリーマート他、ラストワン賞は五条悟MASTERLISE）",
       "price": "800円→過去シリーズ(死滅回游)ラストワン賞買取実績3,000〜22,000円、人気No.1キャラの最終章で上振れ期待（推測ベース）",
       "release_date": "2026-09-26",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/jujutsu15"
     },
     {
       "date": "2026-07-18",
       "topic": "一番くじ 劇場版『チェンソーマン レゼ篇』第2弾（ローソン他、ラストワン賞はチェンソーマン＆ビームMEGAIMPACT）",
       "price": "880円→前作(レゼ篇第1弾)ラストワン賞買取実績18,000〜28,000円、続編も高値期待（推測ベース）",
       "release_date": "2026-09-18",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/chainsawman3"
     },
     {
       "date": "2026-07-19",
@@ -102,56 +114,64 @@
       "topic": "一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売）",
       "price": "850円→前弾ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)買取相場11,000〜17,000円台（推測ベース、今弾も同水準期待）",
       "release_date": "2026-08-29",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/hxh11"
     },
     {
       "date": "2026-07-21",
       "topic": "一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-（ファミリーマート他、9月12日発売）",
       "price": "790円→ヒロアカ一番くじ過去相場1,300〜8,400円程度、10周年記念の豪華ラインナップで上振れ期待（推測ベース）",
       "release_date": "2026-09-12",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/myhero47"
     },
     {
       "date": "2026-07-21",
       "topic": "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS（ローソン他、11月21日発売）",
       "price": "850円→相場データ薄い。歴代ライバル7人(DIO・カーズ・ディアボロ等)集結の豪華ラインナップで人気集中の可能性（推測ベース）",
       "release_date": "2026-11-21",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/jojo_26"
     },
     {
       "date": "2026-07-21",
       "topic": "一番くじ 勝利の女神：NIKKE CHAPTER8（ローソン、8月8日発売）",
       "price": "850円→過去チャプターのラストワン賞買取実績7,000円前後（推測ベース、水着フィギュア一番くじ初登場）",
       "release_date": "2026-08-08",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=nikke8&grp_id=9999"
     },
     {
       "date": "2026-07-22",
       "topic": "一番くじ 夏目友人帳 雨の日も、晴れの日も。（ファミリーマート他、8月14日発売）",
       "price": "760円→ラストワン賞ニャンコ先生日焼けぬいぐるみ、過去シリーズ実績120日平均5,222円（Yahoo!オークション、最高26,980円）",
       "release_date": "2026-08-14",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/natsume48"
     },
     {
       "date": "2026-07-22",
       "topic": "一番くじ メイドインアビス（ミニストップ他、10月31日発売）",
       "price": "850円→A賞・ラストワン賞ともにボンドルドMASTERLISE、相場データ薄いがMASTERLISEブランドは高額傾向（推測ベース）",
       "release_date": "2026-10-31",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/miabyss"
     },
     {
       "date": "2026-07-22",
       "topic": "一番くじ ONE PIECE -空に奏でる\"島の歌声\"-（コンビニ各社、10月29日発売）",
       "price": "850円→A〜D賞はルフィ・ナミ・モンブラン・クリケット・ワイパーの全てMASTERLISE EXPIECE、ラストワン賞未発表。過去のMASTERLISE系ワンピくじ実績（1万〜2万円台）から化ける可能性あり（推測ベース）",
       "release_date": "2026-10-29",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/onep_o12"
     },
     {
       "date": "2026-07-23",
       "topic": "一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他、8月29日発売）",
       "price": "790円→過去のエヴァ系一番くじはラストワン賞フリマ相場14,500円〜（買取〜10,000円）、A賞も7,000円〜の実績（推測ベース、当シリーズのラストワン賞は未発表）",
       "release_date": "2026-08-29",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/eva19"
     },
     {
       "date": "2026-07-26",
@@ -165,21 +185,24 @@
       "topic": "【続報】一番くじ ドラゴンボールGT（ローソン他）ラストワン賞判明：THE GIGANT NAME（ロゴ約36cm立体化）",
       "price": "790円→前弾GIANT BASH系ラストワン賞実績（メルカリ1.6万円前後/買取1〜1.3万円）から高額化期待（推測ベース）",
       "release_date": "2026-08-22",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/db_gt"
     },
     {
       "date": "2026-07-26",
       "topic": "一番くじ 銀魂 生誕20周年記念 銀魂展～はたちのつどい～その弐（ローソン他）",
       "price": "800円→相場データ薄い。ラストワン賞はモノクロカラーEdition＋ロゴフィギュア（推測ベース）",
       "release_date": "2026-08-21",
-      "reminded": false
+      "reminded": false,
+      "url": "https://1kuji.com/products/gintama22"
     },
     {
       "date": "2026-07-26",
       "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」ローソン販売方法確定（7/31朝7時〜先着、なくなり次第終了）",
       "price": "1パック200円→既報の高値相場（供給拡大後は下落リスクあり、朝一仕込み即売り推奨）",
       "release_date": "2026-07-31",
-      "reminded": false
+      "reminded": false,
+      "url": "https://www.lawson.co.jp/lab/entertainment/art/20260721_toypokemon.html"
     }
   ]
 }
