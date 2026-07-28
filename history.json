@@ -134,6 +134,7 @@
       "date": "2026-07-17",
       "topic": "一番くじ 鬼滅の刃 上弦の弐 7/30発売(仕込み候補・童磨初MASTERLISE化)",
       "release_date": "2026-07-30",
+      "reminded": true,
       "url": "https://1kuji.com/products/kimetsu30"
     },
     {
@@ -487,7 +488,7 @@
       "date": "2026-07-26",
       "topic": "【続報】一番くじ鬼滅の刃 上弦の弐 ラストワン賞詳細判明(童磨MASTERLISE特別仕様)",
       "release_date": "2026-07-30",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/kimetsu30"
     },
     {
@@ -656,6 +657,14 @@
       "reminded": false,
       "url": "https://mobile.suntory.co.jp/cpn/rtd/196/K26071961/",
       "deadline": "2026-08-12"
+    },
+    {
+      "date": "2026-07-29",
+      "topic": "ポケ ストームエメラルダBOX カーナベル抽選(新チャネル、7/31 23:59締切)。応募はGoogleフォーム、カーナベルでの購入履歴(応募時と同じメールアドレス)が条件",
+      "price": "定価6000→相場32000-36000",
+      "release_date": "2026-07-31",
+      "url": "https://www.ka-nabell.com/",
+      "deadline": "2026-07-31"
     }
   ]
 }
