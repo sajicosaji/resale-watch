@@ -19,7 +19,7 @@
       "topic": "一番くじ 鬼滅の刃 ～上弦の弐～（ローソン他、7月30日発売）",
       "price": "850円（公式確認済み）→ラストワン賞相場10,000〜20,000円（過去シリーズ実績ベース）",
       "release_date": "2026-07-30",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/kimetsu30"
     },
     {
@@ -242,7 +242,7 @@
       "topic": "【続報】一番くじ 鬼滅の刃 ～上弦の弐～（ローソン他）ラストワン賞判明：童磨 MASTERLISE ラストワンver.",
       "price": "850円→過去シリーズ実績10,000〜20,000円台（推測ベース）",
       "release_date": "2026-07-30",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/kimetsu30"
     },
     {
@@ -266,6 +266,22 @@
       "release_date": "2026-08-15",
       "reminded": false,
       "url": "https://game.watch.impress.co.jp/docs/news/2119951.html"
+    },
+    {
+      "date": "2026-07-29",
+      "topic": "一番くじ クレヨンしんちゃん 夏のバケーションだゾ（ミニストップ・デイリーヤマザキ他、8月8日発売）",
+      "price": "700円（公式確認済み）→ラストワン賞ペンギンしんちゃんぬいぐるみ(約30cm)、シリーズ過去落札平均5,058円程度（推測ベース、化ける可能性あり）",
+      "release_date": "2026-08-08",
+      "reminded": false,
+      "url": "https://1kuji.com/products/shinchan13"
+    },
+    {
+      "date": "2026-07-29",
+      "topic": "【続報】一番くじ 勝利の女神：NIKKE CHAPTER8（ローソン他）ラストワン賞判明：エレグ：ブーム・アンド・ショック フィギュアTOPfocus",
+      "price": "850円→水着フィギュア人気シリーズ、過去チャプター実績7,000円前後（推測ベース）",
+      "release_date": "2026-08-08",
+      "reminded": false,
+      "url": "https://1kuji.com/products/nikke8"
     }
   ]
 }
