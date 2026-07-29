@@ -52,23 +52,14 @@
       "topic": "ポケ ストームエメラルダ しまむらパーク抽選(7/19締切)",
       "price": "定価6000→相場36000",
       "release_date": "2026-07-31",
-      "reminded": false,
+      "reminded": true,
       "url": "https://www.pokemon-card.com/ex/m6/",
       "deadline": "2026-07-19"
     },
     {
       "date": "2026-07-15",
-      "topic": "【続報】ラウンドワン×ONE PIECEコラボ プロモパック配布ルール確定(7/18〜10/17、転売禁止明記)",
-      "price": "コラボメニュー1品→プロモ1枚(1日5枚上限)"
-    },
-    {
-      "date": "2026-07-15",
       "topic": "[警戒済]ジャンプ33号 付録ルフィカード 転売相場混乱・買取停止続出",
       "price": "単品相場1000-2000円に急落、一部店舗買取1円で実質停止"
-    },
-    {
-      "date": "2026-07-15",
-      "topic": "LINE無料引換 チョコモナカジャンボ セブンイレブン(フコク生命) 7/31締切"
     },
     {
       "date": "2026-07-16",
@@ -93,6 +84,7 @@
       "topic": "MEGAスターターセットex 3種(イーブイex/ゾロア&ゾロアークex/ニャオハ&マスカーニャex) 7/31発売 仕込み候補。※ゲオのネット抽選は受付終了済み(応募ページは現在「受付中の抽選はありません」表示)なので、7/31の店頭発売を狙う",
       "price": "各定価1800→相場未確定(参考値なし)",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://www.pokemon-card.com/ex/me/"
     },
     {
@@ -243,6 +235,7 @@
       "topic": "[訂正済]ポケ ストームエメラルダ WonderGOO/新星堂/GANRYU抽選。※チェーン共通の抽選は7/20 20:59で受付終了済み。7/29 23:59まで応募できるのは個別店舗が独自に実施している分(確認できたのはWonderGOO端江店。応募は店舗の専用オンラインフォーム、当選発表7/30、購入7/31〜8/2 20:59、お一人様1BOXまで)。以前記載の「チェーン全店が7/29締切」「オンライン一括応募なし・店頭掲示のQRコードのみ」はいずれも誤り",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://www.pokemon-card.com/ex/m6/",
       "deadline": "2026-07-29"
     },
@@ -260,6 +253,7 @@
       "date": "2026-07-21",
       "topic": "[訂正済]【愛知】イオンモール東浦 1Fセントラルコートに「ポケモンカードストア」出店。※常設の新規オープンではなく7/31〜8/16の期間限定ポップアップ(公式お知らせで確認)",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://www.pokemon-card.com/info/004753.html"
     },
     {
@@ -302,6 +296,7 @@
       "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 本日受付開始(7/22 14:00-7/24 23:59、渋谷/スカイツリータウン/横浜/大阪/大阪DX/京都/金沢/香川。応募は全期間通して1人1店舗のみ)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://shop.pokemon.co.jp/ja/shop/common/news/202607/000393.html",
       "deadline": "2026-07-24"
     },
@@ -330,6 +325,7 @@
       "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 締切間近(7/24 23:59、当選発表7/28 12:00〜)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://shop.pokemon.co.jp/ja/shop/common/news/202607/000393.html",
       "deadline": "2026-07-24"
     },
@@ -338,6 +334,7 @@
       "topic": "ストームエメラルダ ローソン店頭先着販売(新チャネル、抽選不要)",
       "price": "1パック200円→BOX相場換算で1パックあたり1000円前後",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://www.lawson.co.jp/lab/entertainment/art/20260721_toypokemon.html"
     },
     {
@@ -384,7 +381,8 @@
       "links": [
         {"label": "お宝創庫", "url": "https://www.otakarasouko.com/app/", "app": "お宝創庫グループアプリ"}
       ],
-      "deadline": "2026-07-23"
+      "deadline": "2026-07-23",
+      "reminded": true
     },
     {
       "date": "2026-07-23",
@@ -398,7 +396,8 @@
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
       "url": "https://shibuyatsutaya.tsite.jp/article/2356.html",
-      "deadline": "2026-07-26"
+      "deadline": "2026-07-26",
+      "reminded": true
     },
     {
       "date": "2026-07-26",
@@ -496,6 +495,7 @@
       "topic": "【続報】ストームエメラルダBOX エクストレカ定価抽選 締切間近(7/30 23:59)。応募は会員登録+SMS認証のうえ対象の無料オリパを引くだけ(費用なし)。リンクはエクストレカオリパ公式トップ",
       "price": "定価6000→相場34000前後",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://oripa.ex-toreca.com/",
       "deadline": "2026-07-30"
     },
@@ -549,6 +549,7 @@
       "topic": "ポケ ストームエメラルダ/MEGAスターターセットex フルコンプ店舗抽選(本日7/27 23:59締切)",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://www.fullcomp.jp/",
       "deadline": "2026-07-27"
     },
@@ -608,6 +609,7 @@
       "topic": "【続報・締切間近】ポケ ストームエメラルダBOX エクストレカ定価抽選(7/30 23:59締切、無料応募)",
       "price": "定価6000→相場34000前後",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://oripa.ex-toreca.com/",
       "deadline": "2026-07-30"
     },
@@ -663,6 +665,7 @@
       "topic": "ポケ ストームエメラルダBOX カーナベル抽選(新チャネル、7/31 23:59締切)。応募はGoogleフォーム、カーナベルでの購入履歴(応募時と同じメールアドレス)が条件",
       "price": "定価6000→相場32000-36000",
       "release_date": "2026-07-31",
+      "reminded": true,
       "url": "https://www.ka-nabell.com/",
       "deadline": "2026-07-31"
     },
@@ -691,6 +694,46 @@
       "price": "1枚550円・全12種",
       "url": "https://livepocket.jp/e/uzjnm",
       "deadline": "2026-07-30"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【新ジャンル】ジャパニーズウイスキー限定品抽選 イオン九州/ザ・ビッグ(山崎12年・白州12年、iAEONアプリ抽選)",
+      "price": "定価16,500円→相場30,000-60,000円",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-02"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【新ジャンル】ジャパニーズウイスキー限定品抽選 イオンスタイル下鶴間(響21年・山崎18年・白州18年、Web抽選)",
+      "price": "相場20,000-60,000円(銘柄により変動)",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-03"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "ジャパニーズウイスキー限定品抽選 ゆめオンライン(ゆめカードクレジット会員限定、山崎/白州、Web抽選)",
+      "price": "定価16,500-17,600円→相場30,000-60,000円",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-16"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【続報】ワンピ OP-17 世界最強の戦士 BOX予約 新チャネル(Amazon招待制抽選受付中、カードラボ店頭先着受付中)",
+      "price": "BOX定価5760→予約時点相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://www.famitsu.com/article/202606/79258"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "[早期注意]ワンピ OP-13受け継がれる意志BOX 上昇ペースが鈍化",
+      "price": "7/28市場価格26500(30日+20.45%)→7/30時点24999(30日+9.89%)。小幅反落"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "Amazon Payチャージ特典(ふるさと納税決済にも使用可)",
+      "price": "10,000円チャージ→2,000円分ポイント還元(20%還元)。2026年12月31日までだが早期終了の可能性あり",
+      "url": "https://happynap.net/rewards-act-for-time-and-value-picks",
+      "deadline": "2026-12-31"
     }
   ]
 }
