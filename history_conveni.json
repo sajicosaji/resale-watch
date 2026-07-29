@@ -10,12 +10,6 @@
     },
     {
       "date": "2026-07-15",
-      "topic": "週刊少年ジャンプ33号 ワンピース連載29周年記念プロモカード（ルフィ）",
-      "price": "300円→カード単体1,000〜3,000円、本誌ごと1,000〜4,000円",
-      "reminded": false
-    },
-    {
-      "date": "2026-07-15",
       "topic": "一番くじ 鬼滅の刃 ～上弦の弐～（ローソン他、7月30日発売）",
       "price": "850円（公式確認済み）→ラストワン賞相場10,000〜20,000円（過去シリーズ実績ベース）",
       "release_date": "2026-07-30",
@@ -60,7 +54,7 @@
       "price": "定価6,000円(BOX)→未開封BOX買取相場34,000円前後（2026年7月時点で再確認。以前記載の「フリマ4〜5万円/MUR買取12万円」は裏取りできなかったため下方修正。供給増後は反動安の可能性あり、即買い即売り推奨）",
       "release_date": "2026-07-31",
       "url": "https://www.pokemon-card.com/ex/m6/",
-      "reminded": false
+      "reminded": true
     },
     {
       "date": "2026-07-16",
@@ -75,7 +69,7 @@
       "topic": "ポケモンカード MEGA スターターセットex 3種（イーブイex/ゾロア&ゾロアークex/ニャオハ&マスカーニャex）",
       "price": "各1,800円→相場データ薄い（MEGA第1弾の構築済みデッキ、化ける可能性ありの推測ベース）",
       "release_date": "2026-07-31",
-      "reminded": false,
+      "reminded": true,
       "url": "https://www.pokemon-card.com/ex/me/"
     },
     {
@@ -83,7 +77,7 @@
       "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」ファミリーマート オンライン抽選予約（申込7/20締切・当選発表7/22・店舗受取8/7〜8/20）",
       "price": "定価6,000円→【注意】シュリンクあり19,800円/なし15,300円という数字は「発売後に供給が増えた場合の下落予想」であって現在の相場ではない。2026年7月時点の未開封BOX買取相場は34,000円前後（PRICE BASE）。当たりのメガレックウザexMURは買取8万円超予想（あくまで予想値）",
       "release_date": "2026-07-31",
-      "reminded": false,
+      "reminded": true,
       "url": "https://www.pokemon-card.com/ex/m6/",
       "deadline": "2026-07-20"
     },
@@ -202,7 +196,7 @@
       "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」ローソン販売方法確定（7/31金 朝7時〜先着、なくなり次第終了。予約・取り置き不可、お一人様10パックまで＝公式ページで確認）",
       "price": "1パック200円→既報の高値相場（供給拡大後は下落リスクあり、朝一仕込み即売り推奨）",
       "release_date": "2026-07-31",
-      "reminded": false,
+      "reminded": true,
       "url": "https://www.lawson.co.jp/lab/entertainment/art/20260721_toypokemon.html"
     },
     {
@@ -226,7 +220,7 @@
       "topic": "【続報】ポケモンカードMEGA スターターセットex 3種 ローソン販売方法確定（7/31金7時〜先着、1人1個まで）",
       "price": "各1,800円→相場データ薄いが即完売の可能性あり（推測ベース）",
       "release_date": "2026-07-31",
-      "reminded": false,
+      "reminded": true,
       "url": "https://www.lawson.co.jp/lab/entertainment/art/20260721_toypokest.html"
     },
     {
@@ -282,6 +276,22 @@
       "release_date": "2026-08-08",
       "reminded": false,
       "url": "https://1kuji.com/products/nikke8"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【続報】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他）ラストワン賞判明：ビスケット=クルーガー MASTERLISE EXTRA",
+      "price": "850円→前作(GREED ISLAND①)ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)は買取15,636円の実績あり（もえたく、2026-07-30時点。今弾も同水準期待、推測ベース）",
+      "release_date": "2026-08-29",
+      "reminded": false,
+      "url": "https://game.watch.impress.co.jp/docs/news/2126806.html"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」当たりカード「メガレックウザex」MUR買取予想判明（明日7/31発売）",
+      "price": "1パック200円→メガレックウザexMURは発売前予想で買取14万円前後・相場20万円前後（スニーカーダンク調べ、あくまで発売前予想で確定値ではない）",
+      "release_date": "2026-07-31",
+      "reminded": true,
+      "url": "https://snkrdunk.com/articles/32646/"
     }
   ]
 }
