@@ -220,7 +220,7 @@
       "topic": "一番くじ『ミニオンズ＆モンスターズ』（ローソン他、8月1日発売）",
       "price": "730円→相場データ薄いが世界的人気キャラで一定需要期待、ラストワン賞はジェームズぬいぐるみ（推測ベース）",
       "release_date": "2026-08-01",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/minions11"
     },
     {
@@ -236,7 +236,7 @@
       "topic": "一番くじ 日曜劇場「VIVANT」（ファミリーマート他、8月1日発売）",
       "price": "790円→相場データ薄い。社会現象を起こした人気ドラマの一番くじ化は珍しく、話題性から化ける可能性あり（推測ベース）。ラストワン賞はVIVANT THE GREAT NAME（約29cmロゴフィギュア）",
       "release_date": "2026-08-01",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/vivant"
     },
     {
@@ -315,6 +315,22 @@
       "price": "790円→前作「序」の実績（フリマ相場14,500円前後）を踏まえ同水準期待（推測ベース）",
       "reminded": false,
       "url": "https://hobby.watch.impress.co.jp/docs/news/2125654.html"
+    },
+    {
+      "date": "2026-07-31",
+      "topic": "一番くじ 春秋戦国大戦キングダム The Animation 知と武の両輪（ローソン他、7月31日本日発売）",
+      "price": "790円→ラストワン賞は楊端和MASTERLISE（約25cm、山の民の王を初立体化）。相場データ薄いが初立体化の希少性から人気化の可能性（推測ベース）",
+      "release_date": "2026-07-31",
+      "reminded": false,
+      "url": "https://1kuji.com/products/kingdom6"
+    },
+    {
+      "date": "2026-07-31",
+      "topic": "一番くじ ドラゴンボール Fantastic Adventure 3（ファミリーマート他、11月28日発売）",
+      "price": "800円→ラストワン賞は孫悟空＆ブルマ フィギュア（初対面シーン）、A賞は牛魔王の車フィギュア。ドラゴンボール系ラストワン賞の過去実績は120日平均15,505円（Yahoo!オークション、シリーズ全体の平均値・推測ベース）",
+      "release_date": "2026-11-28",
+      "reminded": false,
+      "url": "https://1kuji.com/products/db_fa3"
     }
   ]
 }
