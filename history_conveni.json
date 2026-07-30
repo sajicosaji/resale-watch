@@ -10,14 +10,6 @@
     },
     {
       "date": "2026-07-15",
-      "topic": "一番くじ 鬼滅の刃 ～上弦の弐～（ローソン他、7月30日発売）",
-      "price": "850円（公式確認済み）→ラストワン賞相場10,000〜20,000円（過去シリーズ実績ベース）",
-      "release_date": "2026-07-30",
-      "reminded": true,
-      "url": "https://1kuji.com/products/kimetsu30"
-    },
-    {
-      "date": "2026-07-15",
       "topic": "ONE PIECEカードゲーム ブースターパック「世界最強の戦士」OP-17（4周年記念パック、全国発売）",
       "price": "1パック240円(公式確認済)×24パック＝BOX定価5,760円→発売前の予約相場23,600〜28,000円",
       "release_date": "2026-08-22",
@@ -292,6 +284,37 @@
       "release_date": "2026-07-31",
       "reminded": true,
       "url": "https://snkrdunk.com/articles/32646/"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "一番くじ カグラバチ（セブン-イレブン、東京都内一部店舗、10月24日発売）",
+      "price": "850円→景品ラインナップ・ラストワン賞は未発表。次にくるマンガ大賞2024で1位を獲得した大人気作で、発表前から品薄化の可能性あり（推測ベース）",
+      "release_date": "2026-10-24",
+      "reminded": false,
+      "url": "https://1kuji.com/products/kagurabachi"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【続報】一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他）ラストワン賞判明：初号機 Last One ver.（メタリック仕上げ）フィギュア",
+      "price": "850円→過去シリーズ実績でラストワン賞フリマ相場14,500円前後・買取10,000円前後（推測ベース）",
+      "release_date": "2026-08-29",
+      "reminded": false,
+      "url": "https://1kuji.com/topics/7063"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【続報】一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS（ローソン他）ラストワン賞判明：ディエゴ・ブランドー MASTERLISE",
+      "price": "850円→同系統MASTERLISEフィギュアの買取実績2,400〜3,600円（ディアボロ・カーズの実例、DIOやディアボロより知名度が下がるため確度中程度）",
+      "release_date": "2026-11-21",
+      "reminded": false,
+      "url": "https://1kuji.com/products/jojo_26"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "一番くじ ヱヴァンゲリヲン新劇場版：破（コンビニ各社想定、12月発売）ラストワン賞：エヴァ2号機フィギュア",
+      "price": "790円→前作「序」の実績（フリマ相場14,500円前後）を踏まえ同水準期待（推測ベース）",
+      "reminded": false,
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2125654.html"
     }
   ]
 }
