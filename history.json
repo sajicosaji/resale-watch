@@ -406,8 +406,8 @@
     },
     {
       "date": "2026-07-26",
-      "topic": "ドラゴンボールフュージョンワールド エナジーマーカー系 高額買取判明・8/8新弾STORY BOOSTER 01",
-      "price": "[訂正済]エナジーマーカーPパラレル買取相場(magi集計):最高は幼少期悟飯38000円、ブロリー20000円、悟空18000円。※以前記載していた「1巻表紙200万/30巻表紙70万」は複数情報源で裏取りできなかったため撤回",
+      "topic": "[警戒済]ドラゴンボールフュージョンワールド エナジーマーカー系 高額買取判明・8/8新弾STORY BOOSTER 01",
+      "price": "[訂正済]エナジーマーカーPパラレル買取相場(magi集計):最高は幼少期悟飯38000円、ブロリー20000円、悟空18000円。※以前記載していた「1巻表紙200万/30巻表紙70万」は複数情報源で裏取りできなかったため撤回。※7/30再確認:幼少期悟飯パラレルはもえたく買取16500円(-56%、ただし別買取店・条件差の可能性あり参考値扱い)",
       "release_date": "2026-08-08",
       "url": "https://www.dbs-cardgame.com/fw/jp/products/01_401.html"
     },
@@ -480,7 +480,7 @@
       "topic": "シャドウバースEVOLVE アカデミー・ロワイヤル 7/31発売(仕込み候補)。※訂正:ウマ娘コラボは本弾ではなく10/2発売の次弾「Over the Calamity」に収録(ハルウララ/オグリキャップ等)",
       "price": "既存弾チェイスカード買取実績13000-35000円(参考値)",
       "release_date": "2026-07-31",
-      "reminded": false,
+      "reminded": true,
       "url": "https://news.denfaminicogamer.jp/news/2607222o"
     },
     {
@@ -734,6 +734,27 @@
       "price": "10,000円チャージ→2,000円分ポイント還元(20%還元)。2026年12月31日までだが早期終了の可能性あり",
       "url": "https://happynap.net/rewards-act-for-time-and-value-picks",
       "deadline": "2026-12-31"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【新ジャンル】ジャパニーズウイスキー限定品抽選 サントリー公式 白州Story of the Distillery 2026追加抽選(本日応募開始)",
+      "price": "定価17,600円→相場30,000-60,000円",
+      "url": "https://www.suntory.co.jp/whisky/hakushu/kurashi/20260730/",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "【続報】一番くじ鬼滅の刃 上弦の弐 発売後相場判明(一番くじONLINE/公式ショップのみでコンビニ販売なし)",
+      "price": "850円→A/C賞MASTERLISEフィギュア相場15000-16000円(買取11000-11500円)",
+      "url": "https://1kuji.com/products/kimetsu30"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "一番くじ KINGDOM HEARTS -25th Anniversary- 8/15発売(仕込み候補)",
+      "price": "790円→相場未確定(参考値なし、Disney25周年記念で人気IP)",
+      "release_date": "2026-08-15",
+      "reminded": false,
+      "url": "https://1kuji.com/products/disney_kh5"
     }
   ]
 }
