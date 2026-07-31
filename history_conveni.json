@@ -41,37 +41,12 @@
       "url": "https://1kuji.com/products/haikyu32"
     },
     {
-      "date": "2026-07-15",
-      "topic": "ポケモンカードMEGA拡張パック「ストームエメラルダ」（メガレックウザexパック、セブンイレブン先着販売）",
-      "price": "定価6,000円(BOX)→未開封BOX買取相場34,000円前後（2026年7月時点で再確認。以前記載の「フリマ4〜5万円/MUR買取12万円」は裏取りできなかったため下方修正。供給増後は反動安の可能性あり、即買い即売り推奨）",
-      "release_date": "2026-07-31",
-      "url": "https://www.pokemon-card.com/ex/m6/",
-      "reminded": true
-    },
-    {
       "date": "2026-07-16",
       "topic": "ポケモンカードMEGA拡張パック「30th CELEBRATION」（ポケカ30周年記念、全カードキラ仕様・新レアリティFUR初登場、セブンイレブン等で先着販売の可能性）",
       "price": "1パック360円（税込・公式確認済み、キラカード6枚入り）→入荷未確定（推測ベース）。25周年記念パックは当時高騰し現在も高値維持の実績あり",
       "release_date": "2026-09-16",
       "reminded": false,
       "url": "https://www.30th.pokemon-card.com/product/m6a"
-    },
-    {
-      "date": "2026-07-16",
-      "topic": "ポケモンカード MEGA スターターセットex 3種（イーブイex/ゾロア&ゾロアークex/ニャオハ&マスカーニャex）",
-      "price": "各1,800円→相場データ薄い（MEGA第1弾の構築済みデッキ、化ける可能性ありの推測ベース）",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://www.pokemon-card.com/ex/me/"
-    },
-    {
-      "date": "2026-07-17",
-      "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」ファミリーマート オンライン抽選予約（申込7/20締切・当選発表7/22・店舗受取8/7〜8/20）",
-      "price": "定価6,000円→【注意】シュリンクあり19,800円/なし15,300円という数字は「発売後に供給が増えた場合の下落予想」であって現在の相場ではない。2026年7月時点の未開封BOX買取相場は34,000円前後（PRICE BASE）。当たりのメガレックウザexMURは買取8万円超予想（あくまで予想値）",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://www.pokemon-card.com/ex/m6/",
-      "deadline": "2026-07-20"
     },
     {
       "date": "2026-07-18",
@@ -331,6 +306,14 @@
       "release_date": "2026-11-28",
       "reminded": false,
       "url": "https://1kuji.com/products/db_fa3"
+    },
+    {
+      "date": "2026-08-01",
+      "topic": "一番くじ 進撃の巨人 ～心臓を捧げよ～（ローソン他、ラストワン賞：リヴァイ～人類最強の兵士～MASTERLISE騎馬フィギュア）",
+      "price": "850円→リヴァイ関連ラストワン賞はYahoo!オークション120日平均7,732円、他の巨人フィギュア系ラストワン賞は2〜3万円台の実績も（参考値）",
+      "release_date": "2026-10-24",
+      "reminded": false,
+      "url": "https://1kuji.com/products/shingeki16"
     }
   ]
 }
