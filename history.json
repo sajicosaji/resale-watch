@@ -391,7 +391,8 @@
       "topic": "【サブ枠】ジャンプSQ.2026年9月特大号 新テニスの王子様完結(8/4発売)。特別付録は許斐剛feat.テニプリファミリアの新曲CD『ラケットに想い出詰め込んで』(総勢143名参加)+メモリアルポストカード10枚セット。複数書店で予約受付終了",
       "price": "特別価格700円(公式次号予告で確認)→予約殺到で入手困難の可能性(参考値)",
       "release_date": "2026-08-04",
-      "url": "https://jumpsq.shueisha.co.jp/sq/yokoku.html"
+      "url": "https://jumpsq.shueisha.co.jp/sq/yokoku.html",
+      "reminded": true
     },
     {
       "date": "2026-07-26",
@@ -860,6 +861,50 @@
       "release_date": "2026-08-21",
       "reminded": false,
       "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=gintama22&grp_id=9999"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX予約 プレミアムバンダイ抽選 締切間近(明日8/4 23:00締切)",
+      "price": "定価5760→予約相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "deadline": "2026-08-04"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "【続報】ポケ 30th CELEBRATION ポケモンセンターオンライン抽選が8月中に開始予定(マイナンバー認証方式)",
+      "price": "定価360→相場未確定、過去CELEBRATION系は定価の1.5-2倍実績(参考)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://www.30th.pokemon-card.com/product/m6a"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "ワンピ ONE PIECEカードゲーム「4th Anniversary Set」プレミアムバンダイ抽選(8/3 11:00-9/2 23:59受付)",
+      "price": "18700円(プロモ9枚+スリーブ70枚+プレイマット+カードケース)→相場未確定(本日開始のため二次流通データなし、発送は2027年2月と先)",
+      "url": "https://cardchusen.com/onepiece/op-4th-anniv-set",
+      "deadline": "2026-09-02"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "一番くじ FAIRY TAIL 20th ANNIVERSARY 10/3発売 仕込み候補",
+      "price": "1回850円→相場未確定、A賞ナツ/B賞ルーシィ/C賞ハッピー/ラストワン賞エルザが全てMASTERLISE初立体化(参考)",
+      "release_date": "2026-10-03",
+      "reminded": false,
+      "url": "https://1kuji.com/products/fairytail"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "【続報】一番くじ HUNTER×HUNTER GREED ISLAND② 8/29発売 前作相場判明",
+      "price": "1回850円→前作実績:ラストワン賞買取7500/フリマ12000、I賞買取9000/フリマ15000、J賞買取11000/フリマ16000(前作実績ベースの参考値)",
+      "release_date": "2026-08-29",
+      "reminded": false,
+      "url": "https://1kuji.com/products/hxh11"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "[警戒済]デジモン旧デジヴァイス さらに下落(単一情報源のため参考値)",
+      "price": "90日平均17000→ヤフオク平均5050(範囲2100-6750、-70%水準)"
     }
   ]
 }
