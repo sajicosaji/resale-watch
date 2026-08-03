@@ -349,7 +349,11 @@
       "release_date": "2026-07-31",
       "url": "https://www.otakarasouko.com/app/",
       "links": [
-        {"label": "お宝創庫", "url": "https://www.otakarasouko.com/app/", "app": "お宝創庫グループアプリ"}
+        {
+          "label": "お宝創庫",
+          "url": "https://www.otakarasouko.com/app/",
+          "app": "お宝創庫グループアプリ"
+        }
       ],
       "deadline": "2026-07-23",
       "reminded": true
@@ -510,9 +514,18 @@
       "release_date": "2026-08-21",
       "reminded": false,
       "links": [
-        {"label": "セブンネット(入荷お知らせ登録)", "url": "https://7net.omni7.jp/detail/1269426157"},
-        {"label": "タワーレコード(現在注文不可)", "url": "https://tower.jp/item/8130674"},
-        {"label": "集英社公式 定期購読(11月号開始)", "url": "https://store.hpplus.jp/fs/shop/g/g200VJU/"}
+        {
+          "label": "セブンネット(入荷お知らせ登録)",
+          "url": "https://7net.omni7.jp/detail/1269426157"
+        },
+        {
+          "label": "タワーレコード(現在注文不可)",
+          "url": "https://tower.jp/item/8130674"
+        },
+        {
+          "label": "集英社公式 定期購読(11月号開始)",
+          "url": "https://store.hpplus.jp/fs/shop/g/g200VJU/"
+        }
       ]
     },
     {
@@ -531,8 +544,15 @@
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
       "links": [
-        {"label": "トレカSHOPあんりみてっど", "url": "https://x.com/unlimited15839/status/2076329781394887102"},
-        {"label": "イオン九州(iAEONアプリ限定)", "url": "https://www.aeon-kyushu.info/customer/information/archives/122", "app": "iAEONアプリ"}
+        {
+          "label": "トレカSHOPあんりみてっど",
+          "url": "https://x.com/unlimited15839/status/2076329781394887102"
+        },
+        {
+          "label": "イオン九州(iAEONアプリ限定)",
+          "url": "https://www.aeon-kyushu.info/customer/information/archives/122",
+          "app": "iAEONアプリ"
+        }
       ],
       "deadline": "2026-08-21"
     },
@@ -657,7 +677,7 @@
       "topic": "一番くじ 進撃の巨人 ～選択と結果～ 8/5発売(仕込み候補)",
       "price": "1回700円→ラストワン賞ちょこのっこぬいぐるみ(リヴァイ)、同シリーズ直近30日平均4200円台(参考値、ブレ大)",
       "release_date": "2026-08-05",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/shingeki15"
     },
     {
@@ -905,6 +925,52 @@
       "date": "2026-08-03",
       "topic": "[警戒済]デジモン旧デジヴァイス さらに下落(単一情報源のため参考値)",
       "price": "90日平均17000→ヤフオク平均5050(範囲2100-6750、-70%水準)"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX予約 あみあみ抽選(本日8/4 13:59締切)",
+      "price": "定価5760→予約時点相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://form.amiami.jp/draw20260730",
+      "deadline": "2026-08-04"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX予約 他チャネル(イオンスタイルオンライン8/5締切、ゲオオンライン/イオンキッズリパブリック8/6締切、カードボックス8/9締切、ドラゴンスター8/12締切)",
+      "price": "定価5760→予約時点相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "deadline": "2026-08-12"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 白州18年 ゆめオンライン抽選(ゆめカードクレジット会員限定)",
+      "price": "定価67100→市場相場75000-85000(差額8000-18000程度)",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-16"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "【続報】ポケ 30th CELEBRATION ポケモンセンターオンライン抽選 応募期間確定(マイナンバー認証済み枠優先)。BOX/デッキ/FUTURISTIC BOXは8/10-14受付・カードセットは8/28-31受付、当選発表8/21",
+      "price": "BOX定価7200/デッキ6200/FUTURISTIC BOX27500/カードセット10800→相場未確定(参考値なし)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://www.pokemoncenter-online.com/news/?id=20260803"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "[警戒済]ポケ ストームエメラルダBOX 下落継続",
+      "price": "発売時23900-25000→現在20500(-14~18%)"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "[警戒済]ワンピ ラウンドワンプロモ ルフィ さらに下落",
+      "price": "紹介時(7/27)フリマ34000/買取24000→現在フリマ17735-26000"
+    },
+    {
+      "date": "2026-08-04",
+      "topic": "[上昇済]ロルカナ わんぱくなかよしオハナ アイコニック 下落トレンドから反発",
+      "price": "買取100000→140000-150000(+40~50%)"
     }
   ]
 }
