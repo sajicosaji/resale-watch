@@ -65,13 +65,6 @@
       "url": "https://1kuji.com/products/chainsawman3"
     },
     {
-      "date": "2026-07-19",
-      "topic": "一番くじ 刃牙～巨大なる鼓動～（ローソン、7月18日発売済み）",
-      "price": "850円→ラストワン賞 烈海王MASTERLISEフリマ相場16,000円〜（買取〜14,000円）、A賞 宮本武蔵MASTERLISE相場9,000円〜（買取〜8,000円）",
-      "release_date": "2026-07-18",
-      "reminded": false
-    },
-    {
       "date": "2026-07-20",
       "topic": "一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売）",
       "price": "850円→前弾ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)買取相場11,000〜17,000円台（推測ベース、今弾も同水準期待）",
@@ -171,7 +164,7 @@
       "topic": "一番くじ CUTIE STREET くじを手にする戦いなのです！（ローソン・ミニストップ他、8月4日発売）",
       "price": "700円→ラストワン賞は推しメンの声入りアラームクロック、相場データ薄いがアイドルグッズはプレミア化傾向あり（推測ベース）",
       "release_date": "2026-08-04",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/cutiestreet"
     },
     {
