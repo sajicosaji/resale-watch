@@ -213,21 +213,6 @@
     },
     {
       "date": "2026-07-21",
-      "topic": "[訂正済]【愛知】イオンモール東浦 1Fセントラルコートに「ポケモンカードストア」出店。※常設の新規オープンではなく7/31〜8/16の期間限定ポップアップ(公式お知らせで確認)",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://www.pokemon-card.com/info/004753.html"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "ワンピ プレミアムカードコレクション Live Action Edition 7月発売予定(仕込み候補)"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "遊戯王 旧神ノーデン 制限解除でプレ値の可能性(仕込み候補)"
-    },
-    {
-      "date": "2026-07-21",
       "topic": "[上昇済]ワンピ OP-13受け継がれる意志BOX 買取相場が回復(底値から+40%)",
       "price": "27000-33000→17900(警戒済)→現在25000-29800"
     },
@@ -1010,6 +995,66 @@
       "release_date": "2026-09-12",
       "reminded": false,
       "url": "https://1kuji.com/products/houkaistarrail3"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "ワンピ OP-17世界最強の戦士BOX予約 新規抽選チャネル(エクストレカ・シーガル各店・トレカプラザ55・ドラゴンスター各店)",
+      "price": "定価5760→予約相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "deadline": "2026-08-21"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 白州 楽天ファーストステージ抽選",
+      "price": "定価17880→相場30000-60000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-09"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 白州 JR京都伊勢丹抽選(京都府在住・エムアイカード会員限定)",
+      "price": "定価8250→相場30000-60000(白州系)",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-07"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 白州 南関東イオン抽選(東京・神奈川・千葉・山梨限定)",
+      "price": "定価8250→相場30000-60000(白州系)",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-08"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "【続報・締切間近】ワンピ ジャンプ+電子版特典 ルフィP-159 8枚セット応募(8/6 23:58締切)",
+      "price": "応募費1210円→8枚(通常版相場1000円前後)",
+      "url": "https://one-piece.com/news/80575/index.html",
+      "deadline": "2026-08-06"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "ポケ ゲオ ネット抽選 ストームエメラルダ/ブラックボルト/ホワイトフレア(各5パックセット、店頭受取限定)",
+      "price": "5パック概算1000円台→BOX相場からの概算で3000-4000円上乗せ見込み(参考値)",
+      "url": "https://www.famitsu.com/article/202608/83358",
+      "deadline": "2026-08-06"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "【続報】ワンピ Vジャンプ2026年10月号 予約上限到達・Amazon/楽天品切れ続出(争奪戦の兆候)",
+      "release_date": "2026-08-21",
+      "url": "https://www.oricon.co.jp/news/2468550/full/"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "[警戒済]ワンピ ラウンドワンプロモ ルフィ さらに下落",
+      "price": "紹介時買取24000→現在買取13000(-46%)"
+    },
+    {
+      "date": "2026-08-05",
+      "topic": "ポイ活 ファミペイクーポン 対象ソックス(実質1円)",
+      "price": "428円→クーポンで1円購入可(実質427円黒字)",
+      "url": "https://happynap.net/famipay-1-yen-socks-and-tshirt-discount"
     }
   ]
 }
