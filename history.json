@@ -122,7 +122,8 @@
       "topic": "一番くじ ワンピース エルバフ編 GIANT BASH!! Vol.2 8/8発売",
       "price": "[訂正済]1回790円(一番くじ倶楽部公式で確認。以前記載の770円は誤り)→前作Vol.1実績:ラストワン賞15800円、D賞10000円、C賞3500円、A/B賞各2000円。※【重要】Vol.1のラストワン賞は人気キャラの「ロキ Revible Moment」(メルカリ初動21600→買取13100まで下落)で、Vol.2のラストワン賞は脇役寄りの「軍子宮 MASTERLISE EXPIECE」(約19cm)。同系統MASTERLISE EXPIECEの低人気キャラは買取2000-2500円台の実績もあり、Vol.1の15800をVol.2にそのまま当てはめないこと",
       "release_date": "2026-08-08",
-      "url": "https://1kuji.com/products/onep104"
+      "url": "https://1kuji.com/products/onep104",
+      "reminded": true
     },
     {
       "date": "2026-07-19",
@@ -775,7 +776,7 @@
       "topic": "一番くじ 勝利の女神:NIKKE CHAPTER8 8/8発売 仕込み候補",
       "price": "1回850円→ラストワン賞「エレグ:ブーム・アンド・ショック フィギュア TOPfocus」。過去チャプターのラストワン賞はメルカリでプレミアがつく傾向(参考値、本チャプターの相場は未確定)",
       "release_date": "2026-08-08",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/nikke8"
     },
     {
@@ -1142,6 +1143,27 @@
       "topic": "LINE無料引換 角ハイボール〈夕どき〉350ml缶 1本無料引換クーポン(サントリー、20万名)",
       "url": "https://modcp.suntory.co.jp/Y2608KAK1/top/",
       "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-07",
+      "topic": "トレカ ベイブレードX CX-16/UX-20グローリーワルキューレLF/UX-21 タカラトミーモール受注生産(8/7 12:00-8/11 23:59受付、抽選ではなく注文確定)",
+      "price": "定価2700→実勢9900-10200(グローリーワルキューレは利益確認済み型番)",
+      "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260729.html",
+      "deadline": "2026-08-11"
+    },
+    {
+      "date": "2026-08-07",
+      "topic": "ポケ MEGAドリームex BOX DMMマイカ抽選再販(8/10締切、要DMMマイカ購入実績7/5-8/4分)",
+      "price": "仕入6180→相場14000-18000(利益7800-11800円)",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdBLQwXPKmIpvU3mCBcIgjTR0zYJ000hsozinBJ96Iysb6LNQ/viewform",
+      "deadline": "2026-08-10"
+    },
+    {
+      "date": "2026-08-07",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 山崎/白州/響JAPANESE HARMONY イトーヨーカドーネット抽選(要購入実績、8/9締切)",
+      "price": "定価8250-8800→相場15000-20000程度(NAS版、参考値)",
+      "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_RLlottery.aspx",
+      "deadline": "2026-08-09"
     }
   ]
 }
