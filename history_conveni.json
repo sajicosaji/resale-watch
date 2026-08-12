@@ -85,7 +85,7 @@
       "topic": "一番くじ 夏目友人帳 雨の日も、晴れの日も。（ファミリーマート他、8月14日発売）",
       "price": "760円→ラストワン賞ニャンコ先生日焼けぬいぐるみ、過去シリーズ実績120日平均5,222円（Yahoo!オークション、最高26,980円）",
       "release_date": "2026-08-14",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/natsume48"
     },
     {
@@ -135,22 +135,6 @@
       "release_date": "2026-08-15",
       "reminded": false,
       "url": "https://game.watch.impress.co.jp/docs/news/2119951.html"
-    },
-    {
-      "date": "2026-07-29",
-      "topic": "一番くじ クレヨンしんちゃん 夏のバケーションだゾ（ミニストップ・デイリーヤマザキ他、8月8日発売）",
-      "price": "700円（公式確認済み）→ラストワン賞ペンギンしんちゃんぬいぐるみ(約30cm)、シリーズ過去落札平均5,058円程度（推測ベース、化ける可能性あり）",
-      "release_date": "2026-08-08",
-      "reminded": true,
-      "url": "https://1kuji.com/products/shinchan13"
-    },
-    {
-      "date": "2026-07-29",
-      "topic": "【続報】一番くじ 勝利の女神：NIKKE CHAPTER8（ローソン他）ラストワン賞判明：エレグ：ブーム・アンド・ショック フィギュアTOPfocus",
-      "price": "850円→水着フィギュア人気シリーズ、過去チャプター実績7,000円前後（推測ベース）",
-      "release_date": "2026-08-08",
-      "reminded": true,
-      "url": "https://1kuji.com/products/nikke8"
     },
     {
       "date": "2026-07-30",
@@ -279,6 +263,22 @@
       "deadline": "2026-09-07",
       "url": "https://pokemonfrienda.com/event/e2608fm/",
       "reminded": false
+    },
+    {
+      "date": "2026-08-13",
+      "topic": "一番くじ ベルセルク 宿命の双極（ローソン他、9月25日発売）",
+      "price": "790円→ラストワン賞ゾッド(人の姿)MASTERLISE約28cm。前々作『運命に抗う、黒い剣士』ラストワン(ゾッドSOFVICS)はメルカリ27,000円〜・買取22,000円（約32倍）、前作『反撃の誓い』ラストワン(髑髏の騎士騎乗)は相場22,000円（約26倍）",
+      "release_date": "2026-09-25",
+      "reminded": false,
+      "url": "https://1kuji.com/products/berserk4"
+    },
+    {
+      "date": "2026-08-13",
+      "topic": "【続報】一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-（ファミリーマート他）ラストワン賞判明：緑谷出久-10th ANNIVERSARY- MASTERLISE",
+      "price": "790円→前作(緑谷出久オーバーレイMASTERLISE)は買取7,500〜10,500円・メルカリ相場9,500〜15,000円（約12〜19倍）",
+      "release_date": "2026-09-12",
+      "reminded": false,
+      "url": "https://hobby.dengeki.com/news/3085809/"
     }
   ]
 }
