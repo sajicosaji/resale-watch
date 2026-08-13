@@ -13,7 +13,7 @@
       "topic": "一番くじ KINGDOM HEARTS -25th Anniversary-（セブン-イレブン他、8月15日発売）",
       "price": "790円→ラストワン賞リクスタチュー等、相場データ薄いが化ける可能性あり（推測ベース）",
       "release_date": "2026-08-15",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/disney_kh5"
     },
     {
@@ -29,7 +29,7 @@
       "topic": "一番くじ ハイキュー!! -烏野の未来-（ローソン、8月15日発売）",
       "price": "790円→ラストワン賞月島蛍フィギュア、相場目安3,000〜8,000円程度",
       "release_date": "2026-08-15",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/haikyu32"
     },
     {
@@ -133,7 +133,7 @@
       "topic": "【続報】一番くじ KINGDOM HEARTS -25th Anniversary-（セブン-イレブン他）ラストワン賞判明：リクのスタチュー（史上初のリク単独立体化）",
       "price": "790円→相場データ薄いがシリーズ初の希少性から人気化の可能性（推測ベース）",
       "release_date": "2026-08-15",
-      "reminded": false,
+      "reminded": true,
       "url": "https://game.watch.impress.co.jp/docs/news/2119951.html"
     },
     {
