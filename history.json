@@ -397,7 +397,7 @@
       "topic": "一番くじ ハイキュー!! -烏野の未来- 8/15発売(仕込み候補)",
       "price": "1回790円(公式確認)→ラストワン賞は月島蛍フィギュア(約20cm・当選数50個)。ハイキュー系ラストワン賞の過去平均11353円(参考値)だが、本くじ自体の相場は未発売のため未確定。コンビニ枠では3000-8000円と保守的に見積もっており、幅を持って判断すること",
       "release_date": "2026-08-15",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/haikyu32"
     },
     {
@@ -689,7 +689,7 @@
       "topic": "一番くじ KINGDOM HEARTS -25th Anniversary- 8/15発売(仕込み候補)",
       "price": "790円→相場未確定(参考値なし、Disney25周年記念で人気IP)",
       "release_date": "2026-08-15",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/disney_kh5"
     },
     {
@@ -720,7 +720,8 @@
       "price": "過去実績2500-8000程度(参考)",
       "release_date": "2026-08-15",
       "url": "https://bonbon-navi.com/info/event/minamoa_hiroshima20260728/",
-      "deadline": "2026-08-01"
+      "deadline": "2026-08-01",
+      "reminded": true
     },
     {
       "date": "2026-07-31",
@@ -1453,6 +1454,74 @@
       "topic": "LINE無料引換 サントリー THE PEEL〈レモン〉ALC.7% 350ml缶(抽選190000名、毎日応募可)",
       "url": "https://modcp.suntory.co.jp/K2608TPL1/top/",
       "deadline": "2026-08-24"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "【続報・本日締切】ポケ 30th CELEBRATION ポケモンセンターオンライン抽選(8/14 16:59締切)。当選発表8/21、購入期限8/25",
+      "price": "BOX7200円等→相場未確定(9/16発売前)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
+      "deadline": "2026-08-14"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 楽天ファーストステージ抽選(山崎18年+12年／白州18年+12年セット、先着150セット限定)",
+      "price": "19880円(送料無料)→相場30000-60000円",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-15"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "ポケ 30th CELEBRATIONカードセット(御三家プロモ×拡張パック×カードスタンド、全9種) 10/16発売予定 仕込み候補",
+      "price": "定価1200円→相場未確定(参考値なし)",
+      "release_date": "2026-10-16",
+      "reminded": false,
+      "url": "https://www.30th.pokemon-card.com/product/cardset"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "一番くじ MADE IN ABYSS(メイドインアビス) 10/31発売 仕込み候補",
+      "price": "1回850円→相場未確定(A賞ボンドルドMASTERLISE、B賞ナナチ&ミーティ、参考値なし)",
+      "release_date": "2026-10-31",
+      "reminded": false,
+      "url": "https://1kuji.com/products/miabyss"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語- 9/12発売(店頭)/9/14オンライン 仕込み候補",
+      "price": "1回790円→相場未確定(アニメ10周年記念、ラストワン賞デク-10th ANNIVERSARY-、参考値なし)",
+      "release_date": "2026-09-12",
+      "reminded": false,
+      "url": "https://1kuji.com/products/myhero47"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "一番くじ ウマ娘プリティーダービー14弾 10/17発売 仕込み候補",
+      "price": "1回920円→相場未確定(ラストワン賞:金のゴルシ像、参考値なし)",
+      "release_date": "2026-10-17",
+      "reminded": false,
+      "url": "https://1kuji.com/products/umamusume17"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "一番くじ 進撃の巨人 ～心臓を捧げよ～ 10/24発売 仕込み候補",
+      "price": "1回850円→相場未確定(A~E賞は調査兵団5人MASTERLISE、ラストワン賞リヴァイ約30cm、参考値なし)",
+      "release_date": "2026-10-24",
+      "reminded": false,
+      "url": "https://1kuji.com/products/shingeki16"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX 新レアリティ「スーパーリーダーパラレル(L-SP)」判明。歴代最高峰の低封入率とみられ発売後の相場に上振れ材料",
+      "price": "予約権相場23600-28000円(既報から横ばい)",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi"
+    },
+    {
+      "date": "2026-08-14",
+      "topic": "[早期注意]ポケ MEGAスターターセットex イーブイAR 下落基調",
+      "price": "紹介時(8/5)買取4340円→直近は下落基調との複数報告(具体的下落率は情報源により差あり、参考値)"
     }
   ]
 }
