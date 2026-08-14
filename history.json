@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-07-15",
-      "topic": "【続報】ワンピ OP-13 受け継がれる意志 DMM通販抽選(7/21締切)",
-      "price": "定価5280→相場27000-33000",
-      "reminded": false
-    },
-    {
-      "date": "2026-07-15",
-      "topic": "ワンピ OP-16 決戦の刻 楽天ブックス抽選",
-      "price": "定価5280→相場14000-16000",
-      "reminded": false
-    },
-    {
-      "date": "2026-07-15",
-      "topic": "ポケ ストームエメラルダ しまむらパーク抽選(7/19締切)",
-      "price": "定価6000→相場36000",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://www.pokemon-card.com/ex/m6/",
-      "deadline": "2026-07-19"
-    },
-    {
-      "date": "2026-07-15",
-      "topic": "[警戒済]ジャンプ33号 付録ルフィカード 転売相場混乱・買取停止続出",
-      "price": "単品相場1000-2000円に急落、一部店舗買取1円で実質停止"
-    },
-    {
       "date": "2026-07-16",
       "topic": "[警戒済]デジモン 新型デジヴァイス 8/1発売。旧デジヴァイス相場を訂正",
       "price": "旧型: 紹介時ヤフオク5-8万円→直近90日落札平均約1.7万円",
@@ -325,7 +299,7 @@
     },
     {
       "date": "2026-07-26",
-      "topic": "ヴァイスシュヴァルツロゼ Re:ゼロ Vol.4 発売後実勢判明",
+      "topic": "[上昇済]ヴァイスシュヴァルツロゼ Re:ゼロ Vol.4 発売後実勢判明",
       "price": "サイン入りSEC レム買取70000/エミリア42000、SSP レム20000"
     },
     {
@@ -1537,6 +1511,96 @@
       "topic": "ワンピ ガシャポン HG ONE PIECE 02 8月発売予定 仕込み候補(ルフィ/シャンクス/ティーチ/バギー四皇)",
       "price": "1回500円→相場未確定(参考値なし)",
       "url": "https://one-piece.com/figure/79746/index.html"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【続報・締切間近】ポケ ストームエメラルダ等 エディオン・トレカキャピタル抽選(明日8/16 23:59締切)",
+      "price": "定価6000→買取21000-27000(下落基調のため参考値)",
+      "url": "https://www.inside-games.jp/article/2026/08/07/185904.html",
+      "deadline": "2026-08-16",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX予約 新チャネル(麦わらストア/ふるいち、明日8/16締切)",
+      "price": "定価5760→予約相場23600-28000。※SNKRDUNKは発売後相場を15000円〜と下振れ予想",
+      "release_date": "2026-08-22",
+      "url": "https://www.mugiwara-store.com/news/2680/",
+      "deadline": "2026-08-16"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "ポケ 30th CELEBRATION ドン・キホーテ抽選(一部店舗、応募はmajicaアプリ)",
+      "price": "相場未確定(9/16発売前)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "links": [
+        {
+          "label": "majicaアプリ公式案内",
+          "url": "https://www.majica-net.com/app/",
+          "app": "majicaアプリ"
+        }
+      ],
+      "deadline": "2026-08-31"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "ポケ 30th CELEBRATION トイザらス抽選(要6/17-8/17購入実績1000円+5pt)。※オンライン応募なし・店頭掲示のQRコードのみ",
+      "price": "相場未確定(9/16発売前)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://toreka-chusen.com/lottery/30th-celebration-toysrus-20260817/",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "ポケ 30th CELEBRATION カードボックス各店抽選(京都/津/横浜西口2号店等、店舗ごとに8/15〜17締切)",
+      "price": "相場未確定(9/16発売前)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://pokeca-navi.jp/lotteries/",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【ワンピ以外TCG・仕込み候補】ヴァイスシュヴァルツ「葬送のフリーレン」Vol.2 8/28発売。キャスト6名の箔押しサイン入りカード封入",
+      "price": "1BOX4400円→相場未確定(前弾Re:ゼロVol.4のサインSECが高騰した実績あり、参考値)",
+      "release_date": "2026-08-28",
+      "reminded": false,
+      "url": "https://ws-tcg.com/products/sfn_bp_vol2/"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【ガシャポン・仕込み候補】HUNTER×HUNTER ガシャポン！コレクション キメラアント編 8月29日週発売予定(念能力を立体化)",
+      "price": "1回400円→相場未確定(人気編のため過去シリーズ同様に相場が付く可能性、参考値)",
+      "url": "https://gashapon.jp/schedule/"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【その他ジャンル・厳選】ちいかわ くら寿司4度目コラボ 8/21〜全国開催(ビッくらポン景品フィギュア)",
+      "price": "定価500円→過去回実績でハチワレ10,000円・うさぎ8,000円(約16〜20倍)",
+      "release_date": "2026-08-21",
+      "reminded": false,
+      "url": "https://www.kurasushi.co.jp/author/006533.html"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【F・黒字案件】TOSSY(DMM.com証券)アカウント登録キャンペーン",
+      "price": "自己負担0円→ギフトマネー10,000円分(90日に1回取引必須、180日後出金可)",
+      "url": "https://tossy.com/campaign/welcome-gift-money/"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "【F・黒字案件】Amazon Kindle「真夏の涼読まとめ買いキャンペーン」(5週連続開催中)",
+      "price": "電子書籍12-15冊購入→15%ポイント還元(上限1800pt)、8-11冊で10%還元",
+      "url": "https://www.amazon.co.jp/-/en/b?ie=UTF8&node=207908689051",
+      "deadline": "2026-09-03"
+    },
+    {
+      "date": "2026-08-15",
+      "topic": "LINE無料引換 キリン晴れ風 コンビニ無料引換クーポン(抽選最大40万名、1日1回応募可)",
+      "url": "https://x.com/Kirin_Brewery/status/1965241248316268878",
+      "deadline": "2026-09-15"
     }
   ]
 }
