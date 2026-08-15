@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-07-16",
-      "topic": "[警戒済]デジモン 新型デジヴァイス 8/1発売。旧デジヴァイス相場を訂正",
-      "price": "旧型: 紹介時ヤフオク5-8万円→直近90日落札平均約1.7万円",
-      "release_date": "2026-08-01",
-      "reminded": true,
-      "url": "https://toy.bandai.co.jp/ja/item/01_20774/"
-    },
-    {
-      "date": "2026-07-16",
-      "topic": "ゲオ ネット抽選 ストームエメラルダBOX(7/16 17:59締切)",
-      "price": "定価6000→相場35000-36000"
-    },
-    {
-      "date": "2026-07-16",
-      "topic": "ゲオ ネット抽選 スタートデッキ100バトルコレクション再販(7/16 17:59締切)",
-      "price": "定価891→未開封相場2600前後"
-    },
-    {
-      "date": "2026-07-16",
-      "topic": "MEGAスターターセットex 3種(イーブイex/ゾロア&ゾロアークex/ニャオハ&マスカーニャex) 7/31発売 仕込み候補。※ゲオのネット抽選は受付終了済み(応募ページは現在「受付中の抽選はありません」表示)なので、7/31の店頭発売を狙う",
-      "price": "各定価1800→相場未確定(参考値なし)",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://www.pokemon-card.com/ex/me/"
-    },
-    {
       "date": "2026-07-17",
       "topic": "【続報】ポケモンセンター公式抽選期間① ストームエメラルダ/スターターセットex3種(7/17 23:59締切)",
       "price": "定価6000→相場35000前後(ストームエメラルダのみ、スターターセットexは相場未確定で見送り)"
@@ -1632,6 +1606,91 @@
       "release_date": "2026-10-06",
       "url": "https://www.suntory.co.jp/whisky/yamazaki/yamazaki_club/036/",
       "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "ジャパニーズウイスキー 山崎2026/白州2026/山崎12年 Amazon招待制抽選(招待リクエストボタンのみ、常時受付)",
+      "price": "定価17600→他出品者価格22000-27000(差額5000-9000超)",
+      "url": "https://www.amazon.co.jp/dp/B0GV297LLQ"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・本日締切】ジャパニーズウイスキー ゆめオンライン抽選(響21年/山崎18年/白州18年ほか、ゆめカードクレジット会員限定)",
+      "price": "相場20000-60000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-16"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "ジャパニーズウイスキー 山崎/白州/響2026 イトーヨーカドーネット通販抽選(要購入実績、締切延長)",
+      "price": "定価14300-17600→相場30000-60000",
+      "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_RLlottery.aspx",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "トレカ ベイブレードX CX-19 クロコトレッドセレクト タカラトミーモール抽選(本日締切)",
+      "price": "定価1600→相場未確定(9/12発売、シリーズ平均8000円台は参考値)",
+      "release_date": "2026-09-12",
+      "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx19.html",
+      "deadline": "2026-08-16"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX予約 新チャネル(シーガル8/17締切、ビックカメラ各店8/16-17、とれじゃらす別館/MINT横浜店/フタバ図書広店8/17、ポケチョップ立川店/ブックオフ町田中央通り店8/18)",
+      "price": "定価5760→予約相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "deadline": "2026-08-18"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "ヴァイスシュヴァルツ「葬送のフリーレン」Vol.2 8/28発売 仕込み候補",
+      "price": "BOX定価4400→相場未確定(サイン風パラレル封入、前弾Re:ゼロが高騰した実績あり)",
+      "release_date": "2026-08-28",
+      "reminded": false,
+      "url": "https://ws-tcg.com/products/sfn_bp_vol2/"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "一番くじ 桜蘭高校ホスト部 ～20th Anniversary～ 10/24発売 仕込み候補",
+      "price": "1回750円→相場未確定(アニメ20周年、発表時点でSNS反響大)",
+      "release_date": "2026-10-24",
+      "reminded": false,
+      "url": "https://dengekionline.com/article/202606/76924"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "一番くじ BLEACH Stirring Souls vol.5 9/19発売 仕込み候補",
+      "price": "1回850円→相場未確定(千年血戦篇MASTERLISE)",
+      "release_date": "2026-09-19",
+      "reminded": false,
+      "url": "https://1kuji.com/products/bleach8"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "一番くじ プリキュア ～Endless Grace～ 9/26発売 仕込み候補",
+      "price": "1回770円→相場未確定",
+      "release_date": "2026-09-26",
+      "reminded": false,
+      "url": "https://1kuji.com/products/precure5"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "ガシャポン ハリー・ポッター ミニチュアコレクション ～魔法の杖～ 8月第4週発売予定",
+      "price": "1回500円→相場未確定(懐かしIP、参考値)",
+      "url": "https://gashapon.jp/products/detail.php?jan_code=4570118184696000"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "ガシャポン サンリオキャラクターズ Solid&Cool style めじるしアクセサリー 8月第3週発売",
+      "price": "1回300円→相場未確定",
+      "url": "https://gashapon.jp/products/detail.php?jan_code=4570118186805000"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "[警戒済]遊戯王 旧神ノーデン さらに下落",
+      "price": "紹介時1000→現在400-600(-40〜60%)"
     }
   ]
 }
