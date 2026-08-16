@@ -1691,6 +1691,52 @@
       "date": "2026-08-16",
       "topic": "[警戒済]遊戯王 旧神ノーデン さらに下落",
       "price": "紹介時1000→現在400-600(-40〜60%)"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・締切間近】ポケ 30th CELEBRATION トイザらス抽選(明日8/17締切、要6/17-8/17購入実績)。オンライン応募なし・店頭QRコードのみ",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://toreka-chusen.com/lottery/30th-celebration-toysrus-20260817/",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・締切間近】ポケ 30th CELEBRATION カードボックス各店抽選(明日8/17締切、店舗ごとに差あり)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://pokeca-navi.jp/lotteries/",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・締切間近】ワンピ OP-17世界最強の戦士BOX予約 MokeyMokey抽選(明日8/17締切)",
+      "price": "定価5760→予約相場23600-28000",
+      "release_date": "2026-08-22",
+      "url": "https://mokeymokey.com/lottery",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・締切間近】ジャパニーズウイスキー イトーヨーカドーネット通販抽選(明日8/17締切)",
+      "price": "定価14300-17600→相場30000-60000",
+      "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_RLlottery.aspx",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・締切間近】ジャパニーズウイスキー ファミリーマートオンライン抽選(明日8/17締切、メルマガ会員限定)",
+      "price": "定価17600→相場30000-60000",
+      "url": "https://famima-online.family.co.jp/search?contentsCode=260804sun",
+      "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-16",
+      "topic": "【続報・締切間近】ジャパニーズウイスキー サントリー公式 山崎Story of the Distillery 第1回抽選(明日8/17締切、外れれば第2回8/18-9/2)",
+      "price": "定価17600→Amazon一般相場22750〜(参考値、10/6発売前で転売相場未確定)",
+      "release_date": "2026-10-06",
+      "url": "https://www.suntory.co.jp/whisky/yamazaki/yamazaki_club/036/",
+      "deadline": "2026-08-17"
     }
   ]
 }
