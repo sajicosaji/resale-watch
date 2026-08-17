@@ -1771,6 +1771,72 @@
         {"label": "カードボックス各店", "url": "https://pokeca-navi.jp/lotteries/"}
       ],
       "deadline": "2026-08-17"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "ポケ ストームエメラルダ/メガブレイブ/メガシンフォニア 個人カードショップ抽選(ゲームプラザ元気302・カードラボ大阪日本橋店、本日8/18締切)",
+      "price": "定価6000→買取相場17000-19500(利益11000-13500)",
+      "url": "https://www.c-labo.jp/blog/612954",
+      "links": [
+        {"label": "ゲームプラザ元気302", "url": "https://docs.google.com/forms/d/e/1FAIpQLSct7FqgmLnKJglKstTBqggEWN9hKFQYXlZXeshA-79tIhBnzw/viewform"},
+        {"label": "カードラボ大阪日本橋店(ストームエメラルダ)", "url": "https://www.c-labo.jp/blog/612954"},
+        {"label": "カードラボ大阪日本橋店(メガブレイブ)", "url": "https://www.c-labo.jp/shop/nipponbashi/blog/612939/"},
+        {"label": "カードラボ大阪日本橋店(メガシンフォニア)", "url": "https://www.c-labo.jp/shop/nipponbashi/blog/612951/"}
+      ],
+      "deadline": "2026-08-18"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 山崎/白州Story of the Distillery 2026 サントリー公式 第2回抽選 受付開始(1回目落選者向け)",
+      "price": "定価17600→相場30000-60000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "release_date": "2026-10-06",
+      "deadline": "2026-09-02"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "【続報・締切間近】ジャパニーズウイスキー ファーストステージ(楽天)山崎18年+白州18年セット",
+      "price": "17880→相場30000-60000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-21"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 世界のお酒ニューヨーク(楽天)白州12年特賞くじ",
+      "price": "5280円+送料→白州12年相場30000円超(くじ形式)",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-24"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "【続報・本日締切】ワンピ OP-17世界最強の戦士BOX予約 プレミアムバンダイ2次抽選(1次落選者のみ応募可)",
+      "price": "定価5760→予約相場23600-28000(発売後はSNKRDUNK予想15000円〜に急落リスクあり)",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "deadline": "2026-08-18"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "ポケ ストームエメラルダ トレカショップワーテル柏駅前店/BIGMAGIC池袋店(メガブレイブ・メガシンフォニア) 抽選",
+      "price": "定価6000→買取17000-19500",
+      "url": "https://cardchusen.com/pokeka",
+      "deadline": "2026-08-20"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "ポケ 一番くじ ポケモンマスターズEX 7th Anniversary 8/29発売(ポケマス初の一番くじ、A賞レッド&リザードン、ラストワン賞リーリエ&ソルガレオ)仕込み候補",
+      "price": "1回850円→相場未確定(参考値なし)",
+      "release_date": "2026-08-29",
+      "reminded": false,
+      "url": "https://1kuji.com/products/pk_masters"
+    },
+    {
+      "date": "2026-08-18",
+      "topic": "【その他ジャンル・厳選】一番くじ スプラトゥーン3 第三弾 8/22発売(セブンイレブン/イトーヨーカドー/Nintendo各店)仕込み候補",
+      "price": "1回750円→相場未確定(ラストワン賞コジャケどんぶり、参考値なし)",
+      "release_date": "2026-08-22",
+      "reminded": false,
+      "url": "https://1kuji.com/products/splatoon-3_03"
     }
   ]
 }
