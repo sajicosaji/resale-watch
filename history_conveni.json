@@ -125,7 +125,7 @@
       "topic": "一番くじ 銀魂 生誕20周年記念 銀魂展～はたちのつどい～その弐（ローソン他）",
       "price": "800円→相場データ薄い。ラストワン賞はモノクロカラーEdition＋ロゴフィギュア（推測ベース）",
       "release_date": "2026-08-21",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/gintama22"
     },
     {
@@ -143,14 +143,6 @@
       "release_date": "2026-08-29",
       "reminded": false,
       "url": "https://game.watch.impress.co.jp/docs/news/2126806.html"
-    },
-    {
-      "date": "2026-07-30",
-      "topic": "【続報】ポケモンカードMEGA「ストームエメラルダ」当たりカード「メガレックウザex」MUR買取予想判明（明日7/31発売）",
-      "price": "1パック200円→メガレックウザexMURは発売前予想で買取14万円前後・相場20万円前後（スニーカーダンク調べ、あくまで発売前予想で確定値ではない）",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://snkrdunk.com/articles/32646/"
     },
     {
       "date": "2026-07-30",
@@ -185,14 +177,6 @@
     },
     {
       "date": "2026-07-31",
-      "topic": "一番くじ 春秋戦国大戦キングダム The Animation 知と武の両輪（ローソン他、7月31日本日発売）",
-      "price": "790円→ラストワン賞は楊端和MASTERLISE（約25cm、山の民の王を初立体化）。相場データ薄いが初立体化の希少性から人気化の可能性（推測ベース）",
-      "release_date": "2026-07-31",
-      "reminded": false,
-      "url": "https://1kuji.com/products/kingdom6"
-    },
-    {
-      "date": "2026-07-31",
       "topic": "一番くじ ドラゴンボール Fantastic Adventure 3（ファミリーマート他、11月28日発売）",
       "price": "800円→ラストワン賞は孫悟空＆ブルマ フィギュア（初対面シーン）、A賞は牛魔王の車フィギュア。ドラゴンボール系ラストワン賞の過去実績は120日平均15,505円（Yahoo!オークション、シリーズ全体の平均値・推測ベース）",
       "release_date": "2026-11-28",
@@ -206,15 +190,6 @@
       "release_date": "2026-10-24",
       "reminded": false,
       "url": "https://1kuji.com/products/shingeki16"
-    },
-    {
-      "date": "2026-08-01",
-      "topic": "[結果検証:微妙]一番くじ mofusand ～ひんやりくつろぎ時間～（ファミリーマート他、ラストワン賞：あざらしにゃんの抱きしめぬいぐるみ）",
-      "price": "750円→紹介時の予想はメルカリ相場8,000円〜・買取5,800円（PRICE BASE、発売日時点の出品価格ベース）。【2026-08-13検証】ヤフオク実落札5,500円（8/11終了）。買取予想には近いが「メルカリ8,000円〜」の出品価格ほどは出ておらず、実際の倍率は約7.3倍（予想の10.7倍より控えめ）。それでも定価の7倍は確保できており致命的な外れではない",
-      "release_date": "2026-07-31",
-      "reminded": false,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/mofusand7"
     },
     {
       "date": "2026-08-06",
@@ -283,6 +258,24 @@
       "release_date": "2026-09-12",
       "reminded": false,
       "url": "https://hobby.dengeki.com/news/3085809/"
+    },
+    {
+      "date": "2026-08-20",
+      "topic": "一番くじ BLEACH Stirring Souls vol.5（セブン-イレブン他、ラストワン賞：更木剣八MASTERLISE）",
+      "price": "850円→前作vol.4ラストワン浦原喜助MASTERLISEはPRICE BASE買取目安〜19,000円・出品相場20,000〜25,000円（発売前提示の目安値のため実成約とは乖離の可能性あり、推測ベース）",
+      "release_date": "2026-09-19",
+      "reminded": false,
+      "followup_checked": false,
+      "url": "https://1kuji.com/products/bleach8"
+    },
+    {
+      "date": "2026-08-20",
+      "topic": "一番くじ ドラゴンボール SPIRIT OF THE SAIYAN（セブン-イレブン他、ラストワン賞：孫悟空＆孫悟飯MASTERLISE PLUS）",
+      "price": "790円→同ブランド「ピッコロ大魔王」MASTERLISE PLUSは実買取6,090円、「STRONG CHAINS!!」MASTERLISEは実買取19,270円、DB系ラストワン全体の直近120日平均落札15,505円（実買取ベース、参考値）",
+      "release_date": "2026-10-17",
+      "reminded": false,
+      "followup_checked": false,
+      "url": "https://1kuji.com/products/db_z8"
     }
   ]
 }
