@@ -2,49 +2,11 @@
   "items": [
     {
       "date": "2026-07-21",
-      "topic": "[訂正済]ポケ ストームエメラルダ WonderGOO/新星堂/GANRYU抽選。※チェーン共通の抽選は7/20 20:59で受付終了済み。7/29 23:59まで応募できるのは個別店舗が独自に実施している分(確認できたのはWonderGOO端江店。応募は店舗の専用オンラインフォーム、当選発表7/30、購入7/31〜8/2 20:59、お一人様1BOXまで)。以前記載の「チェーン全店が7/29締切」「オンライン一括応募なし・店頭掲示のQRコードのみ」はいずれも誤り",
-      "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://www.pokemon-card.com/ex/m6/",
-      "deadline": "2026-07-29"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "【続報】ラウンドワン×ONE PIECEコラボ プロモカード キャラ別相場判明(ルフィ7万・ゾロ6万等)",
-      "price": "未開封パック20000、ルフィ70000、ゾロ60000、サンジ55000、ナミ50000、ロビン40000"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "ベイブレードX タカラトミーモール恒常抽選販売(CX-18等、品薄深刻)",
-      "price": "定価の2.5-3倍で流通中"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "[上昇済]ワンピ OP-13受け継がれる意志BOX 買取相場が回復(底値から+40%)",
-      "price": "27000-33000→17900(警戒済)→現在25000-29800"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "【続報】ワンピ OP-13 受け継がれる意志 DMM通販抽選 本日締切最終リマインド",
-      "price": "定価5280→買取相場25000-29800"
-    },
-    {
-      "date": "2026-07-21",
       "topic": "【続報】ワンピ OP-17 世界最強の戦士 BOX予約価格判明(発売前から高額取引)",
       "price": "BOX定価想定5760→予約価格23600-28000",
       "release_date": "2026-08-22",
-      "url": "https://one-piece.com/news/80565/index.html"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "[警戒済]ロルカナ リロ&スティッチ わんぱくなかよしオハナ アイコニック 買取相場が下落傾向",
-      "price": "紹介時買取目安22万→直近確認15万前後(-32%)"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "【サブ枠】ボンボンドロップシール churukira スヌーピー4枚セット 三越伊勢丹オンライン限定抽選(7/24締切)",
-      "price": "価格2420(2000セット限定)"
+      "url": "https://one-piece.com/news/80565/index.html",
+      "reminded": true
     },
     {
       "date": "2026-07-22",
@@ -97,7 +59,8 @@
       "topic": "一番くじ ドラゴンボールGT 8/22発売(店頭)/8/24 17:00(一番くじONLINE) 仕込み候補。ラストワン賞は「ドラゴンボールGT THE GIGANT NAME」(アニメロゴを約36cmで立体化)",
       "price": "1回790円→ドラゴンボール系ラストワン賞直近30日オークション平均14387円(参考)。より近い比較対象である既存のTHE GIGANT NAME系ラストワン賞はメルカリ17777-18500円/買取16000円(7/29確認)",
       "release_date": "2026-08-22",
-      "url": "https://1kuji.com/products/db_gt"
+      "url": "https://1kuji.com/products/db_gt",
+      "reminded": true
     },
     {
       "date": "2026-07-23",
@@ -328,7 +291,8 @@
           "app": "iAEONアプリ"
         }
       ],
-      "deadline": "2026-08-21"
+      "deadline": "2026-08-21",
+      "reminded": true
     },
     {
       "date": "2026-07-27",
@@ -368,7 +332,8 @@
       "price": "定価5760(1パック240円×24パック)→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-09"
+      "deadline": "2026-08-09",
+      "reminded": true
     },
     {
       "date": "2026-07-28",
@@ -480,7 +445,8 @@
       "topic": "【続報】ワンピ OP-17 世界最強の戦士 BOX予約 新チャネル(Amazon招待制抽選受付中、カードラボ店頭先着受付中)",
       "price": "BOX定価5760→予約時点相場23600-28000",
       "release_date": "2026-08-22",
-      "url": "https://www.famitsu.com/article/202606/79258"
+      "url": "https://www.famitsu.com/article/202606/79258",
+      "reminded": true
     },
     {
       "date": "2026-07-30",
@@ -521,7 +487,8 @@
       "price": "定価5760→予約時点相場23600-28000(既報。直近一部ソースで下振れ報告あり)",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-04"
+      "deadline": "2026-08-04",
+      "reminded": true
     },
     {
       "date": "2026-07-31",
@@ -623,7 +590,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-06"
+      "deadline": "2026-08-06",
+      "reminded": true
     },
     {
       "date": "2026-08-02",
@@ -646,7 +614,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-04"
+      "deadline": "2026-08-04",
+      "reminded": true
     },
     {
       "date": "2026-08-03",
@@ -690,7 +659,8 @@
       "price": "定価5760→予約時点相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://form.amiami.jp/draw20260730",
-      "deadline": "2026-08-04"
+      "deadline": "2026-08-04",
+      "reminded": true
     },
     {
       "date": "2026-08-04",
@@ -698,7 +668,8 @@
       "price": "定価5760→予約時点相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-12"
+      "deadline": "2026-08-12",
+      "reminded": true
     },
     {
       "date": "2026-08-04",
@@ -736,7 +707,8 @@
       "price": "定価5760→予約時点相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-04"
+      "deadline": "2026-08-04",
+      "reminded": true
     },
     {
       "date": "2026-08-04",
@@ -783,7 +755,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-21"
+      "deadline": "2026-08-21",
+      "reminded": true
     },
     {
       "date": "2026-08-05",
@@ -853,7 +826,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-09"
+      "deadline": "2026-08-09",
+      "reminded": true
     },
     {
       "date": "2026-08-05",
@@ -888,7 +862,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-06"
+      "deadline": "2026-08-06",
+      "reminded": true
     },
     {
       "date": "2026-08-06",
@@ -920,12 +895,6 @@
       "price": "8/4反発報告140000-150000円→一部情報源で100000円との記載も。反発が本物か要再確認"
     },
     {
-      "date": "2026-08-06",
-      "topic": "LINE無料引換 角ハイボール〈夕どき〉350ml缶 1本無料引換クーポン(サントリー、20万名)",
-      "url": "https://modcp.suntory.co.jp/Y2608KAK1/top/",
-      "deadline": "2026-08-17"
-    },
-    {
       "date": "2026-08-07",
       "topic": "トレカ ベイブレードX CX-16/UX-20グローリーワルキューレLF/UX-21 タカラトミーモール受注生産(8/7 12:00-8/11 23:59受付、抽選ではなく注文確定)",
       "price": "定価2700→実勢9900-10200(グローリーワルキューレは利益確認済み型番)",
@@ -951,7 +920,8 @@
       "topic": "【続報】ワンピ OP-17世界最強の戦士BOX予約抽選 新規チャネル多数追加(本日8/8 23:59 JUMP SHOP各店、8/9 ホビーステーション/ブックオフ新座志木南店/TSUTAYA枚方ベルパルレ/竜星のPAO各店/ドラゴンスター通販、他多数)",
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
-      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi"
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "reminded": true
     },
     {
       "date": "2026-08-08",
@@ -1005,7 +975,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-10"
+      "deadline": "2026-08-10",
+      "reminded": true
     },
     {
       "date": "2026-08-08",
@@ -1013,7 +984,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-18"
+      "deadline": "2026-08-18",
+      "reminded": true
     },
     {
       "date": "2026-08-08",
@@ -1056,7 +1028,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://www.toy-comp.com/",
-      "deadline": "2026-08-09"
+      "deadline": "2026-08-09",
+      "reminded": true
     },
     {
       "date": "2026-08-09",
@@ -1064,7 +1037,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://x.com/p_bandai/status/2084187564320473157",
-      "deadline": "2026-08-18"
+      "deadline": "2026-08-18",
+      "reminded": true
     },
     {
       "date": "2026-08-09",
@@ -1072,7 +1046,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-22"
+      "deadline": "2026-08-22",
+      "reminded": true
     },
     {
       "date": "2026-08-09",
@@ -1107,7 +1082,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-11"
+      "deadline": "2026-08-11",
+      "reminded": true
     },
     {
       "date": "2026-08-11",
@@ -1155,7 +1131,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-18"
+      "deadline": "2026-08-18",
+      "reminded": true
     },
     {
       "date": "2026-08-12",
@@ -1330,7 +1307,8 @@
       "topic": "【続報】ワンピ OP-17世界最強の戦士BOX 新レアリティ「スーパーリーダーパラレル(L-SP)」判明。歴代最高峰の低封入率とみられ発売後の相場に上振れ材料",
       "price": "予約権相場23600-28000円(既報から横ばい)",
       "release_date": "2026-08-22",
-      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi"
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "reminded": true
     },
     {
       "date": "2026-08-14",
@@ -1386,7 +1364,8 @@
       "price": "定価5760→予約相場23600-28000。※SNKRDUNKは発売後相場を15000円〜と下振れ予想",
       "release_date": "2026-08-22",
       "url": "https://www.mugiwara-store.com/news/2680/",
-      "deadline": "2026-08-16"
+      "deadline": "2026-08-16",
+      "reminded": true
     },
     {
       "date": "2026-08-15",
@@ -1476,7 +1455,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://mokeymokey.com/lottery",
-      "deadline": "2026-08-17"
+      "deadline": "2026-08-17",
+      "reminded": true
     },
     {
       "date": "2026-08-15",
@@ -1527,7 +1507,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-18"
+      "deadline": "2026-08-18",
+      "reminded": true
     },
     {
       "date": "2026-08-16",
@@ -1600,7 +1581,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://mokeymokey.com/lottery",
-      "deadline": "2026-08-17"
+      "deadline": "2026-08-17",
+      "reminded": true
     },
     {
       "date": "2026-08-16",
@@ -1659,7 +1641,8 @@
           "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi"
         }
       ],
-      "deadline": "2026-08-17"
+      "deadline": "2026-08-17",
+      "reminded": true
     },
     {
       "date": "2026-08-17",
@@ -1732,7 +1715,8 @@
       "price": "定価5760→予約相場23600-28000(発売後はSNKRDUNK予想15000円〜に急落リスクあり)",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-18"
+      "deadline": "2026-08-18",
+      "reminded": true
     },
     {
       "date": "2026-08-18",
@@ -1754,7 +1738,7 @@
       "topic": "【その他ジャンル・厳選】一番くじ スプラトゥーン3 第三弾 8/22発売(セブンイレブン/イトーヨーカドー/Nintendo各店)仕込み候補",
       "price": "1回750円→相場未確定(ラストワン賞コジャケどんぶり、参考値なし)",
       "release_date": "2026-08-22",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/splatoon-3_03"
     },
     {
@@ -1826,7 +1810,8 @@
       "price": "定価5760→予約相場23600-28000",
       "release_date": "2026-08-22",
       "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
-      "deadline": "2026-08-22"
+      "deadline": "2026-08-22",
+      "reminded": true
     },
     {
       "date": "2026-08-19",
@@ -1906,6 +1891,52 @@
       "release_date": "2026-07-31",
       "url": "https://livepocket.jp/e/cux1_",
       "deadline": "2026-08-23"
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "【明日発売リマインド】ワンピ OP-17世界最強の戦士BOX。プレミアムバンダイ当選率49%・楽天ブックス20%・ドラゴンスター19%と低倍率で品薄継続の裏付け。SNKRDUNKは発売後相場15000円〜の下振れ予想もあり",
+      "price": "定価5760→予約権相場23600-28000(下振れリスクあり)",
+      "release_date": "2026-08-22",
+      "url": "https://cardchusen.com/onepiece/op17-saikyo-no-senshi",
+      "reminded": true
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "【明日発売リマインド】その他 一番くじ スプラトゥーン3第三弾(セブンイレブン/イトーヨーカドー/Nintendo各店)。ラストワン賞「相棒！コジャケどんぶり」",
+      "price": "1回750円→相場未確定(発売前、参考値なし)",
+      "release_date": "2026-08-22",
+      "url": "https://1kuji.com/products/splatoon-3_03",
+      "reminded": true
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "ポケ ストームエメラルダBOX再販抽選(竜のしっぽ各店/カードボックスオーサカ店、8/23 23:59締切)",
+      "price": "定価6000→買取17000-19500(利益11000-13500)",
+      "release_date": "2026-07-31",
+      "url": "https://cardchusen.com/pokeka/storm-emeralda",
+      "deadline": "2026-08-23"
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "ポケ 30th CELEBRATION カードボックス カサモ関口商店抽選(8/23 23:59締切)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
+      "release_date": "2026-09-16",
+      "url": "https://cardchusen.com/pokeka/30th-celebration",
+      "deadline": "2026-08-23"
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "ポケ 30th CELEBRATION フルコンプ各店抽選(新チャネル、8/30 12:00締切)。品薄で高倍率化の報告複数",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
+      "release_date": "2026-09-16",
+      "url": "https://cardchusen.com/pokeka/30th-celebration",
+      "deadline": "2026-08-30"
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "LINE無料引換 サントリーTHE PEEL〈レモン〉350ml缶(その場抽選19万名、毎日応募可)",
+      "url": "https://modcp.suntory.co.jp/K2608TPL1/top/",
+      "deadline": "2026-08-24"
     }
   ]
 }
