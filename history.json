@@ -1889,6 +1889,23 @@
       "url": "https://www.inside-games.jp/article/2026/08/19/186388.html",
       "deadline": "2026-09-01",
       "reminded": false
+    },
+    {
+      "date": "2026-08-20",
+      "topic": "ポケ 30th CELEBRATION おもちゃのペリカン店頭抽選(応募は店頭用紙のみ・オンライン受付なし、8/20開店-8/23閉店)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系は定価の1.5-2倍実績(参考)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://pelican-toy.co.jp/shop/",
+      "deadline": "2026-08-23"
+    },
+    {
+      "date": "2026-08-20",
+      "topic": "ポケ ストームエメラルダ再販 イエローサブマリン各店抽選(LivePocket応募、8/17 10:00-8/23 20:00受付、当選発表8/26)",
+      "price": "定価6000→買取17500-18000(利益11500-12000)",
+      "release_date": "2026-07-31",
+      "url": "https://livepocket.jp/e/cux1_",
+      "deadline": "2026-08-23"
     }
   ]
 }
