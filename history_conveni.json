@@ -5,32 +5,16 @@
       "topic": "ONE PIECEカードゲーム ブースターパック「世界最強の戦士」OP-17（4周年記念パック、全国発売）",
       "price": "1パック240円(公式確認済)×24パック＝BOX定価5,760円→発売前の予約相場23,600〜28,000円",
       "release_date": "2026-08-22",
-      "reminded": false,
-      "url": "https://one-piece.com/news/80565/index.html"
-    },
-    {
-      "date": "2026-07-15",
-      "topic": "一番くじ KINGDOM HEARTS -25th Anniversary-（セブン-イレブン他、8月15日発売）",
-      "price": "790円→ラストワン賞リクスタチュー等、相場データ薄いが化ける可能性あり（推測ベース）",
-      "release_date": "2026-08-15",
       "reminded": true,
-      "url": "https://1kuji.com/products/disney_kh5"
+      "url": "https://one-piece.com/news/80565/index.html"
     },
     {
       "date": "2026-07-15",
       "topic": "一番くじ ドラゴンボールGT（ローソン、8月22日発売）",
       "price": "790円→ラストワン賞相場10,000〜15,000円前後（直近シリーズ実績・Yahoo!オークション120日平均15,505円）",
       "release_date": "2026-08-22",
-      "reminded": false,
-      "url": "https://1kuji.com/products/db_gt"
-    },
-    {
-      "date": "2026-07-15",
-      "topic": "一番くじ ハイキュー!! -烏野の未来-（ローソン、8月15日発売）",
-      "price": "790円→ラストワン賞月島蛍フィギュア、相場目安3,000〜8,000円程度",
-      "release_date": "2026-08-15",
       "reminded": true,
-      "url": "https://1kuji.com/products/haikyu32"
+      "url": "https://1kuji.com/products/db_gt"
     },
     {
       "date": "2026-07-16",
@@ -82,14 +66,6 @@
     },
     {
       "date": "2026-07-22",
-      "topic": "一番くじ 夏目友人帳 雨の日も、晴れの日も。（ファミリーマート他、8月14日発売）",
-      "price": "760円→ラストワン賞ニャンコ先生日焼けぬいぐるみ、過去シリーズ実績120日平均5,222円（Yahoo!オークション、最高26,980円）",
-      "release_date": "2026-08-14",
-      "reminded": true,
-      "url": "https://1kuji.com/products/natsume48"
-    },
-    {
-      "date": "2026-07-22",
       "topic": "一番くじ メイドインアビス（ミニストップ他、10月31日発売）",
       "price": "850円→A賞・ラストワン賞ともにボンドルドMASTERLISE、相場データ薄いがMASTERLISEブランドは高額傾向（推測ベース）",
       "release_date": "2026-10-31",
@@ -117,24 +93,8 @@
       "topic": "【続報】一番くじ ドラゴンボールGT（ローソン他）ラストワン賞判明：「ドラゴンボールGT THE GIGANT NAME」（アニメロゴを約36cmで立体化）。店頭8/22、一番くじONLINEは8/24 17:00開始",
       "price": "790円→[訂正済]既存のTHE GIGANT NAME系ラストワン賞の実績はメルカリ17,777〜18,500円/買取16,000円（7/29再確認）。以前記載の「前弾GIANT BASH系（メルカリ1.6万円前後/買取1〜1.3万円）」はシリーズ名の取り違え（GIANT BASHはワンピースくじの名称）で、金額もやや低かったため訂正",
       "release_date": "2026-08-22",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/db_gt"
-    },
-    {
-      "date": "2026-07-26",
-      "topic": "一番くじ 銀魂 生誕20周年記念 銀魂展～はたちのつどい～その弐（ローソン他）",
-      "price": "800円→相場データ薄い。ラストワン賞はモノクロカラーEdition＋ロゴフィギュア（推測ベース）",
-      "release_date": "2026-08-21",
-      "reminded": true,
-      "url": "https://1kuji.com/products/gintama22"
-    },
-    {
-      "date": "2026-07-28",
-      "topic": "【続報】一番くじ KINGDOM HEARTS -25th Anniversary-（セブン-イレブン他）ラストワン賞判明：リクのスタチュー（史上初のリク単独立体化）",
-      "price": "790円→相場データ薄いがシリーズ初の希少性から人気化の可能性（推測ベース）",
-      "release_date": "2026-08-15",
-      "reminded": true,
-      "url": "https://game.watch.impress.co.jp/docs/news/2119951.html"
     },
     {
       "date": "2026-07-30",
@@ -276,6 +236,14 @@
       "reminded": false,
       "followup_checked": false,
       "url": "https://1kuji.com/products/db_z8"
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "一番くじ 幽☆遊☆白書 魔界の扉編（ローソン他想定、9月下旬発売・詳細日未確定）ラストワン賞：浦飯幽助-魔族大隔世-覚醒ver. MASTERLISE",
+      "price": "850円→前作vol.3ラストワン賞(妖狐蔵馬MASTERLISE)はメルカリ11,500円〜・買取8,800円（約10〜13倍、参考値）。今作は主人公キャラのため同等以上を期待（推測ベース）",
+      "reminded": false,
+      "followup_checked": false,
+      "url": "https://1kuji.com/products/yuhaku4"
     }
   ]
 }
