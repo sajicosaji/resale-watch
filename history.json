@@ -10,27 +10,6 @@
     },
     {
       "date": "2026-07-22",
-      "topic": "【続報】ストームエメラルダ ポケモンセンター店舗抽選 第二期 本日受付開始(7/22 14:00-7/24 23:59、渋谷/スカイツリータウン/横浜/大阪/大阪DX/京都/金沢/香川。応募は全期間通して1人1店舗のみ)",
-      "price": "定価6000→相場32000-36000",
-      "release_date": "2026-07-31",
-      "reminded": true,
-      "url": "https://shop.pokemon.co.jp/ja/shop/common/news/202607/000393.html",
-      "deadline": "2026-07-24"
-    },
-    {
-      "date": "2026-07-22",
-      "topic": "【続報】ヴァイスシュヴァルツロゼ Re:ゼロ Vol.4 予約特典判明",
-      "price": "前作サイン入りSSP買取実績最高30000円(参考)",
-      "release_date": "2026-07-24",
-      "reminded": true
-    },
-    {
-      "date": "2026-07-22",
-      "topic": "[上昇済]ジャンプ33号付録ルフィカード 相場が回復傾向",
-      "price": "急落後1000-2000→現在1900-2500(+約50-90%)"
-    },
-    {
-      "date": "2026-07-22",
       "topic": "ポケモン Poké-Charm 30周年ロゴマスコット(食玩) 仕込み候補",
       "price": "定価418→相場未確定(全20種+オーロラ仕様レアあり)",
       "release_date": "2026-08-24",
@@ -158,13 +137,6 @@
       "release_date": "2026-08-21",
       "url": "https://www.inside-games.jp/article/2026/07/21/184880.html",
       "reminded": true
-    },
-    {
-      "date": "2026-07-26",
-      "topic": "【続報】Vジャンプ10月号 ONE PIECEカード「シャーロット・プリン」付録は中止確定。hololive宝鐘マリン・ガンダムドモンカッシュ付録は予定通り実施",
-      "release_date": "2026-08-21",
-      "reminded": true,
-      "url": "https://www.oricon.co.jp/news/2468550/full/"
     },
     {
       "date": "2026-07-26",
@@ -792,13 +764,6 @@
       "price": "5パック概算1000円台→BOX相場からの概算で3000-4000円上乗せ見込み(参考値)",
       "url": "https://www.famitsu.com/article/202608/83358",
       "deadline": "2026-08-06"
-    },
-    {
-      "date": "2026-08-05",
-      "topic": "【続報】ワンピ Vジャンプ2026年10月号 予約上限到達・Amazon/楽天品切れ続出(争奪戦の兆候)",
-      "release_date": "2026-08-21",
-      "url": "https://www.oricon.co.jp/news/2468550/full/",
-      "reminded": true
     },
     {
       "date": "2026-08-05",
@@ -1944,6 +1909,53 @@
       "price": "5,000円の買い物→500円相当ポイント還元(上限500P)",
       "url": "https://happynap.net/amazon-5000-yen-500-point-campaign-202608/",
       "deadline": "2026-08-31"
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX 発売当日の実勢相場判明。予約権相場23600-28000→発売後20800-30000(下振れ懸念15000円〜は回避)",
+      "price": "定価5760→実勢20800-30000",
+      "release_date": "2026-08-22",
+      "url": "https://myca.dmm.com/column/one-piece-card-game/op-17-sekai-saikyo-no-senshi",
+      "reminded": true
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "ポケ 30th CELEBRATION ポケモンセンターオンライン追加抽選(BOX＋プレミアムデッキセット エーフィ・ブラッキー、応募8/28 12:00-8/31 16:59、本人認証済み枠が有利:当選率52.9%/未認証23.3%)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
+      "deadline": "2026-08-31",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "ポケ 30th CELEBRATION GEO抽選(BOX＋プレミアムデッキセット、応募8/31 11:00-9/3 17:59、要Ponta×GEOアプリ連携、当選者本人購入限定)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://geo-online.co.jp/news/779",
+      "deadline": "2026-09-03",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "【新ジャンル】ジャパニーズウイスキー オギノ×サントリー抽選(山崎・白州・響、応募8/17-9/13、対象商品税抜500円購入で口数加算)",
+      "price": "相場30000-60000(銘柄による)",
+      "url": "https://kofukutrading.com/whisky-lottery-2026-08-19/",
+      "deadline": "2026-09-13"
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "【新ジャンル・締切間近】ジャパニーズウイスキー 京阪百貨店すみのどう店抽選(白州SoD2026+響BH2026セット31900円、15セット限定、8/23締切)。店頭で税込1000円以上購入時のレシートと引換に応募用紙・オンライン応募なし",
+      "price": "セット31900円→単品相場だけで合計6万円超見込み",
+      "url": "https://www.keihan-dept.co.jp/suminodo/",
+      "deadline": "2026-08-23"
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "【トレカ全般・仕込み候補】ベイブレードX CX-00 スターター ティガレイジFT3-60T(ウルトラマン初コラボ、9/12発売)",
+      "price": "定価2750→相場未確定(参考値なし、限定販路のため品薄化の可能性)",
+      "release_date": "2026-09-12",
+      "url": "https://www.takaratomy.co.jp/release/product/2026/16041.html"
     }
   ]
 }
