@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-08-08",
-      "topic": "ストームエメラルダBOX 抽選（カードラボ名古屋駅前店）。応募はX（@meieki9f_labo）該当ポストのフォロー＆リポスト",
-      "price": "6,000円→相場約20,000〜27,000円",
-      "release_date": "2026-07-31",
-      "url": "https://x.com/meieki9f_labo/status/2085606617039741194",
-      "deadline": "2026-08-09"
-    },
-    {
-      "date": "2026-08-08",
-      "topic": "メガブレイブBOX 抽選（カードラボ名古屋駅前店）。応募はX（@meieki9f_labo）該当ポストのフォロー＆リポスト",
-      "price": "5,400円→シュリンク付き相場約35,000〜38,000円",
-      "release_date": "2025-08-01",
-      "url": "https://x.com/meieki9f_labo/status/2085606665232224343",
-      "deadline": "2026-08-09"
-    },
-    {
-      "date": "2026-08-08",
-      "topic": "メガシンフォニアBOX 抽選（カードラボ名古屋駅前店）。応募はX（@meieki9f_labo）該当ポストのフォロー＆リポスト",
-      "price": "5,400円→シュリンク付き買取相場22,500円",
-      "release_date": "2025-08-01",
-      "url": "https://x.com/meieki9f_labo/status/2085606713143767527",
-      "deadline": "2026-08-09"
-    },
-    {
-      "date": "2026-08-08",
-      "topic": "超電ブレイカーBOX 抽選（ブックオフ新瑞橋駅前店）。応募はX（@boc_aratama）該当ポストのフォロー＆リポスト・会員限定",
-      "price": "5,400円→相場約14,000円",
-      "release_date": "2024-10-18",
-      "url": "https://x.com/boc_aratama/status/2084923038840291491",
-      "deadline": "2026-08-10"
-    },
-    {
       "date": "2026-08-11",
       "topic": "30th CELEBRATION BOX／プレミアムデッキセット エーフィ・ブラッキー 購入権抽選（カードボックス岡崎店）。店頭QRコードのみ・オンライン一括応募なし",
       "price": "デッキセット定価6,200円→SAR買取予想を基にした相場予想14万〜18万円（発売前の予想値）",
@@ -142,6 +110,17 @@
       "release_date": "2025-08-01",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSeI27KEUBArFaXuj15aDOLAPLyDq-mpn6OZ4r_vdc3JGPRzdg/viewform",
       "deadline": "2026-08-25"
+    },
+    {
+      "date": "2026-08-23",
+      "topic": "ストームエメラルダBOX 再抽選（カードラボ名古屋駅前店・大須店）。応募はX該当ポストのリポスト＋各店アカウントフォロー。大須店は当選発表を8/26までにDM通知",
+      "price": "6,600円→相場約21,000〜27,000円",
+      "release_date": "2026-07-31",
+      "deadline": "2026-08-23",
+      "links": [
+        {"label": "カードラボ名古屋駅前店", "url": "https://x.com/meieki9f_labo/status/2090740683326067086"},
+        {"label": "カードラボ大須店", "url": "https://x.com/osu_clabo/status/2090751550788661424"}
+      ]
     }
   ]
 }
