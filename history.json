@@ -1906,8 +1906,8 @@
     },
     {
       "date": "2026-08-22",
-      "topic": "【続報】ワンピ OP-17世界最強の戦士BOX 発売当日の実勢相場判明。予約権相場23600-28000→発売後20800-30000(下振れ懸念15000円〜は回避)",
-      "price": "定価5760→実勢20800-30000",
+      "topic": "[警戒済]ワンピ OP-17世界最強の戦士BOX 発売当日の実勢相場判明。予約権相場23600-28000→発売後20800-30000(下振れ懸念15000円〜は回避)。※8/24再確認:買取16700円との報告(PRICE BASE)。買取と実勢の単純比較はできないが初動ピークから下落基調とみられる",
+      "price": "定価5760→実勢20800-30000(8/24時点買取16700)",
       "release_date": "2026-08-22",
       "url": "https://myca.dmm.com/column/one-piece-card-game/op-17-sekai-saikyo-no-senshi",
       "reminded": true
@@ -1980,6 +1980,30 @@
       "date": "2026-08-23",
       "topic": "[警戒済]ポケ MEGAスターターセットex イーブイAR 大幅下落",
       "price": "紹介時4340円→現在924円(-79%、情報源にばらつきあり参考値)"
+    },
+    {
+      "date": "2026-08-24",
+      "topic": "ポケ 30th CELEBRATION 拡張パック ポケモンカードストア公式抽選(新チャネル、1人10パックまで)",
+      "price": "1パック360円→過去CELEBRATION系実績は定価の1.5-2倍(9/16発売前のため参考値)",
+      "release_date": "2026-09-16",
+      "url": "https://shop.pokemon.co.jp/ja/shop/common/news/202608/000451.html",
+      "deadline": "2026-09-08",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-24",
+      "topic": "【新ジャンル】ジャパニーズウイスキー 白州18年+12年 楽天ファーストステージ先着くじ(150セット限定)",
+      "price": "17880円→相場30000-60000(差額1万円超)",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-08-27"
+    },
+    {
+      "date": "2026-08-24",
+      "topic": "【続報】遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 8/29発売間近(オフィシャルトーナメントストア限定、「死者蘇生」新規絵柄プリズマティックシークレット封入)",
+      "price": "1パック396円→相場未確定。直近発売のUTILITY SELECTION当たりカードは買取15000-35000円級だった実績あり(参考値)",
+      "release_date": "2026-08-29",
+      "url": "https://www.yugioh-card.com/japan/products/26lp/",
+      "reminded": false
     }
   ]
 }
