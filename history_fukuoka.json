@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-08-09",
-      "topic": "ストームエメラルダBOX 再販抽選（オレタン福岡天神店／天神・要オレタン会員証）",
-      "price": "6,000円→相場約19,700円前後",
-      "release_date": "2026-07-31",
-      "deadline": "2026-08-09",
-      "url": "https://oretan.membercard.jp/lottery?search_store_id=119"
-    },
-    {
       "date": "2026-08-11",
       "topic": "ストームエメラルダBOX 再販抽選（カードラボ 博多マルイ店／博多・X投稿リポスト＆フォロー応募）",
       "price": "6,000円→相場約18,000〜20,000円",
@@ -71,6 +63,22 @@
       "release_date": "2026-07-31",
       "deadline": "2026-08-24",
       "url": "https://x.com/hakata_labo/status/2090665568080896185"
+    },
+    {
+      "date": "2026-08-25",
+      "topic": "30th CELEBRATION BOX 抽選（magi福岡天神店／天神・Xフォロー＆リポスト応募、当選1名）",
+      "price": "7,900円(送料込)→相場35,000円前後（未発売のため事前予想）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-16",
+      "url": "https://x.com/magi_tenjin/status/2064199265120055382"
+    },
+    {
+      "date": "2026-08-25",
+      "topic": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー 抽選（magi福岡天神店／天神・Xフォロー＆リポスト応募、当選1名）",
+      "price": "6,900円(送料込)→相場20,000円前後（未発売のため事前予想）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-16",
+      "url": "https://x.com/magi_tenjin/status/2064203671391682812"
     }
   ]
 }
