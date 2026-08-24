@@ -2,7 +2,7 @@
 
 ## 手順
 1. まず Read で `history_aichi.json` を読む（過去に配信済みの項目一覧）
-2. Web検索（WebSearch / WebFetch）で最新情報を調査する（検索は合計25回程度まで）
+2. Web検索（WebSearch / WebFetch）で最新情報を調査する（検索は合計10回程度まで、2026-08-24にクレジット上限到達対策で削減）
 3. 「利益が見込める」項目・新規性のある抽選情報を選別する
 4. Discordに投稿し、`history_aichi.json` を更新する
 

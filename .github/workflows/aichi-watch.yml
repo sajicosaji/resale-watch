@@ -2,8 +2,7 @@ name: aichi-watch
 
 on:
   schedule:
-    - cron: "30 22 * * *"   # 07:30 JST (morning)
-    - cron: "30 9 * * *"    # 18:30 JST (evening, 2026-07-26: restored to 2x/day)
+    - cron: "30 22 * * *"   # 07:30 JST (morning。2026-08-24: クレジット上限到達対策で夜便を停止、1日1回に削減)
   workflow_dispatch:
 
 permissions:
@@ -39,7 +38,7 @@ jobs:
             --model ${{ steps.model.outputs.name }} \
             --allowedTools "WebSearch,WebFetch,Bash,Read,Write" \
             --permission-mode bypassPermissions \
-            --max-turns 80
+            --max-turns 25
 
       - name: Save history
         run: |
