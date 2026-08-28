@@ -318,26 +318,26 @@
     },
     {
       "date": "2026-07-28",
-      "topic": "一番くじ HUNTER×HUNTER GREED ISLAND② 8/29発売 仕込み候補",
-      "price": "1回850円→相場未確定(参考値なし)",
+      "topic": "【明日発売リマインド済】一番くじ HUNTER×HUNTER GREED ISLAND② 8/29発売",
+      "price": "1回850円→前作実績:ラストワン賞買取7500/フリマ12000、I賞買取9000/フリマ15000、J賞買取11000/フリマ16000(参考値)",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/hxh11"
     },
     {
       "date": "2026-07-28",
-      "topic": "一番くじ ヱヴァンゲリヲン新劇場版:序 8/29発売 仕込み候補",
+      "topic": "【明日発売リマインド済】一番くじ ヱヴァンゲリヲン新劇場版:序 8/29発売",
       "price": "1回790円→相場未確定(参考値なし)",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/eva19"
     },
     {
       "date": "2026-07-28",
-      "topic": "遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 8/29発売 仕込み候補",
-      "price": "1パック396円→相場未確定(世界大会記念の特別イラスト仕様、参考値なし)",
+      "topic": "【明日発売リマインド済】遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 8/29発売",
+      "price": "1パック396円→相場未確定(世界大会記念「死者蘇生」新規絵柄プリズマティックシークレット封入、直近のUTILITY SELECTION当たりカードは買取15000-35000円級)",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://www.yugioh-card.com/japan/products/26lp/"
     },
     {
@@ -1686,10 +1686,10 @@
     },
     {
       "date": "2026-08-18",
-      "topic": "ポケ 一番くじ ポケモンマスターズEX 7th Anniversary 8/29発売(ポケマス初の一番くじ、A賞レッド&リザードン、ラストワン賞リーリエ&ソルガレオ)仕込み候補",
+      "topic": "【明日発売リマインド済】ポケ 一番くじ ポケモンマスターズEX 7th Anniversary 8/29発売(ポケマス初の一番くじ、A賞レッド&リザードン、ラストワン賞リーリエ&ソルガレオ)",
       "price": "1回850円→相場未確定(参考値なし)",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/pk_masters"
     },
     {
@@ -1999,11 +1999,11 @@
     },
     {
       "date": "2026-08-24",
-      "topic": "【続報】遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 8/29発売間近(オフィシャルトーナメントストア限定、「死者蘇生」新規絵柄プリズマティックシークレット封入)",
+      "topic": "【続報・明日発売リマインド済】遊戯王 LIMITED PACK WORLD CHAMPIONSHIP 2026 8/29発売間近(オフィシャルトーナメントストア限定、「死者蘇生」新規絵柄プリズマティックシークレット封入)",
       "price": "1パック396円→相場未確定。直近発売のUTILITY SELECTION当たりカードは買取15000-35000円級だった実績あり(参考値)",
       "release_date": "2026-08-29",
       "url": "https://www.yugioh-card.com/japan/products/26lp/",
-      "reminded": false
+      "reminded": true
     },
     {
       "date": "2026-08-24",
@@ -2084,6 +2084,11 @@
       "price": "自己負担0円→10000円相当ポイント還元",
       "url": "https://happynap.net/habitto-cheer-securities-account-opening-10000yen/",
       "deadline": "2026-08-28"
+    },
+    {
+      "date": "2026-08-28",
+      "topic": "[警戒済]ポケ ストームエメラルダBOX さらに大幅下落・利益消滅",
+      "price": "紹介時の予約権相場32000-36000→8/23時点13800-17400→現在11800前後(-63〜67%累計)"
     }
   ]
 }
