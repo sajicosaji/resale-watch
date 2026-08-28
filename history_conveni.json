@@ -29,7 +29,7 @@
       "topic": "一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売）",
       "price": "850円→前弾ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)買取相場11,000〜17,000円台（推測ベース、今弾も同水準期待）",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/hxh11"
     },
     {
@@ -78,7 +78,7 @@
       "topic": "【続報】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他）ラストワン賞判明：ビスケット=クルーガー MASTERLISE EXTRA",
       "price": "850円→前作(GREED ISLAND①)ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)は買取15,636円の実績あり（もえたく、2026-07-30時点。今弾も同水準期待、推測ベース）",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://game.watch.impress.co.jp/docs/news/2126806.html"
     },
     {
@@ -94,7 +94,7 @@
       "topic": "【続報】一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他）ラストワン賞判明：初号機 Last One ver.（メタリック仕上げ）フィギュア",
       "price": "850円→過去シリーズ実績でラストワン賞フリマ相場14,500円前後・買取10,000円前後（推測ベース）",
       "release_date": "2026-08-29",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/topics/7063"
     },
     {
@@ -107,8 +107,9 @@
     },
     {
       "date": "2026-07-30",
-      "topic": "一番くじ ヱヴァンゲリヲン新劇場版：破（コンビニ各社想定、12月発売）ラストワン賞：エヴァ2号機フィギュア",
+      "topic": "【続報】一番くじ ヱヴァンゲリヲン新劇場版：破（セブン-イレブン他、12月5日発売決定）ラストワン賞：エヴァ2号機フィギュア",
       "price": "790円→前作「序」の実績（フリマ相場14,500円前後）を踏まえ同水準期待（推測ベース）",
+      "release_date": "2026-12-05",
       "reminded": false,
       "url": "https://hobby.watch.impress.co.jp/docs/news/2125654.html"
     },
