@@ -2089,6 +2089,42 @@
       "date": "2026-08-28",
       "topic": "[警戒済]ポケ ストームエメラルダBOX さらに大幅下落・利益消滅",
       "price": "紹介時の予約権相場32000-36000→8/23時点13800-17400→現在11800前後(-63〜67%累計)"
+    },
+    {
+      "date": "2026-08-29",
+      "topic": "【続報・締切間近・最終案内】ポケ 30th CELEBRATION フルコンプ各店抽選(8/30 12:00締切)。品薄で高倍率化の報告複数",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://cardchusen.com/pokeka/30th-celebration",
+      "deadline": "2026-08-30",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-29",
+      "topic": "【続報・締切間近】ポケ 30th CELEBRATION イトーヨーカドー抽選(プレミアムデッキセット エーフィ・ブラッキー、店頭QRコードのみ・オンライン一括応募なし)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://x.com/pokeca_new_card/status/2092405271738167671",
+      "deadline": "2026-08-31",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-29",
+      "topic": "【続報・締切間近】ポケ 30th CELEBRATION ポケモンセンターオンライン追加抽選(BOX+プレミアムデッキセット、本人認証済み枠が有利:当選率52.9%/未認証23.3%)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
+      "deadline": "2026-08-31",
+      "reminded": false
+    },
+    {
+      "date": "2026-08-29",
+      "topic": "ポケ 30th CELEBRATION ゲオ抽選(新チャネル、拡張パックBOX+プレミアムデッキセット、要ゲオアプリ+Pontaカード連携、代理購入不可)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://geo-online.co.jp/news/779",
+      "deadline": "2026-09-03",
+      "reminded": false
     }
   ]
 }
