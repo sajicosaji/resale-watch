@@ -1631,6 +1631,46 @@
       "date": "2026-08-31",
       "topic": "[早期注意]トレカ ベイブレードX グローリーワルキューレLF さらに下落の兆候(単一情報源のため参考値)",
       "price": "実勢9900-10200(8/8)→買取1店7000(-29~31%)。受注生産による供給増の影響か"
+    },
+    {
+      "date": "2026-09-01",
+      "topic": "ポケ 30th CELEBRATION ヨドバシ.com抽選(新チャネル、BOX+プレミアムデッキセット エーフィ・ブラッキー、要ヨドバシ購入履歴)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://limited.yodobashi.com/entry/shared/",
+      "deadline": "2026-09-01",
+      "reminded": false
+    },
+    {
+      "date": "2026-09-01",
+      "topic": "【続報・本日締切】ポケ 30th CELEBRATION 三洋堂書店抽選(当選発表9/11、購入9/16-20)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://www.inside-games.jp/article/2026/08/19/186388.html",
+      "deadline": "2026-09-01",
+      "reminded": false
+    },
+    {
+      "date": "2026-09-01",
+      "topic": "【雑貨・仕込み候補】ボンボンドロップシール×Mrs. GREEN APPLE(初のアーティストコラボ、9月下旬クーリア公式で先行抽選販売予定)",
+      "price": "相場未確定(発売前、参考値なし)",
+      "url": "https://www.inside-games.jp/article/2026/08/27/186841.html"
+    },
+    {
+      "date": "2026-09-01",
+      "topic": "【その他ジャンル】一番くじ サンエックス×ちょこっと 9/16発売(仕込み候補)",
+      "price": "1回550円→相場未確定(参考値なし)",
+      "release_date": "2026-09-16",
+      "reminded": false,
+      "url": "https://collabo-cafe.com/events/collabo/san-x-ichiban-kuji-chocotto-2026/"
+    },
+    {
+      "date": "2026-09-01",
+      "topic": "一番くじ きみが死ぬまで恋をしたい 9/24発売(仕込み候補)",
+      "price": "相場未確定(参考値なし)",
+      "release_date": "2026-09-24",
+      "reminded": false,
+      "url": "https://hobby.dengeki.com/news/3133431/"
     }
   ]
 }
