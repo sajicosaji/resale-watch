@@ -775,18 +775,18 @@
     },
     {
       "date": "2026-08-14",
-      "topic": "一番くじ ディズニープリンセス Enchanted Glow 9/5発売 仕込み候補",
+      "topic": "【明日発売リマインド済】一番くじ ディズニープリンセス Enchanted Glow 9/5発売 仕込み候補",
       "price": "1回781円→ラストワン賞は『美女と野獣』ステンドグラス風ライト(約19cm)、相場未確定(参考値なし)",
       "release_date": "2026-09-05",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/disney_ps13"
     },
     {
       "date": "2026-08-14",
-      "topic": "一番くじ ホロライブ RPG Style 9/5発売 仕込み候補",
+      "topic": "【明日発売リマインド済】一番くじ ホロライブ RPG Style 9/5発売 仕込み候補",
       "price": "1回850円→相場未確定(ラストワン賞は続報待ち、参考値なし)",
       "release_date": "2026-09-05",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/hololive-rpg"
     },
     {
