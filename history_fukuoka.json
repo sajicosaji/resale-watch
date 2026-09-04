@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-08-18",
-      "topic": "ストームエメラルダBOX 再販抽選（イエローサブマリン マジッカーズ福岡店／天神・LivePocket応募、300円以上レシート必要）",
-      "price": "6,000円→相場16,000〜19,500円前後（発売直後23,000円台から下落傾向）",
-      "release_date": "2026-07-31",
-      "deadline": "2026-08-23",
-      "url": "https://livepocket.jp/e/cux1_"
-    },
-    {
       "date": "2026-08-21",
       "topic": "MEGA拡張パック3種（ストームエメラルダ／メガブレイブ／メガシンフォニア）再販抽選（カードラボ 博多マルイ店／博多・X投稿リポスト＆フォロー応募、商品選択不可）",
       "price": "6,000円→相場9,500〜27,000円（3種からランダム当選、ストームエメラルダなら特に高値）",
@@ -79,6 +71,22 @@
       "release_date": "2026-09-16",
       "deadline": "2026-09-02",
       "url": "https://livepocket.jp/e/x_f0b"
+    },
+    {
+      "date": "2026-09-04",
+      "topic": "30th CELEBRATION BOX 抽選（BOOKSあんとく みづま店／久留米市三潴町・Googleフォーム応募、要あんとく会員証、あらお店・やまが店との共通フォームにつき店舗選択に注意）",
+      "price": "7,200円→相場35,000円前後（未発売のため他店実績ベースの事前予想）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-06",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSelB36FpyZwbaWfU9hYk9ttyHwP9GAG96CVGNgkh1ZDyYVJFQ/viewform"
+    },
+    {
+      "date": "2026-09-04",
+      "topic": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー 抽選（BOOKSあんとく みづま店／久留米市三潴町・Googleフォーム応募、要あんとく会員証）",
+      "price": "6,200円→相場20,000円前後（未発売のため他店実績ベースの事前予想）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-06",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSelB36FpyZwbaWfU9hYk9ttyHwP9GAG96CVGNgkh1ZDyYVJFQ/viewform"
     }
   ]
 }
