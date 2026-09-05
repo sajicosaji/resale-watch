@@ -197,6 +197,23 @@
       "reminded": false,
       "followup_checked": false,
       "url": "https://hobby.dengeki.com/news/3108152/"
+    },
+    {
+      "date": "2026-09-06",
+      "topic": "【続報】一番くじ ONE PIECE -空に奏でる\"島の歌声\"-（コンビニ各社）ラストワン賞判明：黄金の大鐘楼（プロジェクター機構、約11cm）",
+      "price": "850円→ラストワン賞はキャラクターフィギュアではなくギミック景品のため、厳選ピック基準（主要キャラ）を満たさず期待値は下方修正（参考データなし）",
+      "release_date": "2026-10-29",
+      "reminded": false,
+      "url": "https://one-piece.com/news/81656/index.html"
+    },
+    {
+      "date": "2026-09-06",
+      "topic": "【続報】ポケモンカードMEGA拡張パック「30th CELEBRATION」1BOX、ファミマオンラインで抽選受付中",
+      "price": "定価7,200円（20パック入り）→PRICE BASE調査の発売前予想相場30,000〜42,000円前後（未発売のため予想値、当選＝即差益期待）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-10",
+      "reminded": false,
+      "url": "https://famima-online.family.co.jp/item?itemCode=100162480879693930"
     }
   ]
 }
