@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-08-21",
-      "topic": "MEGA拡張パック3種（ストームエメラルダ／メガブレイブ／メガシンフォニア）再販抽選（カードラボ 博多マルイ店／博多・X投稿リポスト＆フォロー応募、商品選択不可）",
-      "price": "6,000円→相場9,500〜27,000円（3種からランダム当選、ストームエメラルダなら特に高値）",
-      "release_date": "2026-07-31",
-      "deadline": "2026-08-24",
-      "url": "https://www.c-labo.jp/shop/hakatamarui/blog/613598/"
-    },
-    {
-      "date": "2026-08-23",
-      "topic": "スターターセットex イーブイex／ゾロア＆ゾロアークex／ニャオハ＆マスカーニャex 再販抽選（カードラボ 博多マルイ店／博多・X投稿リポスト＆フォロー応募、商品ランダム）",
-      "price": "1,800円→イーブイexはセット内AR単体相場が約4,000〜4,600円（メルカリ）、ニャオハAR約2,300円、ゾロアAR約2,000円",
-      "release_date": "2026-07-31",
-      "deadline": "2026-08-24",
-      "url": "https://x.com/hakata_labo/status/2090665568080896185"
-    },
-    {
       "date": "2026-08-25",
       "topic": "30th CELEBRATION BOX 抽選（magi福岡天神店／天神・Xフォロー＆リポスト応募、当選1名）",
       "price": "7,900円(送料込)→相場35,000円前後（未発売のため事前予想）",
@@ -87,6 +71,14 @@
       "release_date": "2026-09-16",
       "deadline": "2026-09-06",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSelB36FpyZwbaWfU9hYk9ttyHwP9GAG96CVGNgkh1ZDyYVJFQ/viewform"
+    },
+    {
+      "date": "2026-09-06",
+      "topic": "30th CELEBRATION BOX 抽選予約（オレタン福岡天神店／天神・要オレタン公式アプリ「オレモバ」＋事前来店での会員登録）",
+      "price": "7,200円→相場35,000円前後（未発売のため他店実績ベースの事前予想）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-06",
+      "url": "https://oretan.membercard.jp/lottery?search_store_id=119"
     }
   ]
 }
