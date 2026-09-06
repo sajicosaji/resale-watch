@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-08-22",
-      "topic": "ストームエメラルダBOX 抽選（TSUTAYAいまじん白揚 ウイングタウン岡崎店・岡崎市羽根町）。要会員登録。刈谷から車で30〜40分",
-      "price": "6,600円→相場約21,000〜27,000円",
-      "release_date": "2026-07-31",
-      "url": "https://x.com/wtotozaki_card/status/2090646875502510502",
-      "deadline": "2026-08-23"
-    },
-    {
-      "date": "2026-08-22",
-      "topic": "ストームエメラルダBOX 抽選（TSUTAYA春日井店）。要会員登録・本人確認。刈谷から車で約50分",
-      "price": "6,600円→相場約21,000〜27,000円",
-      "release_date": "2026-07-31",
-      "url": "https://x.com/TSUTAYAkasugai2/status/2090422346473414834",
-      "deadline": "2026-08-23"
-    },
-    {
-      "date": "2026-08-22",
-      "topic": "ストームエメラルダBOX 抽選（トレカプラザ55大須アメ横店・名古屋市中区大須）。応募はメガブレイブ・メガシンフォニア等と共通のGoogleフォーム。店舗受取（大須アメ横店）または配送（送料別）を選択可",
-      "price": "6,000円→相場約19,000〜27,000円",
-      "release_date": "2026-07-31",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeI27KEUBArFaXuj15aDOLAPLyDq-mpn6OZ4r_vdc3JGPRzdg/viewform",
-      "deadline": "2026-08-25"
-    },
-    {
-      "date": "2026-08-22",
-      "topic": "メガブレイブBOX 抽選（トレカプラザ55大須アメ横店）。応募はストームエメラルダ等と共通のGoogleフォーム",
-      "price": "5,400円→シュリンク付き相場約35,000〜38,000円",
-      "release_date": "2025-08-01",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeI27KEUBArFaXuj15aDOLAPLyDq-mpn6OZ4r_vdc3JGPRzdg/viewform",
-      "deadline": "2026-08-25"
-    },
-    {
-      "date": "2026-08-22",
-      "topic": "メガシンフォニアBOX 抽選（トレカプラザ55大須アメ横店）。応募はストームエメラルダ等と共通のGoogleフォーム",
-      "price": "5,400円→シュリンク付き買取相場約22,500円",
-      "release_date": "2025-08-01",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeI27KEUBArFaXuj15aDOLAPLyDq-mpn6OZ4r_vdc3JGPRzdg/viewform",
-      "deadline": "2026-08-25"
-    },
-    {
       "date": "2026-08-23",
       "topic": "ストームエメラルダBOX 再抽選（カードラボ名古屋駅前店・大須店）。応募はX該当ポストのリポスト＋各店アカウントフォロー。大須店は当選発表を8/26までにDM通知",
       "price": "6,600円→相場約21,000〜27,000円",
@@ -130,6 +90,25 @@
       "release_date": "2026-09-16",
       "url": "https://x.com/bookoff_nishio/status/2095704968439468376",
       "deadline": "2026-09-14"
+    },
+    {
+      "date": "2026-09-06",
+      "topic": "メガブレイブBOX 再抽選（カードラボ名古屋駅前店・大須店）。応募はX該当ポストのフォロー＆リポスト。本日9/6締切のため要即応募",
+      "price": "5,400円→シュリンク付き相場約35,000〜38,000円（差額+約3万円）",
+      "release_date": "2025-08-01",
+      "deadline": "2026-09-06",
+      "links": [
+        {"label": "カードラボ名古屋駅前店", "url": "https://x.com/meieki9f_labo/status/2095797685148336343"},
+        {"label": "カードラボ大須店", "url": "https://x.com/osu_clabo/status/2095812660344598577"}
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "topic": "メガシンフォニアBOX 再抽選（カードラボ大須店・名古屋市中区大須）。応募はX（@osu_clabo）該当ポストのフォロー＆リポスト。本日9/6締切のため要即応募。刈谷から電車で40分程度",
+      "price": "5,400円→シュリンク付き買取相場約22,500円（差額+約1.7万円）",
+      "release_date": "2025-08-01",
+      "url": "https://x.com/osu_clabo/status/2095812740808151081",
+      "deadline": "2026-09-06"
     }
   ]
 }
