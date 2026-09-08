@@ -26,10 +26,11 @@
     },
     {
       "date": "2026-07-20",
-      "topic": "一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売）",
-      "price": "850円→前弾ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)買取相場11,000〜17,000円台（推測ベース、今弾も同水準期待）",
+      "topic": "【検証済】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売）",
+      "price": "850円→実際の結果（9/8検証）：買取9,500円・メルカリ相場13,000円〜（約11倍）。紹介時の予想（買取15,636円と同水準期待）はやや上振れだったが依然高利益",
       "release_date": "2026-08-29",
       "reminded": true,
+      "followup_checked": true,
       "url": "https://1kuji.com/products/hxh11"
     },
     {
@@ -75,10 +76,11 @@
     },
     {
       "date": "2026-07-30",
-      "topic": "【続報】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他）ラストワン賞判明：ビスケット=クルーガー MASTERLISE EXTRA",
-      "price": "850円→前作(GREED ISLAND①)ラストワン賞(ゴン×キルア×ヒソカ Revible Moment)は買取15,636円の実績あり（もえたく、2026-07-30時点。今弾も同水準期待、推測ベース）",
+      "topic": "【検証済】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他）ラストワン賞：ビスケット=クルーガー MASTERLISE EXTRA",
+      "price": "850円→実際の結果（9/8検証）：買取9,500円・メルカリ相場13,000円〜（約11倍）。紹介時の予想（買取15,636円と同水準期待）はやや上振れだったが依然高利益",
       "release_date": "2026-08-29",
       "reminded": true,
+      "followup_checked": true,
       "url": "https://game.watch.impress.co.jp/docs/news/2126806.html"
     },
     {
@@ -91,10 +93,11 @@
     },
     {
       "date": "2026-07-30",
-      "topic": "【続報】一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他）ラストワン賞判明：初号機 Last One ver.（メタリック仕上げ）フィギュア",
-      "price": "850円→過去シリーズ実績でラストワン賞フリマ相場14,500円前後・買取10,000円前後（推測ベース）",
+      "topic": "【検証済】一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他）ラストワン賞：初号機 Last One ver.（メタリック仕上げ）フィギュア",
+      "price": "850円→実際の結果（9/8検証）：買取4,400〜8,800円（店舗差大）・メルカリ相場12,000円〜。紹介時の予想（買取10,000円前後）はやや上振れ、出品価格ベースの相場は実買取より高く出やすい点が改めて確認された",
       "release_date": "2026-08-29",
       "reminded": true,
+      "followup_checked": true,
       "url": "https://1kuji.com/topics/7063"
     },
     {
@@ -210,6 +213,15 @@
       "date": "2026-09-06",
       "topic": "【続報】ポケモンカードMEGA拡張パック「30th CELEBRATION」1BOX、ファミマオンラインで抽選受付中",
       "price": "定価7,200円（20パック入り）→PRICE BASE調査の発売前予想相場30,000〜42,000円前後（未発売のため予想値、当選＝即差益期待）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-10",
+      "reminded": false,
+      "url": "https://famima-online.family.co.jp/item?itemCode=100162480879693930"
+    },
+    {
+      "date": "2026-09-08",
+      "topic": "【続報】ポケモンカードMEGA拡張パック「30th CELEBRATION」ファミマオンライン抽選、応募にはメルマガ登録が必須と判明",
+      "price": "定価7,200円（20パック入り）→未発売のため予想相場30,000〜42,000円前後（当選＝即差益期待）",
       "release_date": "2026-09-16",
       "deadline": "2026-09-10",
       "reminded": false,
