@@ -1820,6 +1820,28 @@
       "topic": "[警戒済]ボンボンドロップシール 全体的に相場崩壊(複数メディア報道)",
       "price": "定価500円→投げ売り100円程度(-80%相当)、増産による供給過剰化",
       "url": "https://news.livedoor.com/article/detail/32248201/"
+    },
+    {
+      "date": "2026-09-08",
+      "topic": "【新ジャンル】ジャパニーズウイスキー イオン南関東(東京・神奈川・千葉・山梨限定)抽選(イオンお買物アプリ登録のみ)",
+      "price": "定価8250-8800円(山崎/白州/響JAPANESE HARMONY NAS版)→市場相場15000-20000円",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-09-08"
+    },
+    {
+      "date": "2026-09-08",
+      "topic": "【新ジャンル・続報】ジャパニーズウイスキー 世界のお酒ニューヨーク(楽天)先着くじ 新ラウンド(白州12年/山崎12年/響JH)",
+      "price": "7700円+送料→白州/山崎12年相場30000-60000、響JH相場15000-20000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-09-11"
+    },
+    {
+      "date": "2026-09-08",
+      "topic": "【トレカ全般・仕込み候補】ディズニーロルカナ第6弾「大いなるアズライト」10/31発売。1BOXにレジェンダリー2枚確定封入(封入率アップ)、購入特典《リロ-抜け出し名人》",
+      "price": "BOX定価5280円→相場未確定(発売前、参考値なし)",
+      "release_date": "2026-10-31",
+      "reminded": false,
+      "url": "https://www.takaratomy.co.jp/products/disneylorcana/news/products/47946/"
     }
   ]
 }
