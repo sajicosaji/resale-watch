@@ -25,15 +25,6 @@
       "url": "https://1kuji.com/products/chainsawman3"
     },
     {
-      "date": "2026-07-20",
-      "topic": "【検証済】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他、8月29日発売）",
-      "price": "850円→実際の結果（9/8検証）：買取9,500円・メルカリ相場13,000円〜（約11倍）。紹介時の予想（買取15,636円と同水準期待）はやや上振れだったが依然高利益",
-      "release_date": "2026-08-29",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/hxh11"
-    },
-    {
       "date": "2026-07-21",
       "topic": "一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-（ファミリーマート他、9月12日発売）",
       "price": "790円→ヒロアカ一番くじ過去相場1,300〜8,400円程度、10周年記念の豪華ラインナップで上振れ期待（推測ベース）",
@@ -66,39 +57,12 @@
       "url": "https://1kuji.com/products/onep_o12"
     },
     {
-      "date": "2026-07-26",
-      "topic": "【検証済】一番くじ ドラゴンボールGT（ローソン他）ラストワン賞：「ドラゴンボールGT THE GIGANT NAME」（アニメロゴを約36cmで立体化）。店頭8/22、一番くじONLINEは8/24 17:00開始",
-      "price": "790円→実際の結果（9/1検証）：買取9,800〜12,000円・メルカリ相場13,500〜14,500円（複数店舗集計）。紹介時の予想（買取16,000円前後）はやや上振れしすぎており、実績は約12〜15倍にとどまった",
-      "release_date": "2026-08-22",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/db_gt"
-    },
-    {
-      "date": "2026-07-30",
-      "topic": "【検証済】一番くじ HUNTER×HUNTER GREED ISLAND②（ファミリーマート他）ラストワン賞：ビスケット=クルーガー MASTERLISE EXTRA",
-      "price": "850円→実際の結果（9/8検証）：買取9,500円・メルカリ相場13,000円〜（約11倍）。紹介時の予想（買取15,636円と同水準期待）はやや上振れだったが依然高利益",
-      "release_date": "2026-08-29",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://game.watch.impress.co.jp/docs/news/2126806.html"
-    },
-    {
       "date": "2026-07-30",
       "topic": "一番くじ カグラバチ（セブン-イレブン、東京都内一部店舗、10月24日発売）",
       "price": "850円→景品ラインナップ・ラストワン賞は未発表（8/12再確認済み・依然未発表）。次にくるマンガ大賞2024で1位を獲得した大人気作で、発表前から品薄化の可能性あり（推測ベース）",
       "release_date": "2026-10-24",
       "reminded": false,
       "url": "https://1kuji.com/products/kagurabachi"
-    },
-    {
-      "date": "2026-07-30",
-      "topic": "【検証済】一番くじ ヱヴァンゲリヲン新劇場版：序（セブン-イレブン他）ラストワン賞：初号機 Last One ver.（メタリック仕上げ）フィギュア",
-      "price": "850円→実際の結果（9/8検証）：買取4,400〜8,800円（店舗差大）・メルカリ相場12,000円〜。紹介時の予想（買取10,000円前後）はやや上振れ、出品価格ベースの相場は実買取より高く出やすい点が改めて確認された",
-      "release_date": "2026-08-29",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://1kuji.com/topics/7063"
     },
     {
       "date": "2026-07-30",
@@ -139,15 +103,6 @@
       "release_date": "2026-10-26",
       "reminded": false,
       "url": "https://1kuji.com/products/naruto11"
-    },
-    {
-      "date": "2026-08-12",
-      "topic": "ファミリーマート ポケモンフレンダ スペシャルフレンダピック「ピカチュウ＆ゼラオラ」（対象パンを3個購入で確定入手・抽選なし）",
-      "price": "仕入れ目安450〜900円→通常版ゼラオラの買取相場2,080円前後が参考値（推測ベース。キャンペーン限定デザインとしての実売相場はまだ確立していない）",
-      "release_date": "2026-08-25",
-      "deadline": "2026-09-07",
-      "url": "https://pokemonfrienda.com/event/e2608fm/",
-      "reminded": true
     },
     {
       "date": "2026-08-13",
@@ -215,7 +170,7 @@
       "price": "定価7,200円（20パック入り）→PRICE BASE調査の発売前予想相場30,000〜42,000円前後（未発売のため予想値、当選＝即差益期待）",
       "release_date": "2026-09-16",
       "deadline": "2026-09-10",
-      "reminded": false,
+      "reminded": true,
       "url": "https://famima-online.family.co.jp/item?itemCode=100162480879693930"
     },
     {
@@ -224,8 +179,17 @@
       "price": "定価7,200円（20パック入り）→未発売のため予想相場30,000〜42,000円前後（当選＝即差益期待）",
       "release_date": "2026-09-16",
       "deadline": "2026-09-10",
-      "reminded": false,
+      "reminded": true,
       "url": "https://famima-online.family.co.jp/item?itemCode=100162480879693930"
+    },
+    {
+      "date": "2026-09-09",
+      "topic": "🎯厳選ピック 一番くじ 東京喰種（ファミリーマート・ローソン・セブンイレブン他）ラストワン賞：梟 MASTERLISE EXTRA（約30cm）",
+      "price": "790円→過去作ラストワン(覚醒マスクver.)はヤフオク8,500円で落札実績（約10.8倍、参考値）。金木研・霧嶋董香のMASTERLISEに加え、最上位仕様MASTERLISE EXTRAが看板キャラの梟に採用",
+      "release_date": "2027-01-30",
+      "reminded": false,
+      "followup_checked": false,
+      "url": "https://1kuji.com/products/tokyoghoul8"
     }
   ]
 }
