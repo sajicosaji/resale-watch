@@ -1,17 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-08-23",
-      "topic": "ストームエメラルダBOX 再抽選（カードラボ名古屋駅前店・大須店）。応募はX該当ポストのリポスト＋各店アカウントフォロー。大須店は当選発表を8/26までにDM通知",
-      "price": "6,600円→相場約21,000〜27,000円",
-      "release_date": "2026-07-31",
-      "deadline": "2026-08-23",
-      "links": [
-        {"label": "カードラボ名古屋駅前店", "url": "https://x.com/meieki9f_labo/status/2090740683326067086"},
-        {"label": "カードラボ大須店", "url": "https://x.com/osu_clabo/status/2090751550788661424"}
-      ]
-    },
-    {
       "date": "2026-08-26",
       "topic": "ストームエメラルダBOX 再販抽選（ゲームショップ プラスアルファ・名古屋市名東区）。応募はX（@PLUS_ALPHA_ANMS）該当ポストのフォロー＆リポスト、お一人様1BOX限り、店頭購入は名古屋市名東区に来店可能な方限定",
       "price": "6,000円(税込6,600円)→相場約20,000〜27,000円",
@@ -109,6 +98,27 @@
       "release_date": "2025-08-01",
       "url": "https://x.com/osu_clabo/status/2095812740808151081",
       "deadline": "2026-09-06"
+    },
+    {
+      "date": "2026-09-09",
+      "topic": "拡張パック「フュージョンアーツ」1BOX(30パック入)抽選（ゲームプラザ33高浜店・ファミコンプラザ里町店＝安城市・トレカプラザ55大須店/上前津店/西尾店）。応募はLivePocket。締切は店舗ごとに異なるため各リンク先で要確認",
+      "price": "定価4,950円→相場約50,000〜54,000円（差額+約45,000円）",
+      "release_date": "2026-09-24",
+      "links": [
+        {"label": "ゲームプラザ33高浜店", "url": "https://t.livepocket.jp/e/67tdr"},
+        {"label": "ファミコンプラザ里町店（安城市）", "url": "https://t.livepocket.jp/e/hchel"},
+        {"label": "トレカプラザ55大須店", "url": "https://t.livepocket.jp/e/wkk1p"},
+        {"label": "トレカプラザ55上前津店", "url": "https://t.livepocket.jp/e/x5-xl"},
+        {"label": "トレカプラザ55西尾店", "url": "https://t.livepocket.jp/e/4iimf"}
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "topic": "30th CELEBRATION BOX 抽選（カードボックスすまいるキング安城店）。すまいるキング青ポイントカード必須・1人1回まで。刈谷から車で約15分",
+      "price": "定価7,200円→相場約35,000円（差額+27,800円）",
+      "release_date": "2026-09-16",
+      "url": "https://shoplottery.e-starbox.com/lottery/entry?code=VigGA58bQ3",
+      "deadline": "2026-09-12"
     }
   ]
 }
