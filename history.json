@@ -1859,6 +1859,51 @@
       "release_date": "2026-07-31",
       "url": "https://pokeca-navi.jp/lotteries/",
       "deadline": "2026-09-10"
+    },
+    {
+      "date": "2026-09-10",
+      "topic": "【続報・本日締切】ポケ 30th CELEBRATION 個人カードショップ抽選(新宿高島屋・バトロコ小山駅前店)",
+      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
+      "release_date": "2026-09-16",
+      "url": "https://pokeca-navi.jp/lotteries/",
+      "deadline": "2026-09-10",
+      "reminded": false
+    },
+    {
+      "date": "2026-09-10",
+      "topic": "【続報・本日締切】ポケ ストームエメラルダ 個人ショップ抽選(エイトマン通販部)",
+      "price": "定価6000→買取相場帯17000円前後(下落基調のため参考値)",
+      "release_date": "2026-07-31",
+      "url": "https://pokeca-navi.jp/lotteries/",
+      "deadline": "2026-09-10"
+    },
+    {
+      "date": "2026-09-10",
+      "topic": "【続報・締切間近】ジャパニーズウイスキー 世界のお酒ニューヨーク(楽天)先着くじ新ラウンド(白州12年/山崎12年/響JH)",
+      "price": "7700円+送料→白州/山崎12年相場30000-60000、響JH相場15000-20000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-09-11"
+    },
+    {
+      "date": "2026-09-10",
+      "topic": "一番くじ〈くまのプーさん〉100th Anniversary 10/10発売(仕込み候補)",
+      "price": "1回790円→相場未確定(原作デビュー100周年、ラストワン賞は特別仕様ぬいぐるみ、参考値なし)",
+      "release_date": "2026-10-10",
+      "reminded": false,
+      "url": "https://1kuji.com/products/disney_pooh7"
+    },
+    {
+      "date": "2026-09-10",
+      "topic": "一番くじ Fate/Grand Order(仮) 10/31発売(仕込み候補)",
+      "price": "1回850円→相場未確定(マシュ・キリエライト/オルガマリー・アニムスフィア1/7スケール立体化、参考値なし)",
+      "release_date": "2026-10-31",
+      "reminded": false,
+      "url": "https://1kuji.com/products/fate29"
+    },
+    {
+      "date": "2026-09-10",
+      "topic": "[警戒済]トレカ全般 パルワールドOCG「パルパゴスの夜明け」ツッパニャンSSS 大幅下落",
+      "price": "紹介時買取180000→現在買取100000/メルカリ10.5-11.3万円台(-44%)"
     }
   ]
 }
