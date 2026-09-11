@@ -119,6 +119,46 @@
       "release_date": "2026-09-16",
       "url": "https://livepocket.jp/e/9bhx6",
       "deadline": "2026-09-10"
+    },
+    {
+      "date": "2026-09-11",
+      "topic": "30th CELEBRATION BOX 抽選（トレカチャンピオン名駅店・大須店、ブックオフ名古屋千代田橋店／いずれも名古屋市）。応募はX該当ポストのフォロー＆リポスト",
+      "price": "定価7,200円→相場目安約35,000円（差額+27,800円）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-13",
+      "links": [
+        {"label": "トレカチャンピオン名駅店", "url": "https://x.com/tcmeieki/status/2096795609298575731"},
+        {"label": "トレカチャンピオン大須店", "url": "https://x.com/champion_osu/status/2096720095871639852"},
+        {"label": "ブックオフ名古屋千代田橋店", "url": "https://x.com/boc_chiyoda1/status/2097873581762138147"}
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "topic": "30th CELEBRATION BOX 抽選（ブックオフ名古屋みなと・新瑞橋駅前店、東海荒尾店）。応募はX該当ポストのフォロー＆リポスト。東海荒尾店は刈谷から車で30〜40分",
+      "price": "定価7,200円→相場目安約35,000円（差額+27,800円）",
+      "release_date": "2026-09-16",
+      "deadline": "2026-09-14",
+      "links": [
+        {"label": "ブックオフ名古屋みなと", "url": "https://x.com/bookoff_minato/status/2097228016837603365"},
+        {"label": "ブックオフ新瑞橋駅前店", "url": "https://x.com/boc_aratama/status/2097631857588461995"},
+        {"label": "ブックオフ東海荒尾店", "url": "https://x.com/boc_arao/status/2097272747609174119"}
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "topic": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー 抽選（ブックオフ名古屋千代田橋店・名古屋市）。応募はX該当ポストのフォロー＆リポスト",
+      "price": "デッキセット定価6,200円→相場目安14万〜18万円",
+      "release_date": "2026-09-16",
+      "url": "https://x.com/boc_chiyoda1/status/2097875151354495235",
+      "deadline": "2026-09-13"
+    },
+    {
+      "date": "2026-09-11",
+      "topic": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー 抽選（ブックオフ東海荒尾店・東海市）。応募はX該当ポストのフォロー＆リポスト。刈谷から車で30〜40分",
+      "price": "デッキセット定価6,200円→相場目安14万〜18万円",
+      "release_date": "2026-09-16",
+      "url": "https://x.com/boc_arao/status/2097273429942800820",
+      "deadline": "2026-09-14"
     }
   ]
 }
