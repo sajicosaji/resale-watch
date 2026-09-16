@@ -1994,6 +1994,29 @@
       "url": "https://norifune.com/liqueur/whisky/lottery-whisky",
       "deadline": "2026-09-15",
       "reminded": false
+    },
+    {
+      "date": "2026-09-16",
+      "topic": "【続報・本日締切】ポケ 30th CELEBRATION ポケモンセンターオンライン最終抽選(本日9/16 16:59締切、これ以降は一般販売のみ)",
+      "price": "定価未確定→過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
+      "release_date": "2026-09-16",
+      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
+      "deadline": "2026-09-16",
+      "reminded": true
+    },
+    {
+      "date": "2026-09-16",
+      "topic": "一番くじ NARUTO-ナルト- 疾風伝 飛段・角都編 10/26発売(仕込み候補)。A賞シカマル/B賞アスマ/C賞飛段/D賞角都 全てMASTERLISE、ラストワン賞は風遁・螺旋手裏剣ナルト",
+      "price": "1回790円→相場未確定(参考値なし)",
+      "release_date": "2026-10-26",
+      "reminded": false,
+      "url": "https://1kuji.com/products/naruto11"
+    },
+    {
+      "date": "2026-09-16",
+      "topic": "[警戒済]ポケ ストームエメラルダBOX さらなる大幅下落継続",
+      "price": "発売時(7/31)約23000→8/11時点17500-18000→現在10700(発売時比-53%、前回比-39〜41%)",
+      "url": "https://price-base.com/useful/stormemeralda-box-market"
     }
   ]
 }
