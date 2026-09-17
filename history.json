@@ -195,10 +195,10 @@
     },
     {
       "date": "2026-08-04",
-      "topic": "一番くじ 学園アイドルマスターPart6 9/19発売(仕込み候補)",
+      "topic": "【明日発売リマインド済】一番くじ 学園アイドルマスターPart6 9/19発売(仕込み候補)",
       "price": "1回850円→相場未確定(参考値なし)",
       "release_date": "2026-09-19",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/gkmas06"
     },
     {
@@ -970,10 +970,10 @@
     },
     {
       "date": "2026-08-16",
-      "topic": "一番くじ BLEACH Stirring Souls vol.5 9/19発売 仕込み候補",
+      "topic": "【明日発売リマインド済】一番くじ BLEACH Stirring Souls vol.5 9/19発売 仕込み候補",
       "price": "1回850円→相場未確定(千年血戦篇MASTERLISE)",
       "release_date": "2026-09-19",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/bleach8"
     },
     {
@@ -2017,6 +2017,42 @@
       "topic": "[警戒済]ポケ ストームエメラルダBOX さらなる大幅下落継続",
       "price": "発売時(7/31)約23000→8/11時点17500-18000→現在10700(発売時比-53%、前回比-39〜41%)",
       "url": "https://price-base.com/useful/stormemeralda-box-market"
+    },
+    {
+      "date": "2026-09-18",
+      "topic": "[上昇済]ポケ 30th CELEBRATION BOX 発売後相場判明・上昇",
+      "price": "定価7200→発売後相場17000前後(初日買取最大22000、約+136%)",
+      "release_date": "2026-09-16"
+    },
+    {
+      "date": "2026-09-18",
+      "topic": "【続報】ポケ 30th CELEBRATION BOX 定価抽選(ポケモンセンター店頭LINE抽選9/20締切、DMMマイカ9/23締切、個人ショップ各店9/25〜9/30締切)",
+      "price": "定価7200→発売後相場17000前後(差額9800円前後)",
+      "release_date": "2026-09-16",
+      "url": "https://www.pokeca-navi.jp/products/30th-CELEBRATION/",
+      "deadline": "2026-09-30"
+    },
+    {
+      "date": "2026-09-18",
+      "topic": "ワンピ OP-18神の支配BOX ファミマオンライン抽選(仕込み候補)",
+      "price": "1BOX5760円→相場未確定(11/22発売前、過去OP-17等BOX予約権は定価の3-4倍実績)",
+      "release_date": "2026-11-22",
+      "url": "https://convenicheck.com/news/news_famima/136387/",
+      "deadline": "2026-09-21"
+    },
+    {
+      "date": "2026-09-18",
+      "topic": "ジャパニーズウイスキー 楽天SAKE People先着くじ(山崎12年/響JAPANESE HARMONY等)",
+      "price": "6600円+送料→相場30000-60000(山崎系)/15000-20000(響JH)",
+      "url": "https://norifune.com/liqueur/whisky/lottery-whisky",
+      "deadline": "2026-09-30"
+    },
+    {
+      "date": "2026-09-18",
+      "topic": "【その他ジャンル・仕込み候補】映画ちいかわ 人魚の島のひみつ 入場者特典第5弾「ひみつ本」9/19配布開始",
+      "price": "鑑賞料のみ→過去の入場者特典(フィギュア)実績1個1100円〜・セット25000円〜(参考、冊子タイプのため相場は発売後要確認)",
+      "release_date": "2026-09-19",
+      "url": "https://www.famitsu.com/article/202609/87874"
     }
   ]
 }
