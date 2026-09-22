@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-09-04",
-      "topic": "30th CELEBRATION BOX 抽選（MINT名古屋店・アルペンナゴヤ6F、名古屋市中区栄）。応募はGoogleフォーム。刈谷から電車で40〜45分程度",
-      "price": "定価7,200円→相場目安約35,000円（差額+27,800円）",
-      "release_date": "2026-09-16",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeKAvYGpwl9yaGDDyL4EEBXMtlaljkInhYNC_8m7KxjtO8rEQ/viewform",
-      "deadline": "2026-09-13"
-    },
-    {
-      "date": "2026-09-05",
-      "topic": "30th CELEBRATION BOX 抽選（ブックオフ西尾下町店・西尾市）。応募はX（@bookoff_nishio）該当ポストのフォロー＆リポスト。刈谷から車で30分程度",
-      "price": "定価7,200円→相場目安約35,000円（差額+27,800円）",
-      "release_date": "2026-09-16",
-      "url": "https://x.com/bookoff_nishio/status/2095704968439468376",
-      "deadline": "2026-09-14"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "メガブレイブBOX 再抽選（カードラボ名古屋駅前店・大須店）。応募はX該当ポストのフォロー＆リポスト。本日9/6締切のため要即応募",
-      "price": "5,400円→シュリンク付き相場約35,000〜38,000円（差額+約3万円）",
-      "release_date": "2025-08-01",
-      "deadline": "2026-09-06",
-      "links": [
-        {"label": "カードラボ名古屋駅前店", "url": "https://x.com/meieki9f_labo/status/2095797685148336343"},
-        {"label": "カードラボ大須店", "url": "https://x.com/osu_clabo/status/2095812660344598577"}
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "メガシンフォニアBOX 再抽選（カードラボ大須店・名古屋市中区大須）。応募はX（@osu_clabo）該当ポストのフォロー＆リポスト。本日9/6締切のため要即応募。刈谷から電車で40分程度",
-      "price": "5,400円→シュリンク付き買取相場約22,500円（差額+約1.7万円）",
-      "release_date": "2025-08-01",
-      "url": "https://x.com/osu_clabo/status/2095812740808151081",
-      "deadline": "2026-09-06"
-    },
-    {
       "date": "2026-09-09",
       "topic": "拡張パック「フュージョンアーツ」1BOX(30パック入)抽選（ゲームプラザ33高浜店・ファミコンプラザ里町店＝安城市・トレカプラザ55大須店/上前津店/西尾店）。応募はLivePocket。締切は店舗ごとに異なるため各リンク先で要確認",
       "price": "定価4,950円→相場約50,000〜54,000円（差額+約45,000円）",
@@ -147,6 +112,14 @@
       "release_date": "2026-09-16",
       "url": "https://x.com/batosuki_shop/status/2100795912155263152",
       "deadline": "2026-09-20"
+    },
+    {
+      "date": "2026-09-22",
+      "topic": "30th CELEBRATION カードセット 抽選（TSUTAYAブックセンター名豊刈谷店・刈谷市内）。9種類からランダム1点。応募はLINE「TSUTAYAトレーディングカード公式」友だち追加＋モバイルVカード登録の上、投稿内QRから応募",
+      "price": "定価1,200円→相場目安約6,500円（差額+約5,300円）",
+      "release_date": "2026-09-16",
+      "url": "https://x.com/TSUTAYAkariya/status/2101825891135594826",
+      "deadline": "2026-09-27"
     }
   ]
 }
