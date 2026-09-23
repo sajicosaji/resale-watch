@@ -1676,10 +1676,10 @@
     {
       "date": "2026-09-01",
       "topic": "一番くじ きみが死ぬまで恋をしたい 9/24発売(仕込み候補)",
-      "price": "相場未確定(参考値なし)",
+      "price": "1回700円→相場未確定(参考値なし)",
       "release_date": "2026-09-24",
-      "reminded": false,
-      "url": "https://hobby.dengeki.com/news/3133431/"
+      "reminded": true,
+      "url": "https://1kuji.com/products/kimishinu"
     },
     {
       "date": "2026-09-02",
@@ -2173,6 +2173,19 @@
       "price": "1万円投資(45日以内)→モッピー12000pt+オルタナバンク特典3000円=合計15000円相当(投資全損でも実質5000円黒字、運用期間4ヶ月以上のファンド限定)",
       "url": "https://dietmiler.com/altana-bank",
       "deadline": "2026-09-30"
+    },
+    {
+      "date": "2026-09-23",
+      "topic": "【続報・本日締切】ジャパニーズウイスキー 山崎18年+12年/白州18年+12年セット 楽天ファーストステージ先着くじ(アプリ不要)",
+      "price": "20880円(セット・送料無料)→相場30000-60000",
+      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
+      "deadline": "2026-09-23"
+    },
+    {
+      "date": "2026-09-23",
+      "topic": "[警戒済]ワンピ OP-17世界最強の戦士BOX 反発は一時的、再び大幅下落",
+      "price": "9/5時点買取19692(+23%反発)→9/17時点買取9925前後(定価1.7倍水準、-50%前後)。予約権相場23600-28000だった頃からは累計で大幅下落",
+      "url": "https://tcgpro.co.jp/media/sekaisaikyounosenshi/"
     }
   ]
 }
