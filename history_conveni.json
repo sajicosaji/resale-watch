@@ -1,37 +1,12 @@
 {
   "items": [
     {
-      "date": "2026-07-16",
-      "topic": "ポケモンカードMEGA拡張パック「30th CELEBRATION」（ポケカ30周年記念、全カードキラ仕様・新レアリティFUR初登場、セブンイレブン等で先着販売の可能性）",
-      "price": "1パック360円（税込・公式確認済み、キラカード6枚入り）→入荷未確定（推測ベース）。25周年記念パックは当時高騰し現在も高値維持の実績あり。※8/12追記：セブンネットショッピングのBOX抽選は6/30〜7/15で既に受付終了済み",
-      "release_date": "2026-09-16",
-      "reminded": true,
-      "url": "https://www.30th.pokemon-card.com/product/m6a"
-    },
-    {
       "date": "2026-07-18",
       "topic": "一番くじ アニメ『呪術廻戦』5周年FINAL！（ファミリーマート他、ラストワン賞は五条悟MASTERLISE）",
       "price": "800円→過去シリーズ(死滅回游)ラストワン賞買取実績3,000〜22,000円、人気No.1キャラの最終章で上振れ期待（推測ベース）",
       "release_date": "2026-09-26",
       "reminded": false,
       "url": "https://1kuji.com/products/jujutsu19"
-    },
-    {
-      "date": "2026-07-18",
-      "topic": "一番くじ 劇場版『チェンソーマン レゼ篇』第2弾（ローソン他、ラストワン賞はチェンソーマン＆ビームMEGAIMPACT）",
-      "price": "880円→前作(レゼ篇第1弾)ラストワン賞買取実績18,000〜28,000円、続編も高値期待（推測ベース）",
-      "release_date": "2026-09-18",
-      "reminded": false,
-      "url": "https://1kuji.com/products/chainsawman3"
-    },
-    {
-      "date": "2026-07-21",
-      "topic": "一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-（ファミリーマート他、9月12日発売）",
-      "price": "790円→【検証済】ラストワン賞(緑谷出久-10th ANNIVERSARY-MASTERLISE)は現在買取4,720円（未開封+10%で約5,190円、約6倍）。予想(7,500〜10,500円)の半分以下で期待外れだったが黒字は確保",
-      "release_date": "2026-09-12",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/myhero47"
     },
     {
       "date": "2026-07-21",
@@ -110,17 +85,8 @@
       "topic": "一番くじ ベルセルク 宿命の双極（ローソン他、9月25日発売）",
       "price": "790円→ラストワン賞ゾッド(人の姿)MASTERLISE約28cm。前々作『運命に抗う、黒い剣士』ラストワン(ゾッドSOFVICS)はメルカリ27,000円〜・買取22,000円（約32倍）、前作『反撃の誓い』ラストワン(髑髏の騎士騎乗)は相場22,000円（約26倍）",
       "release_date": "2026-09-25",
-      "reminded": false,
-      "url": "https://1kuji.com/products/berserk4"
-    },
-    {
-      "date": "2026-08-13",
-      "topic": "【続報】一番くじ 僕のヒーローアカデミア -最高のヒーローになるまでの物語-（ファミリーマート他）ラストワン賞判明：緑谷出久-10th ANNIVERSARY- MASTERLISE",
-      "price": "790円→【検証済】実際の買取価格は4,720円（未開封+10%で約5,190円）に留まり、予想の12〜19倍には届かず約6倍（黒字ではあるが期待外れ）",
-      "release_date": "2026-09-12",
       "reminded": true,
-      "followup_checked": true,
-      "url": "https://hobby.dengeki.com/news/3085809/"
+      "url": "https://1kuji.com/products/berserk4"
     },
     {
       "date": "2026-08-20",
@@ -145,7 +111,7 @@
       "topic": "【続報】一番くじ 幽☆遊☆白書 魔界の扉編（ローソン他想定）発売日確定：9月25日（金）より順次。ラストワン賞：浦飯幽助-魔族大隔世-覚醒ver. MASTERLISE",
       "price": "850円→前作vol.3ラストワン賞(妖狐蔵馬MASTERLISE)はメルカリ11,500円〜・買取8,800円（約10〜13倍、参考値）。今作は主人公キャラのため同等以上を期待（推測ベース）",
       "release_date": "2026-09-25",
-      "reminded": false,
+      "reminded": true,
       "followup_checked": false,
       "url": "https://1kuji.com/products/yuhaku4"
     },
@@ -167,24 +133,6 @@
       "url": "https://one-piece.com/news/81656/index.html"
     },
     {
-      "date": "2026-09-06",
-      "topic": "【続報】ポケモンカードMEGA拡張パック「30th CELEBRATION」1BOX、ファミマオンラインで抽選受付中",
-      "price": "定価7,200円（20パック入り）→PRICE BASE調査の発売前予想相場30,000〜42,000円前後（未発売のため予想値、当選＝即差益期待）",
-      "release_date": "2026-09-16",
-      "deadline": "2026-09-10",
-      "reminded": true,
-      "url": "https://famima-online.family.co.jp/item?itemCode=100162480879693930"
-    },
-    {
-      "date": "2026-09-08",
-      "topic": "【続報】ポケモンカードMEGA拡張パック「30th CELEBRATION」ファミマオンライン抽選、応募にはメルマガ登録が必須と判明",
-      "price": "定価7,200円（20パック入り）→未発売のため予想相場30,000〜42,000円前後（当選＝即差益期待）",
-      "release_date": "2026-09-16",
-      "deadline": "2026-09-10",
-      "reminded": true,
-      "url": "https://famima-online.family.co.jp/item?itemCode=100162480879693930"
-    },
-    {
       "date": "2026-09-09",
       "topic": "🎯厳選ピック 一番くじ 東京喰種（ファミリーマート・ローソン・セブンイレブン他）ラストワン賞：梟 MASTERLISE EXTRA（約30cm）",
       "price": "790円→過去作ラストワン(覚醒マスクver.)はヤフオク8,500円で落札実績（約10.8倍、参考値）。金木研・霧嶋董香のMASTERLISEに加え、最上位仕様MASTERLISE EXTRAが看板キャラの梟に採用",
@@ -192,14 +140,6 @@
       "reminded": false,
       "followup_checked": false,
       "url": "https://1kuji.com/products/tokyoghoul8"
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "【続報】ポケモンカードMEGA拡張パック「30th CELEBRATION」ローソン店頭先着販売、9月16日午前7時開始・1会計5パックまでと公式発表",
-      "price": "360円/パック（5パック=1,800円）→MEGA拡張パックBOX(20パック)の発売前予想相場3〜4.2万円から逆算すると5パックでも数千円〜1万円規模の差益期待（未発売のため推測ベース）",
-      "release_date": "2026-09-16",
-      "reminded": true,
-      "url": "https://www.lawson.co.jp/lab/entertainment/art/20260908_toypokemon.html"
     },
     {
       "date": "2026-09-12",
