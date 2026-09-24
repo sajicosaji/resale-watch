@@ -214,7 +214,7 @@
       "topic": "一番くじ ベルセルク 宿命の双極 9/25発売(仕込み候補)",
       "price": "1回850円→相場未確定(参考値なし)",
       "release_date": "2026-09-25",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/berserk4"
     },
     {
