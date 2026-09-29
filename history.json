@@ -439,7 +439,7 @@
       "topic": "一番くじ〈トイ・ストーリー〉Playtime pals forever 9/30発売(仕込み候補)",
       "price": "1回880円→相場未確定(参考値なし)",
       "release_date": "2026-09-30",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/disney_toy8"
     },
     {
@@ -852,6 +852,14 @@
       "release_date": "2026-10-16",
       "url": "https://geo-online.co.jp/news/783",
       "deadline": "2026-10-01"
+    },
+    {
+      "date": "2026-09-29",
+      "topic": "【その他ジャンル・仕込み候補】一番くじ hololive FLOW GLOW 11/13発売。hololive DEV_IS所属5人組VTuberグループ、描き下ろしメッセージ入りアクリルビジュアルボード等封入",
+      "price": "1回790円→相場未確定(発売前、参考値なし)",
+      "release_date": "2026-11-13",
+      "reminded": false,
+      "url": "https://1kuji.com/products/hololive-flowglow"
     }
   ]
 }
