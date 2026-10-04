@@ -860,6 +860,36 @@
       "release_date": "2026-11-13",
       "reminded": false,
       "url": "https://1kuji.com/products/hololive-flowglow"
+    },
+    {
+      "date": "2026-10-04",
+      "topic": "【続報・本日発売】一番くじ FAIRY TAIL 20th ANNIVERSARY。ナツ・ルーシィ・ハッピーのMASTERLISE初登場、ラストワン賞エルザMASERLISE。相場は過去MASTERLISE一番くじ実績から1-3倍予想（発売直後に要確認）",
+      "price": "1回850円→相場未確定(参考値：過去MASTERLISE一番くじ実績1-3倍)",
+      "release_date": "2026-10-03",
+      "reminded": false,
+      "url": "https://1kuji.com/products/fairytail"
+    },
+    {
+      "date": "2026-10-04",
+      "topic": "【ポケ・本日締切】30th CELEBRATIONカードセット(御三家9種) ビックカメラ抽選。応募条件：マイナンバーカード+ビックカメラポイントカードまたは公式アプリ。メルカリ出品不可のため売却は買取店経由",
+      "price": "定価1,200円→メルカリ相場26,500前後(2.5倍未満だが、10月発売予定)",
+      "release_date": "2026-10-16",
+      "deadline": "2026-10-04",
+      "reminded": false,
+      "url": "https://www.bic-camera.co.jp/"
+    },
+    {
+      "date": "2026-10-04",
+      "topic": "【ワンピ・仕込み候補】ONE PIECEカードゲーム「EB-05 Heroines Edition vol.2」10月31日発売予定。女性キャラ専門版、通常弾では出ないスーパーパラレル・SEC等高価レア注目。相場未確定(発売前、過去EB系は定価1.5-2倍実績)",
+      "price": "1パック240円/BOX5760円→相場未確定(参考値なし)",
+      "release_date": "2026-10-31",
+      "reminded": false,
+      "url": "https://tcg-portal.jp/onepiece/releases"
+    },
+    {
+      "date": "2026-10-04",
+      "topic": "[警戒済]ポケ ストームエメラルダBOX さらに下落継続",
+      "price": "紹介時予約権相場32000-36000→9/16時点10700→10/4現在9025(シュリンクあり、-75%累計)"
     }
   ]
 }
