@@ -9,8 +9,6 @@ TODAY = datetime.now(JST).date()
 SOURCES = [
     ("history.json", "本体", "🎴", "#e63946"),
     ("history_conveni.json", "コンビニ", "🏪", "#f77f00"),
-    ("history_aichi.json", "愛知", "🍡", "#1d7a4f"),
-    ("history_fukuoka.json", "福岡", "🍜", "#1660a8"),
 ]
 
 def parse_date(s):
