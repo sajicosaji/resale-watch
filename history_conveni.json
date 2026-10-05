@@ -109,10 +109,10 @@
     {
       "date": "2026-09-02",
       "topic": "【続報】一番くじ 幽☆遊☆白書 魔界の扉編（ローソン他想定）発売日確定：9月25日（金）より順次。ラストワン賞：浦飯幽助-魔族大隔世-覚醒ver. MASTERLISE",
-      "price": "850円→前作vol.3ラストワン賞(妖狐蔵馬MASTERLISE)はメルカリ11,500円〜・買取8,800円（約10〜13倍、参考値）。今作は主人公キャラのため同等以上を期待（推測ベース）",
+      "price": "【検証済】実際の結果：Yahoo!オークション落札14,444〜15,000円（約17〜18倍、紹介時の予想〜10〜13倍を上回る的中）",
       "release_date": "2026-09-25",
       "reminded": true,
-      "followup_checked": false,
+      "followup_checked": true,
       "url": "https://1kuji.com/products/yuhaku4"
     },
     {
@@ -158,6 +158,14 @@
       "reminded": false,
       "followup_checked": false,
       "url": "https://1kuji.com/products/db_do"
+    },
+    {
+      "date": "2026-10-05",
+      "topic": "ONE PIECEカードゲーム エクストラブースター「Heroines Edition vol.2」（EB-05、セブン-イレブン等コンビニ含む全国発売）",
+      "price": "1パック240円・1BOX5,760円→未開封BOX買取予想13,000円前後（約2.3倍）、当たりカード「しらほし(SP)」買取予想約90,000円との情報も（買取店価格表ベース、発売前予想のため参考値）",
+      "release_date": "2026-10-31",
+      "reminded": false,
+      "url": "https://onepiece-cardgame.com/products/eb05.html"
     }
   ]
 }
