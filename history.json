@@ -84,7 +84,8 @@
       "price": "定価17600→Amazon一般相場22750〜(参考値、10/6発売前で転売相場未確定)",
       "release_date": "2026-10-06",
       "url": "https://www.suntory.co.jp/whisky/yamazaki/yamazaki_club/036/",
-      "deadline": "2026-08-17"
+      "deadline": "2026-08-17",
+      "reminded": true
     },
     {
       "date": "2026-08-16",
@@ -108,7 +109,8 @@
       "price": "定価17600→Amazon一般相場22750〜(参考値、10/6発売前で転売相場未確定)",
       "release_date": "2026-10-06",
       "url": "https://www.suntory.co.jp/whisky/yamazaki/yamazaki_club/036/",
-      "deadline": "2026-08-17"
+      "deadline": "2026-08-17",
+      "reminded": true
     },
     {
       "date": "2026-08-18",
@@ -116,7 +118,8 @@
       "price": "定価17600→相場30000-60000",
       "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
       "release_date": "2026-10-06",
-      "deadline": "2026-09-02"
+      "deadline": "2026-09-02",
+      "reminded": true
     },
     {
       "date": "2026-08-18",
@@ -890,6 +893,29 @@
       "date": "2026-10-04",
       "topic": "[警戒済]ポケ ストームエメラルダBOX さらに下落継続",
       "price": "紹介時予約権相場32000-36000→9/16時点10700→10/4現在9025(シュリンクあり、-75%累計)"
+    },
+    {
+      "date": "2026-10-05",
+      "topic": "【明日発売リマインド】山崎/白州 Story of the Distillery 2026 サントリー公式10/6発売。抽選済み、当選者は明日受取開始",
+      "price": "定価17600→相場30000-60000",
+      "release_date": "2026-10-06",
+      "url": "https://www.suntory.co.jp/whisky/yamazaki/sd/",
+      "reminded": true
+    },
+    {
+      "date": "2026-10-05",
+      "topic": "ポケ 30th CELEBRATION BOX イエローサブマリン各店 LivePocket抽選(新チャネル)",
+      "price": "定価7200→現在相場21500-24000",
+      "release_date": "2026-09-16",
+      "url": "https://livepocket.jp/e/hzk15",
+      "deadline": "2026-10-07"
+    },
+    {
+      "date": "2026-10-05",
+      "topic": "トレカ全般 ベイブレードX グローリーワルキューレLF メタルコート:ブルー 公式Xフォロー&リポスト抽選(無料、10名)",
+      "price": "参加無料→過去実績でグローリーワルキューレは利益商品と確認済み",
+      "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260915_2.html",
+      "deadline": "2026-10-11"
     }
   ]
 }
