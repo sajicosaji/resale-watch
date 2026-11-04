@@ -1,44 +1,12 @@
 {
   "items": [
     {
-      "date": "2026-07-18",
-      "topic": "一番くじ アニメ『呪術廻戦』5周年FINAL！（ファミリーマート他、ラストワン賞は五条悟MASTERLISE）",
-      "price": "800円→過去シリーズ(死滅回游)ラストワン賞買取実績3,000〜22,000円、人気No.1キャラの最終章で上振れ期待（推測ベース）",
-      "release_date": "2026-09-26",
-      "reminded": true,
-      "url": "https://1kuji.com/products/jujutsu19"
-    },
-    {
       "date": "2026-07-21",
       "topic": "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS（ローソン他、11月21日発売）",
       "price": "850円→相場データ薄い。歴代ライバル7人(DIO・カーズ・ディアボロ等)集結の豪華ラインナップで人気集中の可能性（推測ベース）",
       "release_date": "2026-11-21",
       "reminded": false,
       "url": "https://1kuji.com/products/jojo_26"
-    },
-    {
-      "date": "2026-07-22",
-      "topic": "一番くじ メイドインアビス（ミニストップ他、10月31日発売）",
-      "price": "850円→A賞・ラストワン賞ともにボンドルドMASTERLISE、相場データ薄いがMASTERLISEブランドは高額傾向（推測ベース）",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://1kuji.com/products/miabyss"
-    },
-    {
-      "date": "2026-07-22",
-      "topic": "一番くじ ONE PIECE -空に奏でる\"島の歌声\"-（コンビニ各社、10月29日発売）",
-      "price": "850円→A〜D賞はルフィ・ナミ・モンブラン・クリケット・ワイパーの全てMASTERLISE EXPIECE、ラストワン賞未発表（8/12再確認済み・依然未発表）。過去のMASTERLISE系ワンピくじ実績（1万〜2万円台）から化ける可能性あり（推測ベース）",
-      "release_date": "2026-10-29",
-      "reminded": false,
-      "url": "https://1kuji.com/products/onep_o12"
-    },
-    {
-      "date": "2026-07-30",
-      "topic": "一番くじ カグラバチ（セブン-イレブン、東京都内一部店舗、10月24日発売）",
-      "price": "850円→景品ラインナップ・ラストワン賞は未発表（8/12再確認済み・依然未発表）。次にくるマンガ大賞2024で1位を獲得した大人気作で、発表前から品薄化の可能性あり（推測ベース）",
-      "release_date": "2026-10-24",
-      "reminded": false,
-      "url": "https://1kuji.com/products/kagurabachi"
     },
     {
       "date": "2026-07-30",
@@ -65,55 +33,13 @@
       "url": "https://1kuji.com/products/db_fa3"
     },
     {
-      "date": "2026-08-01",
-      "topic": "一番くじ 進撃の巨人 ～心臓を捧げよ～（ローソン他、ラストワン賞：リヴァイ～人類最強の兵士～MASTERLISE騎馬フィギュア）",
-      "price": "850円→リヴァイ関連ラストワン賞はYahoo!オークション120日平均7,732円、他の巨人フィギュア系ラストワン賞は2〜3万円台の実績も（参考値）",
-      "release_date": "2026-10-24",
-      "reminded": false,
-      "url": "https://1kuji.com/products/shingeki16"
-    },
-    {
-      "date": "2026-08-06",
-      "topic": "一番くじ NARUTO-ナルト- 疾風伝 飛段・角都編（セブン-イレブン他、ラストワン賞：うずまきナルト 風遁・螺旋手裏剣 MASTERLISE）",
-      "price": "790円→同シリーズ直近のMASTERLISEラストワン賞実績：「波の国編」桃地再不斬がヤフオク22,000円、「繋がる思い」うちはマダラが買取20,400円（参考値、推測ベース）",
-      "release_date": "2026-10-26",
-      "reminded": false,
-      "url": "https://1kuji.com/products/naruto11"
-    },
-    {
-      "date": "2026-08-13",
-      "topic": "一番くじ ベルセルク 宿命の双極（ローソン他、9月25日発売）",
-      "price": "790円→ラストワン賞ゾッド(人の姿)MASTERLISE約28cm。前々作『運命に抗う、黒い剣士』ラストワン(ゾッドSOFVICS)はメルカリ27,000円〜・買取22,000円（約32倍）、前作『反撃の誓い』ラストワン(髑髏の騎士騎乗)は相場22,000円（約26倍）",
-      "release_date": "2026-09-25",
-      "reminded": true,
-      "url": "https://1kuji.com/products/berserk4"
-    },
-    {
-      "date": "2026-08-20",
-      "topic": "一番くじ BLEACH Stirring Souls vol.5（セブン-イレブン他、ラストワン賞：更木剣八MASTERLISE）",
-      "price": "850円→【検証済】実際の結果：買取12,500円・メルカリ出品17,000円〜（約14.7〜20倍、紹介時の予想〜19,000円/20,000〜25,000円からは下振れ）",
-      "release_date": "2026-09-19",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/bleach8"
-    },
-    {
       "date": "2026-08-20",
       "topic": "一番くじ ドラゴンボール SPIRIT OF THE SAIYAN（セブン-イレブン他、ラストワン賞：孫悟空＆孫悟飯MASTERLISE PLUS）",
-      "price": "790円→同ブランド「ピッコロ大魔王」MASTERLISE PLUSは実買取6,090円、「STRONG CHAINS!!」MASTERLISEは実買取19,270円、DB系ラストワン全体の直近120日平均落札15,505円（実買取ベース、参考値）",
+      "price": "790円→【検証済・的中】実際の結果：発売日時点の買取約15,000円（別店11,000円）・メルカリ出品15,000〜17,500円（約14〜19倍）",
       "release_date": "2026-10-17",
       "reminded": false,
-      "followup_checked": false,
-      "url": "https://1kuji.com/products/db_z8"
-    },
-    {
-      "date": "2026-09-02",
-      "topic": "【続報】一番くじ 幽☆遊☆白書 魔界の扉編（ローソン他想定）発売日確定：9月25日（金）より順次。ラストワン賞：浦飯幽助-魔族大隔世-覚醒ver. MASTERLISE",
-      "price": "【検証済】実際の結果：Yahoo!オークション落札14,444〜15,000円（約17〜18倍、紹介時の予想〜10〜13倍を上回る的中）",
-      "release_date": "2026-09-25",
-      "reminded": true,
       "followup_checked": true,
-      "url": "https://1kuji.com/products/yuhaku4"
+      "url": "https://1kuji.com/products/db_z8"
     },
     {
       "date": "2026-08-26",
@@ -123,14 +49,6 @@
       "reminded": false,
       "followup_checked": false,
       "url": "https://hobby.dengeki.com/news/3108152/"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "【続報】一番くじ ONE PIECE -空に奏でる\"島の歌声\"-（コンビニ各社）ラストワン賞判明：黄金の大鐘楼（プロジェクター機構、約11cm）",
-      "price": "850円→ラストワン賞はキャラクターフィギュアではなくギミック景品のため、厳選ピック基準（主要キャラ）を満たさず期待値は下方修正（参考データなし）",
-      "release_date": "2026-10-29",
-      "reminded": false,
-      "url": "https://one-piece.com/news/81656/index.html"
     },
     {
       "date": "2026-09-09",
@@ -144,28 +62,20 @@
     {
       "date": "2026-09-12",
       "topic": "🎯厳選ピック 一番くじ 鬼滅の刃 ～雷の兄弟～（セブン-イレブン他）ラストワン賞：狛治 MASTERLISE 約25cm",
-      "price": "790円→前作『上弦の弐』ラストワン(童磨MASTERLISE)は買取11,000円・メルカリ15,000円〜（約14〜19倍、発売日時点の目安値のため実成約とは乖離の可能性あり）。劇場版『無限城編』公開中で狛治が話題の中心、善逸・獪岳もMASTERLISE初登場（推測ベース）",
+      "price": "790円→【検証済・微妙】実際の結果：フリマ相場18,500円〜だが買取店は3,770〜4,090円（フリマ相場の約1/5）。出品価格と買取価格の差が大きく、即買い即売りには不向きだった",
       "release_date": "2026-09-26",
       "reminded": true,
-      "followup_checked": false,
+      "followup_checked": true,
       "url": "https://1kuji.com/products/kimetsu28"
     },
     {
       "date": "2026-09-28",
       "topic": "🎯厳選ピック 一番くじ ドラゴンボール DRAGON OMNIBUS～神と神の闘い～（ファミリーマート他）ラストワン賞：親子かめはめ波 MASTERLISE PLUS（孫悟空＆孫悟飯）",
-      "price": "800円→同ブランド「SPIRIT OF THE SAIYAN」MASTERLISE PLUS(ピッコロ大魔王)は実買取6,090円、MASTERLISE(STRONG CHAINS!!)は実買取19,270円、DB系ラストワン全体の直近120日平均落札15,505円（実買取・落札ベース、参考値）",
+      "price": "800円→同ブランド「SPIRIT OF THE SAIYAN」MASTERLISE PLUS(孫悟空＆孫悟飯)は発売日時点の買取約15,000円・メルカリ15,000〜17,500円、DB系ラストワン全体の直近120日平均落札15,505円（実買取・落札ベース、参考値）",
       "release_date": "2027-02-06",
       "reminded": false,
       "followup_checked": false,
       "url": "https://1kuji.com/products/db_do"
-    },
-    {
-      "date": "2026-10-05",
-      "topic": "ONE PIECEカードゲーム エクストラブースター「Heroines Edition vol.2」（EB-05、セブン-イレブン等コンビニ含む全国発売）",
-      "price": "1パック240円・1BOX5,760円→未開封BOX買取予想13,000円前後（約2.3倍）、当たりカード「しらほし(SP)」買取予想約90,000円との情報も（買取店価格表ベース、発売前予想のため参考値）",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://onepiece-cardgame.com/products/eb05.html"
     }
   ]
 }
