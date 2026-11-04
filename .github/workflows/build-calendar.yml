@@ -5,6 +5,10 @@ on:
     - cron: "40 22 * * *"   # 07:40 JST (after morning runs)
     - cron: "40 9 * * *"    # 18:40 JST (after evening runs)
   workflow_dispatch:
+    inputs:
+      max_hours:
+        description: "止まっていると見なす時間（試験用）"
+        required: false
 
 permissions:
   contents: write
@@ -36,3 +40,11 @@ jobs:
             git pull --rebase origin main || true
             git push
           fi
+
+      - name: 配信が止まっていないか見る
+        if: always()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_WEBHOOK_CONVENI: ${{ secrets.DISCORD_WEBHOOK_CONVENI }}
+          MAX_HOURS: ${{ inputs.max_hours }}
+        run: python deliver.py check

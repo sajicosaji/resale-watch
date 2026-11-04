@@ -1,0 +1,68 @@
+name: deliver
+
+# クラウドのルーティンが claude/ ブランチに下書き(outbox)を push すると動く。
+# Discord へ送り、履歴と実行記録だけを main に入れて、ブランチを消す。
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["outbox/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deliver
+  cancel-in-progress: false
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Discordへ送る
+        id: send
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_WEBHOOK_CONVENI: ${{ secrets.DISCORD_WEBHOOK_CONVENI }}
+        run: python3 deliver.py send
+
+      - name: 履歴と実行記録をmainに入れる
+        env:
+          KINDS: ${{ steps.send.outputs.kinds }}
+        run: |
+          git config user.name "resale-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch -q origin main
+            git checkout -q -B main origin/main
+            for k in $KINDS; do
+              case "$k" in
+                resale) git checkout -q "$GITHUB_SHA" -- history.json ;;
+                conveni) git checkout -q "$GITHUB_SHA" -- history_conveni.json ;;
+              esac
+            done
+            python3 deliver.py mark $KINDS
+            git add last_run.json history.json history_conveni.json
+            git diff --cached --quiet || git commit -q -m "配信履歴を更新"
+            if git push -q origin main; then
+              git push -q origin --delete "$GITHUB_REF_NAME"
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1
+
+      - name: 失敗を知らせる
+        if: failure()
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          printf '{"content":"⚠️ 配信の送信に失敗しました。下書きはブランチに残っています。\\n%s"}' "$RUN_URL" > notice.json
+          code=$(curl -sS -o /dev/null -w '%{http_code}' -H 'Content-Type: application/json' -d @notice.json "$WEBHOOK?wait=true")
+          echo "Discord応答: $code"
+          test "$code" = "200"
