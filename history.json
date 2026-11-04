@@ -1,582 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-07-26",
-      "topic": "一番くじ 呪術廻戦5周年FINAL 9/26発売(仕込み候補)",
-      "price": "1回800円→相場未確定(参考値なし)",
-      "release_date": "2026-09-26",
-      "reminded": true,
-      "url": "https://1kuji.com/products/jujutsu19"
-    },
-    {
-      "date": "2026-07-27",
-      "topic": "[訂正済]【続報】ワンピ EB-05 Heroines Edition Vol.2。※日本公式の商品ページは「発売日2026.10」と月までしか出しておらず、10/30-31は海外販売店表記ベースの見込み。日付確定として扱わないこと",
-      "release_date": "2026-10-30",
-      "url": "https://www.onepiece-cardgame.com/products/"
-    },
-    {
-      "date": "2026-08-03",
-      "topic": "一番くじ FAIRY TAIL 20th ANNIVERSARY 10/3発売 仕込み候補",
-      "price": "1回850円→相場未確定、A賞ナツ/B賞ルーシィ/C賞ハッピー/ラストワン賞エルザが全てMASTERLISE初立体化(参考)",
-      "release_date": "2026-10-03",
-      "reminded": false,
-      "url": "https://1kuji.com/products/fairytail"
-    },
-    {
-      "date": "2026-08-04",
-      "topic": "一番くじ 攻殻機動隊 THE GHOST IN THE SHELL 9/26発売(仕込み候補)",
-      "price": "1回850円→相場未確定(参考値なし)",
-      "release_date": "2026-09-26",
-      "reminded": true,
-      "url": "https://1kuji.com/products/theghostintheshell"
-    },
-    {
-      "date": "2026-08-04",
-      "topic": "一番くじ ベルセルク 宿命の双極 9/25発売(仕込み候補)",
-      "price": "1回850円→相場未確定(参考値なし)",
-      "release_date": "2026-09-25",
-      "reminded": true,
-      "url": "https://1kuji.com/products/berserk4"
-    },
-    {
-      "date": "2026-08-12",
-      "topic": "一番くじ カグラバチ 10/24発売(仕込み候補)。連載3周年記念、一番くじ初展開とみられる",
-      "price": "1回850円→相場未確定(参考値なし)",
-      "release_date": "2026-10-24",
-      "reminded": false,
-      "url": "https://1kuji.com/products/kagurabachi"
-    },
-    {
-      "date": "2026-08-14",
-      "topic": "ポケ 30th CELEBRATIONカードセット(御三家プロモ×拡張パック×カードスタンド、全9種) 10/16発売予定 仕込み候補",
-      "price": "定価1200円→相場未確定(参考値なし)",
-      "release_date": "2026-10-16",
-      "reminded": false,
-      "url": "https://www.30th.pokemon-card.com/product/cardset"
-    },
-    {
-      "date": "2026-08-14",
-      "topic": "一番くじ MADE IN ABYSS(メイドインアビス) 10/31発売 仕込み候補",
-      "price": "1回850円→相場未確定(A賞ボンドルドMASTERLISE、B賞ナナチ&ミーティ、参考値なし)",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://1kuji.com/products/miabyss"
-    },
-    {
-      "date": "2026-08-14",
-      "topic": "一番くじ ウマ娘プリティーダービー14弾 10/17発売 仕込み候補",
-      "price": "1回920円→相場未確定(ラストワン賞:金のゴルシ像、参考値なし)",
-      "release_date": "2026-10-17",
-      "reminded": false,
-      "url": "https://1kuji.com/products/umamusume17"
-    },
-    {
-      "date": "2026-08-14",
-      "topic": "一番くじ 進撃の巨人 ～心臓を捧げよ～ 10/24発売 仕込み候補",
-      "price": "1回850円→相場未確定(A~E賞は調査兵団5人MASTERLISE、ラストワン賞リヴァイ約30cm、参考値なし)",
-      "release_date": "2026-10-24",
-      "reminded": false,
-      "url": "https://1kuji.com/products/shingeki16"
-    },
-    {
-      "date": "2026-08-15",
-      "topic": "【新ジャンル】ジャパニーズウイスキー 山崎Story of the Distillery 2026 EDITION サントリー公式第1回抽選(締切8/17 23:59、外れれば第2回8/18-9/2)",
-      "price": "定価17600→Amazon一般相場22750〜(参考値、10/6発売前で転売相場未確定)",
-      "release_date": "2026-10-06",
-      "url": "https://www.suntory.co.jp/whisky/yamazaki/yamazaki_club/036/",
-      "deadline": "2026-08-17",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-16",
-      "topic": "一番くじ 桜蘭高校ホスト部 ～20th Anniversary～ 10/24発売 仕込み候補",
-      "price": "1回750円→相場未確定(アニメ20周年、発表時点でSNS反響大)",
-      "release_date": "2026-10-24",
-      "reminded": false,
-      "url": "https://dengekionline.com/article/202606/76924"
-    },
-    {
-      "date": "2026-08-16",
-      "topic": "一番くじ プリキュア ～Endless Grace～ 9/26発売 仕込み候補",
-      "price": "1回770円→相場未確定",
-      "release_date": "2026-09-26",
-      "reminded": true,
-      "url": "https://1kuji.com/products/precure5"
-    },
-    {
-      "date": "2026-08-16",
-      "topic": "【続報・締切間近】ジャパニーズウイスキー サントリー公式 山崎Story of the Distillery 第1回抽選(明日8/17締切、外れれば第2回8/18-9/2)",
-      "price": "定価17600→Amazon一般相場22750〜(参考値、10/6発売前で転売相場未確定)",
-      "release_date": "2026-10-06",
-      "url": "https://www.suntory.co.jp/whisky/yamazaki/yamazaki_club/036/",
-      "deadline": "2026-08-17",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-18",
-      "topic": "【新ジャンル】ジャパニーズウイスキー 山崎/白州Story of the Distillery 2026 サントリー公式 第2回抽選 受付開始(1回目落選者向け)",
-      "price": "定価17600→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "release_date": "2026-10-06",
-      "deadline": "2026-09-02",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-18",
-      "topic": "【その他ジャンル・厳選】ドラゴンクエスト40周年×人生ゲーム コラボ(タカラトミー、10/24発売)。予約開始直後に売り切れ続出、日経・ライブドア等が報道",
-      "price": "定価7150→Amazon等転売17000円前後(2.4倍)",
-      "release_date": "2026-10-24",
-      "url": "https://gamebiz.jp/news/431191"
-    },
-    {
-      "date": "2026-08-20",
-      "topic": "【新ジャンル・トレカ全般】パルワールドOCG 第2弾「LEGENDS AWAKEN」10/30発売予定(仕込み候補)。第1弾パルパゴスの夜明け(7/30発売、BOX定価5280円)は\"ポケカ現象の再来\"と報道されるほど高騰",
-      "price": "第1弾実績:BOX定価5280→最高額カード(ツッパニャンSSS)買取180000円(参考値、相場は不安定)",
-      "release_date": "2026-10-30",
-      "url": "https://gamebiz.jp/news/423268",
-      "reminded": false
-    },
-    {
-      "date": "2026-08-24",
-      "topic": "【トレカ全般・仕込み候補】遊戯王 ORIGINAL ARTWORK COLLECTION 9/26発売。全100種中10種がシリアルNo.付きグランドマスターレア(原作絵柄MANGA-STYLE)、38種にプリズマティックシークレットレア仕様",
-      "price": "1パック396円→相場未確定(シリアル入り希少レア封入、参考値なし)",
-      "release_date": "2026-09-26",
-      "url": "https://www.yugioh-card.com/japan/products/yac1/",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-26",
-      "topic": "【続報・締切間近】ジャパニーズウイスキー 白州18年+12年セット 楽天ファーストステージ先着くじ(明日8/27締切)",
-      "price": "17880円→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-08-27"
-    },
-    {
-      "date": "2026-08-26",
-      "topic": "【続報・締切間近】F・黒字案件 Habitto×CHEER証券 口座開設(8/28締切)",
-      "price": "自己負担0円→10000円相当ポイント還元",
-      "url": "https://happynap.net/habitto-cheer-securities-account-opening-10000yen/",
-      "deadline": "2026-08-28"
-    },
-    {
-      "date": "2026-08-26",
-      "topic": "【続報・締切間近】ポケ 30th CELEBRATION フルコンプ各店抽選(8/30 12:00締切)。品薄で高倍率化の報告複数",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://cardchusen.com/pokeka/30th-celebration",
-      "deadline": "2026-08-30",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-26",
-      "topic": "ワンピ OP-18 ウォーターセブン 11月発売予定(仕込み候補)。新レアリティ「神の騎士団スーパーパラレル」(軍子宮)、FF天野喜孝氏描き下ろしSEC(ロキ/シャムロック聖)封入",
-      "price": "価格未発表→相場未確定(参考値なし)",
-      "url": "https://www.inside-games.jp/article/2026/08/24/186647.html"
-    },
-    {
-      "date": "2026-08-26",
-      "topic": "【E・仕込み候補】くら寿司×ちいかわ コラボ第4弾(8/21〜9/30、ビッくらポン!フィギュア全5種/アクリルマグネット全8種/缶バッジ全8種)。過去コラボの実績から先回りで注目",
-      "price": "ビッくらポン1回500円→過去コラボ(第3弾)実績でハチワレ10,000円・うさぎ8,000円(メルカリ、約16-20倍)。今回のフィギュア5種も同水準期待(参考値)",
-      "release_date": "2026-08-21",
-      "url": "https://www.kurasushi.co.jp/author/008384.html"
-    },
-    {
-      "date": "2026-08-26",
-      "topic": "【E・仕込み候補】TOHOシネマズ「IMAXフィルムカメラ・ポップコーンボックス」IMAX全14劇場で9月上旬発売予定(正式日程未発表)。海外販売時は即完売の実績あり",
-      "price": "価格・正式発売日未発表(続報待ち)→類似の映画限定ポップコーンケース(マリオ映画ヨッシーバケット定価6,800円等)は発売後すぐ高額転売される傾向(参考値)",
-      "url": "https://www.tohotheater.jp/campaign/imaxfilmcamerapopcornbox.html"
-    },
-    {
-      "date": "2026-08-27",
-      "topic": "ポケ 30th CELEBRATION／プレミアムデッキセット(エーフィ・ブラッキー) イトーヨーカドー各店 店頭QRコード抽選(応募8/29-8/31、購入期間9/16-20)。オンライン一括応募なし・店頭QRコードのみ",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
-      "release_date": "2026-09-16",
-      "url": "https://x.com/pokeca_new_card/status/2092405271738167671",
-      "deadline": "2026-08-31",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-27",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 白州18年+12年セット 楽天ファーストステージ先着くじ",
-      "price": "17880円→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-08-27"
-    },
-    {
-      "date": "2026-08-27",
-      "topic": "【続報・明日締切】F・黒字案件 Habitto×CHEER証券 口座開設(ラストチャンス)",
-      "price": "自己負担0円→10000円相当ポイント還元",
-      "url": "https://happynap.net/habitto-cheer-securities-account-opening-10000yen/",
-      "deadline": "2026-08-28"
-    },
-    {
-      "date": "2026-08-28",
-      "topic": "[警戒済]ポケ ストームエメラルダBOX さらに大幅下落・利益消滅",
-      "price": "紹介時の予約権相場32000-36000→8/23時点13800-17400→現在11800前後(-63〜67%累計)"
-    },
-    {
-      "date": "2026-08-29",
-      "topic": "【続報・締切間近・最終案内】ポケ 30th CELEBRATION フルコンプ各店抽選(8/30 12:00締切)。品薄で高倍率化の報告複数",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://cardchusen.com/pokeka/30th-celebration",
-      "deadline": "2026-08-30",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-29",
-      "topic": "【続報・締切間近】ポケ 30th CELEBRATION イトーヨーカドー抽選(プレミアムデッキセット エーフィ・ブラッキー、店頭QRコードのみ・オンライン一括応募なし)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://x.com/pokeca_new_card/status/2092405271738167671",
-      "deadline": "2026-08-31",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-29",
-      "topic": "【続報・締切間近】ポケ 30th CELEBRATION ポケモンセンターオンライン追加抽選(BOX+プレミアムデッキセット、本人認証済み枠が有利:当選率52.9%/未認証23.3%)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
-      "deadline": "2026-08-31",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-29",
-      "topic": "ポケ 30th CELEBRATION ゲオ抽選(新チャネル、拡張パックBOX+プレミアムデッキセット、要ゲオアプリ+Pontaカード連携、代理購入不可)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://geo-online.co.jp/news/779",
-      "deadline": "2026-09-03",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-30",
-      "topic": "【続報・締切間近】ポケ 30th CELEBRATION 個人ショップ抽選5店舗(イエローサブマリン/楽天ブックス/エディオン&トレカキャピタル/ポケモンカードラウンジ/竜星のPAO)本日8/30締切",
-      "price": "定価7200→相場未確定(9/16発売前、品薄・高倍率化の報告複数)",
-      "release_date": "2026-09-16",
-      "url": "https://snkrdunk.com/articles/32425/",
-      "deadline": "2026-08-30",
-      "reminded": true
-    },
-    {
-      "date": "2026-08-30",
-      "topic": "[早期注意]ワンピ OP-17世界最強の戦士BOX 発売後に予約ピークから軟化",
-      "price": "予約時点23600-28000→発売後市場価格19800/買取17820(-16~29%)。定価5760なのでなお高利益"
-    },
-    {
-      "date": "2026-08-31",
-      "topic": "【続報・締切間近】ジャパニーズウイスキー 山崎/白州Story of the Distillery 2026 サントリー公式 第2回抽選(締切9/2 23:59、会員登録のみ・購入実績不要)",
-      "price": "定価17600→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-02",
-      "reminded": false
-    },
-    {
-      "date": "2026-08-31",
-      "topic": "[早期注意]トレカ ベイブレードX グローリーワルキューレLF さらに下落の兆候(単一情報源のため参考値)",
-      "price": "実勢9900-10200(8/8)→買取1店7000(-29~31%)。受注生産による供給増の影響か"
-    },
-    {
-      "date": "2026-09-01",
-      "topic": "ポケ 30th CELEBRATION ヨドバシ.com抽選(新チャネル、BOX+プレミアムデッキセット エーフィ・ブラッキー、要ヨドバシ購入履歴)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://limited.yodobashi.com/entry/shared/",
-      "deadline": "2026-09-01",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-01",
-      "topic": "【続報・本日締切】ポケ 30th CELEBRATION 三洋堂書店抽選(当選発表9/11、購入9/16-20)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://www.inside-games.jp/article/2026/08/19/186388.html",
-      "deadline": "2026-09-01",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-01",
-      "topic": "【雑貨・仕込み候補】ボンボンドロップシール×Mrs. GREEN APPLE(初のアーティストコラボ、9月下旬クーリア公式で先行抽選販売予定)",
-      "price": "相場未確定(発売前、参考値なし)",
-      "url": "https://www.inside-games.jp/article/2026/08/27/186841.html"
-    },
-    {
-      "date": "2026-09-01",
-      "topic": "【その他ジャンル】一番くじ サンエックス×ちょこっと 9/16発売(仕込み候補)",
-      "price": "1回550円→相場未確定(参考値なし)",
-      "release_date": "2026-09-16",
-      "reminded": true,
-      "url": "https://collabo-cafe.com/events/collabo/san-x-ichiban-kuji-chocotto-2026/"
-    },
-    {
-      "date": "2026-09-01",
-      "topic": "一番くじ きみが死ぬまで恋をしたい 9/24発売(仕込み候補)",
-      "price": "1回700円→相場未確定(参考値なし)",
-      "release_date": "2026-09-24",
-      "reminded": true,
-      "url": "https://1kuji.com/products/kimishinu"
-    },
-    {
-      "date": "2026-09-02",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 山崎/白州Story of the Distillery2026 サントリー公式第2回抽選",
-      "price": "定価17600→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-02"
-    },
-    {
-      "date": "2026-09-02",
-      "topic": "【続報・本日締切】ワンピ「4th Anniversary Set」プレミアムバンダイ抽選(発送2027年2月と先)",
-      "price": "18700円→相場未確定(参考値なし)",
-      "url": "https://cardchusen.com/onepiece/op-4th-anniv-set",
-      "deadline": "2026-09-02"
-    },
-    {
-      "date": "2026-09-02",
-      "topic": "【続報・締切間近】ポケ 30th CELEBRATION ゲオ抽選(要Pontaカード連携+ゲオアプリ)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://geo-online.co.jp/news/779",
-      "deadline": "2026-09-03",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-02",
-      "topic": "[警戒済]ワンピ OP-17世界最強の戦士BOX さらに下落",
-      "price": "予約権相場23600-28000→8/30時点19800/17820→現在市場17749/買取15974(累計-32〜43%)"
-    },
-    {
-      "date": "2026-09-02",
-      "topic": "【F・黒字案件】JAL Pay×Apple Pay 100%還元キャンペーン",
-      "price": "毎月500円利用→500ポイント還元、2ヶ月で最大1000円相当の黒字",
-      "url": "https://happynap.net/jal-pay-apple-pay-100-percent-campaign/",
-      "deadline": "2026-10-31"
-    },
-    {
-      "date": "2026-09-05",
-      "topic": "【新ジャンル】ジャパニーズウイスキー 山崎12年・白州12年 世界のお酒ニューヨーク(楽天)くじ",
-      "price": "7370円+送料→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-07"
-    },
-    {
-      "date": "2026-09-05",
-      "topic": "【新ジャンル】ジャパニーズウイスキー 山崎SoD2026・白州SoD2026 イトーヨーカドーネット通販抽選(要購入実績)",
-      "price": "定価17600→相場30000-60000",
-      "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_RLlottery.aspx",
-      "deadline": "2026-09-06"
-    },
-    {
-      "date": "2026-09-05",
-      "topic": "【その他ジャンル・仕込み候補】一番くじ 機動戦士ガンダム UNIVERSAL CENTURY SAGA2 10/3発売(アムロ・レイ初のMASTERLISE化、ラストワン賞THE GIGANT NAME)",
-      "price": "1回850円→相場未確定(参考値なし)",
-      "release_date": "2026-10-03",
-      "reminded": false,
-      "url": "https://1kuji.com/products/gundam_ucs2"
-    },
-    {
-      "date": "2026-09-05",
-      "topic": "一番くじ ONE PIECE -空に奏でる“島の歌声”- 10/29発売(仕込み候補)。A賞ルフィ等MASTERLISE EXPIECE、ラストワン賞は黄金の大鐘楼(プロジェクター機能)",
-      "price": "1回850円→相場未確定(参考値なし)",
-      "release_date": "2026-10-29",
-      "reminded": false,
-      "url": "https://1kuji.com/products/onep_o12"
-    },
-    {
-      "date": "2026-09-05",
-      "topic": "[上昇済]ワンピ OP-17世界最強の戦士BOX 反発",
-      "price": "9/2買取15974→現在買取約19692(+23%)"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "ポケ 30th CELEBRATION ポケモンセンターオンライン最終抽選(BOX/FUTURISTIC BOX/カードセット、応募9/11 16:00-9/16 16:59、発売直前ラストチャンス)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "reminded": true,
-      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
-      "deadline": "2026-09-16"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 山崎SoD2026・白州SoD2026 イトーヨーカドーネット通販抽選",
-      "price": "定価17600→相場30000-60000",
-      "url": "https://iyec.itoyokado.co.jp/shop/pages/apply_RLlottery.aspx",
-      "deadline": "2026-09-06"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "【続報・締切間近】ジャパニーズウイスキー 山崎12年・白州12年 世界のお酒ニューヨーク(楽天)くじ",
-      "price": "7370円+送料→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-07"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "【F・黒字案件】honto(電子書籍、ポイントインカム経由) 550円購入→1000ポイント還元",
-      "price": "550円→1000pt(実質450円黒字)",
-      "url": "https://point-chiritsumo.com/recommended-points-activities-news/"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "【F・黒字案件】LYPプレミアム スタンダードプラン新規入会特典(会費最大2ヶ月無料+PayPayポイント合計5000円相当)",
-      "price": "自己負担0円→5000円相当ポイント",
-      "url": "https://happynap.net/lyp-premium-5000-yen-signup-offer-ending/",
-      "deadline": "2026-09-30"
-    },
-    {
-      "date": "2026-09-06",
-      "topic": "【F・黒字案件】ふるなび9月チャージキャンペーン(6668円/10000円チャージで実質20%増量還元)",
-      "price": "6668円→8000円相当、10000円→12000円相当",
-      "url": "https://happynap.net/furunavi-money-campaign-202609/",
-      "deadline": "2026-09-30"
-    },
-    {
-      "date": "2026-09-07",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 山崎12年・白州12年 世界のお酒ニューヨーク(楽天)くじ",
-      "price": "7370円+送料→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-07"
-    },
-    {
-      "date": "2026-09-07",
-      "topic": "一番くじ〈トイ・ストーリー〉Playtime pals forever 9/30発売(仕込み候補)",
-      "price": "1回880円→相場未確定(参考値なし)",
-      "release_date": "2026-09-30",
-      "reminded": true,
-      "url": "https://1kuji.com/products/disney_toy8"
-    },
-    {
-      "date": "2026-09-07",
-      "topic": "[警戒済]ボンボンドロップシール 全体的に相場崩壊(複数メディア報道)",
-      "price": "定価500円→投げ売り100円程度(-80%相当)、増産による供給過剰化",
-      "url": "https://news.livedoor.com/article/detail/32248201/"
-    },
-    {
-      "date": "2026-09-08",
-      "topic": "【新ジャンル】ジャパニーズウイスキー イオン南関東(東京・神奈川・千葉・山梨限定)抽選(イオンお買物アプリ登録のみ)",
-      "price": "定価8250-8800円(山崎/白州/響JAPANESE HARMONY NAS版)→市場相場15000-20000円",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-08"
-    },
-    {
-      "date": "2026-09-08",
-      "topic": "【新ジャンル・続報】ジャパニーズウイスキー 世界のお酒ニューヨーク(楽天)先着くじ 新ラウンド(白州12年/山崎12年/響JH)",
-      "price": "7700円+送料→白州/山崎12年相場30000-60000、響JH相場15000-20000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-11"
-    },
-    {
-      "date": "2026-09-08",
-      "topic": "【トレカ全般・仕込み候補】ディズニーロルカナ第6弾「大いなるアズライト」10/31発売。1BOXにレジェンダリー2枚確定封入(封入率アップ)、購入特典《リロ-抜け出し名人》",
-      "price": "BOX定価5280円→相場未確定(発売前、参考値なし)",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://www.takaratomy.co.jp/products/disneylorcana/news/products/47946/"
-    },
-    {
-      "date": "2026-09-09",
-      "topic": "【続報・締切間近】ポケ 30th CELEBRATION 個人カードショップ抽選(新宿高島屋・バトロコ小山駅前店)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://pokeca-navi.jp/lotteries/",
-      "deadline": "2026-09-10",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-09",
-      "topic": "【続報・締切間近】ポケ ストームエメラルダ 個人ショップ抽選(エイトマン通販部)",
-      "price": "定価6000→買取相場帯17000円前後(既存実績ベース、下落基調のため参考値)",
-      "release_date": "2026-07-31",
-      "url": "https://pokeca-navi.jp/lotteries/",
-      "deadline": "2026-09-10"
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "【続報・本日締切】ポケ 30th CELEBRATION 個人カードショップ抽選(新宿高島屋・バトロコ小山駅前店)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://pokeca-navi.jp/lotteries/",
-      "deadline": "2026-09-10",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "【続報・本日締切】ポケ ストームエメラルダ 個人ショップ抽選(エイトマン通販部)",
-      "price": "定価6000→買取相場帯17000円前後(下落基調のため参考値)",
-      "release_date": "2026-07-31",
-      "url": "https://pokeca-navi.jp/lotteries/",
-      "deadline": "2026-09-10"
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "【続報・締切間近】ジャパニーズウイスキー 世界のお酒ニューヨーク(楽天)先着くじ新ラウンド(白州12年/山崎12年/響JH)",
-      "price": "7700円+送料→白州/山崎12年相場30000-60000、響JH相場15000-20000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-11"
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "一番くじ〈くまのプーさん〉100th Anniversary 10/10発売(仕込み候補)",
-      "price": "1回790円→相場未確定(原作デビュー100周年、ラストワン賞は特別仕様ぬいぐるみ、参考値なし)",
-      "release_date": "2026-10-10",
-      "reminded": false,
-      "url": "https://1kuji.com/products/disney_pooh7"
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "一番くじ Fate/Grand Order(仮) 10/31発売(仕込み候補)",
-      "price": "1回850円→相場未確定(マシュ・キリエライト/オルガマリー・アニムスフィア1/7スケール立体化、参考値なし)",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://1kuji.com/products/fate29"
-    },
-    {
-      "date": "2026-09-10",
-      "topic": "[警戒済]トレカ全般 パルワールドOCG「パルパゴスの夜明け」ツッパニャンSSS 大幅下落",
-      "price": "紹介時買取180000→現在買取100000/メルカリ10.5-11.3万円台(-44%)"
-    },
-    {
-      "date": "2026-09-11",
-      "topic": "【トラブル】くら寿司×ちいかわコラボ 9/6に完全中止。従業員による景品の不正抜き取り・メルカリ転売が発覚し警察へ相談。過去に仕込み候補として紹介した企画のため要注意、再開の見通しは不透明",
-      "url": "https://coki.jp/article/news/92451/"
-    },
-    {
-      "date": "2026-09-11",
-      "topic": "【続報】ポケ 30th CELEBRATION ポケモンセンターオンライン最終抽選 本日9/11 16:00受付開始(BOX/FUTURISTIC BOX/カードセット対象、発売直前ラストチャンス)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍",
-      "release_date": "2026-09-16",
-      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
-      "deadline": "2026-09-16",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-11",
-      "topic": "【続報】ワンピ OP-18「神の支配」正式名称・テーマ判明(ウォーターセブン編・神の騎士団、4周年記念パック、天野喜孝氏描き下ろしSEC封入予定)。発売日は11月中と報道されるが情報源により11/21〜11/28とばらつきあり未確定",
-      "price": "価格未発表→相場未確定(参考値なし)",
-      "url": "https://torecamap.co.jp/column/op18/"
-    },
-    {
-      "date": "2026-09-12",
-      "topic": "【トラブル】ちいかわ関連 転売・不正トラブルさらに拡大(しまむら映画ちいかわコラボ即完売+フリマ倍額出品、新幹線コラボノベルティの集団転売疑惑)",
-      "url": "https://otonanswer.jp/post/391179/"
-    },
-    {
-      "date": "2026-09-13",
-      "topic": "ポケ 30th CELEBRATION コジマ×ビックカメラ抽選(新チャネル、要購入実績5000円以上)",
-      "price": "相場未確定(9/16発売前)、過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
-      "release_date": "2026-09-16",
-      "url": "https://x.com/PokeGetInfoMain/status/2095361545182335135",
-      "deadline": "2026-09-13",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-13",
-      "topic": "ジャパニーズウイスキー 山崎/白州/響 オーケーストア抽選(アプリ登録のみ、9/20締切)/楽天SAKE People先着くじ(登録不要、9/30締切)",
-      "price": "6600円(SAKE People)〜/定価帯→相場30000-60000(山崎白州系)",
-      "url": "https://norifune.com/liqueur/whisky/lottery-whisky",
-      "deadline": "2026-09-30"
-    },
-    {
       "date": "2026-09-13",
       "topic": "ワンピ OP-18神の支配 発売日11/22・価格確定(仕込み候補)",
       "price": "1パック240円/1BOX5760円→相場未確定(参考値なし)",
@@ -585,95 +9,12 @@
       "url": "https://tier-one-onepiece.jp/blog/op18-card-list/"
     },
     {
-      "date": "2026-09-13",
-      "topic": "一番くじ〈モンスターズ・インク〉10/17発売(仕込み候補)",
-      "price": "1回750円→相場未確定(A賞ハイド&エスケープフィギュア、参考値なし)",
-      "release_date": "2026-10-17",
-      "reminded": false,
-      "url": "https://news.yahoo.co.jp/articles/38fb8846c2629618ac4764111122c0f51219b280"
-    },
-    {
-      "date": "2026-09-15",
-      "topic": "【明日発売リマインド】ポケ MEGA拡張パック「30th CELEBRATION」9/16世界同時発売。新レアリティFUR・全パックにピカチュウ描き下ろしカード確定封入。ポケモンセンターオンライン最終抽選は9/16 16:59締切",
-      "price": "定価未確定→過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
-      "release_date": "2026-09-16",
-      "reminded": true,
-      "url": "https://www.30th.pokemon-card.com/product/m6a"
-    },
-    {
-      "date": "2026-09-15",
-      "topic": "【明日発売リマインド】その他 一番くじちょこっと「サンエックスユニバース」9/16発売(リラックマ・たれぱんだ・こげぱん等)",
-      "price": "1回550円→相場未確定(発売前、参考値なし)",
-      "release_date": "2026-09-16",
-      "reminded": true,
-      "url": "https://collabo-cafe.com/events/collabo/san-x-ichiban-kuji-chocotto-2026/"
-    },
-    {
-      "date": "2026-09-15",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 山崎12年・白州12年 楽天ファーストステージ先着くじ",
-      "price": "15180円→相場30000-60000(過去同種ラウンド実績ベースの参考値、銘柄・当選内容により変動)",
-      "url": "https://norifune.com/liqueur/whisky/lottery-whisky",
-      "deadline": "2026-09-15",
-      "reminded": false
-    },
-    {
-      "date": "2026-09-16",
-      "topic": "【続報・本日締切】ポケ 30th CELEBRATION ポケモンセンターオンライン最終抽選(本日9/16 16:59締切、これ以降は一般販売のみ)",
-      "price": "定価未確定→過去CELEBRATION系実績は定価の1.5-2倍(参考値)",
-      "release_date": "2026-09-16",
-      "url": "https://www.pokemoncenter-online.com/news/?id=20260803",
-      "deadline": "2026-09-16",
-      "reminded": true
-    },
-    {
-      "date": "2026-09-16",
-      "topic": "一番くじ NARUTO-ナルト- 疾風伝 飛段・角都編 10/26発売(仕込み候補)。A賞シカマル/B賞アスマ/C賞飛段/D賞角都 全てMASTERLISE、ラストワン賞は風遁・螺旋手裏剣ナルト",
-      "price": "1回790円→相場未確定(参考値なし)",
-      "release_date": "2026-10-26",
-      "reminded": false,
-      "url": "https://1kuji.com/products/naruto11"
-    },
-    {
-      "date": "2026-09-16",
-      "topic": "[警戒済]ポケ ストームエメラルダBOX さらなる大幅下落継続",
-      "price": "発売時(7/31)約23000→8/11時点17500-18000→現在10700(発売時比-53%、前回比-39〜41%)",
-      "url": "https://price-base.com/useful/stormemeralda-box-market"
-    },
-    {
-      "date": "2026-09-18",
-      "topic": "[上昇済]ポケ 30th CELEBRATION BOX 発売後相場判明・上昇",
-      "price": "定価7200→発売後相場17000前後(初日買取最大22000、約+136%)",
-      "release_date": "2026-09-16"
-    },
-    {
-      "date": "2026-09-18",
-      "topic": "【続報】ポケ 30th CELEBRATION BOX 定価抽選(ポケモンセンター店頭LINE抽選9/20締切、DMMマイカ9/23締切、個人ショップ各店9/25〜9/30締切)",
-      "price": "定価7200→発売後相場17000前後(差額9800円前後)",
-      "release_date": "2026-09-16",
-      "url": "https://www.pokeca-navi.jp/products/30th-CELEBRATION/",
-      "deadline": "2026-09-30"
-    },
-    {
       "date": "2026-09-18",
       "topic": "ワンピ OP-18神の支配BOX ファミマオンライン抽選(仕込み候補)",
       "price": "1BOX5760円→相場未確定(11/22発売前、過去OP-17等BOX予約権は定価の3-4倍実績)",
       "release_date": "2026-11-22",
       "url": "https://convenicheck.com/news/news_famima/136387/",
       "deadline": "2026-09-21"
-    },
-    {
-      "date": "2026-09-18",
-      "topic": "ジャパニーズウイスキー 楽天SAKE People先着くじ(山崎12年/響JAPANESE HARMONY等)",
-      "price": "6600円+送料→相場30000-60000(山崎系)/15000-20000(響JH)",
-      "url": "https://norifune.com/liqueur/whisky/lottery-whisky",
-      "deadline": "2026-09-30"
-    },
-    {
-      "date": "2026-09-18",
-      "topic": "【その他ジャンル・仕込み候補】映画ちいかわ 人魚の島のひみつ 入場者特典第5弾「ひみつ本」9/19配布開始",
-      "price": "鑑賞料のみ→過去の入場者特典(フィギュア)実績1個1100円〜・セット25000円〜(参考、冊子タイプのため相場は発売後要確認)",
-      "release_date": "2026-09-19",
-      "url": "https://www.famitsu.com/article/202609/87874"
     },
     {
       "date": "2026-09-19",
@@ -685,43 +26,6 @@
       "reminded": false
     },
     {
-      "date": "2026-09-19",
-      "topic": "ジャパニーズウイスキー 白州12年/白州NA オーケーストア抽選(アプリ会員登録のみ、9/20締切)",
-      "price": "定価8250-17600→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-20"
-    },
-    {
-      "date": "2026-09-19",
-      "topic": "ジャパニーズウイスキー 山崎18年+12年/白州18年+12年セット 楽天ファーストステージ先着くじ(アプリ不要、9/23締切)",
-      "price": "20880円(セット・送料無料)→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-23"
-    },
-    {
-      "date": "2026-09-19",
-      "topic": "一番くじ ドラゴンボール SPIRIT OF THE SAIYAN 10/17発売(仕込み候補)。セブン-イレブン/イトーヨーカドー/ゆめタウン等",
-      "price": "1回790円→相場未確定(参考値なし)",
-      "release_date": "2026-10-17",
-      "reminded": false,
-      "url": "https://1kuji.com/products/db_z8"
-    },
-    {
-      "date": "2026-09-19",
-      "topic": "一番くじ〈リメンバー・ミー〉Colorful Memories 10/31発売(仕込み候補)。A賞はミゲル&ヘクターのシーンフィギュア",
-      "price": "相場未確定(参考値なし)",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=disney_coco&grp_id=9999"
-    },
-    {
-      "date": "2026-09-19",
-      "topic": "【F・黒字案件】みずほ楽天カード新規発行(年会費無料)。通常より5000pt増額中の期間限定キャンペーン",
-      "price": "新規入会&利用→最大20000ポイント還元",
-      "url": "https://happynap.net/%E3%80%9010%E6%97%A5%E9%96%93%E9%99%90%E5%AE%9A-9-28-%E6%9C%9D1000%E3%81%BE%E3%81%A7%E5%A2%97%E9%A1%8D%E3%80%91%E6%9C%80%E5%A4%A720000p-%E3%81%BF%E3%81%9A%E3%81%BB%E6%A5%BD%E5%A4%A9%E3%82%AB/",
-      "deadline": "2026-09-28"
-    },
-    {
       "date": "2026-09-20",
       "topic": "【続報・明日締切】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切、要メルマガ会員登録)",
       "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
@@ -729,13 +33,6 @@
       "url": "https://convenicheck.com/news/news_famima/136387/",
       "deadline": "2026-09-21",
       "reminded": false
-    },
-    {
-      "date": "2026-09-20",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 白州12年/白州NA オーケーストア抽選(アプリ会員登録のみ)",
-      "price": "定価8250-17600→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-20"
     },
     {
       "date": "2026-09-21",
@@ -748,12 +45,6 @@
     },
     {
       "date": "2026-09-21",
-      "topic": "【仕込み候補】Vジャンプ11月特大号 付録カード(9/18発売)。鬼滅の刃「胡蝶しのぶ」(Vジャンプ限定絵柄)・遊戯王「装甲魔導士パズー」等6タイトル同時収録",
-      "price": "雑誌代のみ→相場未確認(参考値なし、過去のVジャンプ/ジャンプ付録は品薄高騰の実績あり)",
-      "url": "https://vjump.shueisha.co.jp/newinfo/"
-    },
-    {
-      "date": "2026-09-21",
       "topic": "【その他ジャンル・仕込み候補】一番くじ ワンピース～あにまる大集合！～ 11/14発売",
       "price": "1回750円→相場未確定(A賞チョッパーのマルチスタンド、参考値なし)",
       "release_date": "2026-11-14",
@@ -761,100 +52,11 @@
       "url": "https://1kuji.com/products/onep105"
     },
     {
-      "date": "2026-09-21",
-      "topic": "【新ジャンル】ジャパニーズウイスキー 白州12年/白州「100周年記念蒸溜所ラベル」抽選(9月下旬、複数店舗で順次実施見込み)",
-      "price": "定価未確定→白州系相場30000-60000(通常品ベース、記念ラベルは上乗せの可能性)",
-      "url": "https://norifune.com/liqueur/whisky/lottery-whisky"
-    },
-    {
       "date": "2026-09-22",
       "topic": "ワンピ OP-18神の支配BOX Amazon招待リクエスト抽選(常時受付)",
       "price": "5782円→相場未確定(11/21発売前、前弾OP-17は予約権が定価の3-4倍で取引された実績あり)",
       "release_date": "2026-11-21",
       "url": "https://www.inside-games.jp/article/2026/09/17/187890.html"
-    },
-    {
-      "date": "2026-09-22",
-      "topic": "ポケ 30th CELEBRATION カードセット(9種) ゲオ抽選予定(9/28 11:00受付開始)",
-      "price": "定価未確定→通常BOXは発売後買取+136%の実績あり(参考値)",
-      "release_date": "2026-10-16",
-      "url": "https://cardchusen.com/pokeka/30th-celebration",
-      "deadline": "2026-10-01"
-    },
-    {
-      "date": "2026-09-22",
-      "topic": "[上昇済]ポケ 30th CELEBRATION FUTURISTIC BOX 発売後も高値継続",
-      "price": "定価27500→現在フリマ相場54500(+98%)",
-      "release_date": "2026-09-16",
-      "url": "https://price-base.com/useful/30thcelebrationfuturisticbox"
-    },
-    {
-      "date": "2026-09-22",
-      "topic": "【F・黒字案件】オルタナバンク 初回投資応援プログラム(モッピー経由)",
-      "price": "1万円投資(45日以内)→モッピー12000pt+オルタナバンク特典3000円=合計15000円相当(投資全損でも実質5000円黒字、運用期間4ヶ月以上のファンド限定)",
-      "url": "https://dietmiler.com/altana-bank",
-      "deadline": "2026-09-30"
-    },
-    {
-      "date": "2026-09-23",
-      "topic": "【続報・本日締切】ジャパニーズウイスキー 山崎18年+12年/白州18年+12年セット 楽天ファーストステージ先着くじ(アプリ不要)",
-      "price": "20880円(セット・送料無料)→相場30000-60000",
-      "url": "https://norifune.com/liqueur/whisky/japanese/hakusyu-buy",
-      "deadline": "2026-09-23"
-    },
-    {
-      "date": "2026-09-23",
-      "topic": "[警戒済]ワンピ OP-17世界最強の戦士BOX 反発は一時的、再び大幅下落",
-      "price": "9/5時点買取19692(+23%反発)→9/17時点買取9925前後(定価1.7倍水準、-50%前後)。予約権相場23600-28000だった頃からは累計で大幅下落",
-      "url": "https://tcgpro.co.jp/media/sekaisaikyounosenshi/"
-    },
-    {
-      "date": "2026-09-25",
-      "topic": "【トラブル・注意喚起】くら寿司×ちいかわ「ビッくらポン」コラボ 従業員の不正持ち出し・フリマ大量転売発覚で9/6付キャンペーン中止(本来8/21-9/30予定、公式が警察に相談中)",
-      "url": "https://news.yahoo.co.jp/articles/7574008027de6bc31f33d67ebdbcba60b120e88a"
-    },
-    {
-      "date": "2026-09-25",
-      "topic": "[上昇済]ポケ 30th CELEBRATION BOX 発売後も上昇継続",
-      "price": "9/18時点17000→現在21500-24000(+26〜41%)",
-      "release_date": "2026-09-16"
-    },
-    {
-      "date": "2026-09-25",
-      "topic": "一番くじ 機動戦士ガンダム UNIVERSAL CENTURY SAGA2 10/3発売(仕込み候補)",
-      "price": "1回850円→相場未確定(参考値なし)",
-      "release_date": "2026-10-03",
-      "reminded": false,
-      "url": "https://1kuji.com/products/gundam_ucs2"
-    },
-    {
-      "date": "2026-09-25",
-      "topic": "一番くじ くまのプーさん 100th Anniversary 10/10発売(仕込み候補)",
-      "price": "相場未確定(100周年記念、参考値なし)",
-      "release_date": "2026-10-10",
-      "reminded": false,
-      "url": "https://1kuji.com/products?sale_month=10&sale_year=2026"
-    },
-    {
-      "date": "2026-09-25",
-      "topic": "一番くじ Fate/Grand Order ～セレブサマーエクスペリエンス＆アーキタイプインセプション～ 10/31発売(仕込み候補)",
-      "price": "相場未確定(参考値なし)",
-      "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://1kuji.com/products?sale_month=10&sale_year=2026"
-    },
-    {
-      "date": "2026-09-28",
-      "topic": "【トラブル・注意喚起】ポケ 30th CELEBRATION メルカリが拡張パック・カードセット(9種)の未開封品出品を9/16から一定期間禁止(解除未定)。シングルカード・買取店・ラクマは対象外",
-      "url": "https://about.mercari.com/press/news/articles/20260915_principles/"
-    },
-    {
-      "date": "2026-09-28",
-      "topic": "【続報】ポケ 30th CELEBRATION カードセット(9種、10/16発売) ゲオ抽選(9/28 11:00-10/1 17:59受付、要ゲオアプリ+Ponta連携)。メルカリ出品不可のため売却は買取店経由想定",
-      "price": "定価10800→メルカリ相場26500前後(約2.5倍、9月時点参考値)",
-      "release_date": "2026-10-16",
-      "url": "https://geo-online.co.jp/news/783",
-      "deadline": "2026-10-01"
     },
     {
       "date": "2026-09-29",
@@ -865,57 +67,42 @@
       "url": "https://1kuji.com/products/hololive-flowglow"
     },
     {
-      "date": "2026-10-04",
-      "topic": "【続報・本日発売】一番くじ FAIRY TAIL 20th ANNIVERSARY。ナツ・ルーシィ・ハッピーのMASTERLISE初登場、ラストワン賞エルザMASERLISE。相場は過去MASTERLISE一番くじ実績から1-3倍予想（発売直後に要確認）",
-      "price": "1回850円→相場未確定(参考値：過去MASTERLISE一番くじ実績1-3倍)",
-      "release_date": "2026-10-03",
-      "reminded": false,
-      "url": "https://1kuji.com/products/fairytail"
+      "date": "2026-11-05",
+      "topic": "ポケ ハドウシーカー(MEGA拡張パック、11/27発売) BOX抽選。ポケモンセンターオンライン追加抽選11/6 16:00-11/10 16:59、ファミマオンライン11/9、TSUTAYA等11/8、ドンキ・三洋堂11/15",
+      "price": "定価6000→発売直後の買取予想10000-12000(弱気8000/強気16000、発売前の参考値)",
+      "release_date": "2026-11-27",
+      "url": "https://cardchusen.com/pokeka/hadou-seeker",
+      "deadline": "2026-11-15",
+      "reminded": false
     },
     {
-      "date": "2026-10-04",
-      "topic": "【ポケ・本日締切】30th CELEBRATIONカードセット(御三家9種) ビックカメラ抽選。応募条件：マイナンバーカード+ビックカメラポイントカードまたは公式アプリ。メルカリ出品不可のため売却は買取店経由",
-      "price": "定価1,200円→メルカリ相場26,500前後(2.5倍未満だが、10月発売予定)",
-      "release_date": "2026-10-16",
-      "deadline": "2026-10-04",
-      "reminded": false,
-      "url": "https://www.bic-camera.co.jp/"
-    },
-    {
-      "date": "2026-10-04",
-      "topic": "【ワンピ・仕込み候補】ONE PIECEカードゲーム「EB-05 Heroines Edition vol.2」10月31日発売予定。女性キャラ専門版、通常弾では出ないスーパーパラレル・SEC等高価レア注目。相場未確定(発売前、過去EB系は定価1.5-2倍実績)",
-      "price": "1パック240円/BOX5760円→相場未確定(参考値なし)",
+      "date": "2026-11-05",
+      "topic": "ワンピ EB-05 ヒロインズエディション2 BOX 発売後相場(10/31発売)。バンダイカードショップ等18件の抽選が受付中",
+      "price": "定価5760→買取12000-14000(11/4時点、最高14000はシュリンク付き)",
       "release_date": "2026-10-31",
-      "reminded": false,
-      "url": "https://tcg-portal.jp/onepiece/releases"
+      "url": "https://pokeso.jp/tcg/onepiece/eb-05"
     },
     {
-      "date": "2026-10-04",
-      "topic": "[警戒済]ポケ ストームエメラルダBOX さらに下落継続",
-      "price": "紹介時予約権相場32000-36000→9/16時点10700→10/4現在9025(シュリンクあり、-75%累計)"
+      "date": "2026-11-05",
+      "topic": "【締切間近】ワンピ OP-18神の支配 BOX抽選(ゲオ11/5 17:59、TSUTAYAトレカ府中駅前11/5 21:00、ホビーステーション各店11/5 23:59、JUMP SHOP各店11/7 23:59、店頭抽選は11/8まで)。発売日は11/21説と11/22説あり",
+      "price": "定価5760→相場未確定(直近EB-05は買取12000前後で約2倍、OP-17は買取9925で約1.7倍、利益4000-6000見込みの参考値)",
+      "release_date": "2026-11-21",
+      "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
+      "deadline": "2026-11-08",
+      "reminded": false
     },
     {
-      "date": "2026-10-05",
-      "topic": "【明日発売リマインド】山崎/白州 Story of the Distillery 2026 サントリー公式10/6発売。抽選済み、当選者は明日受取開始",
-      "price": "定価17600→相場30000-60000",
-      "release_date": "2026-10-06",
-      "url": "https://www.suntory.co.jp/whisky/yamazaki/sd/",
-      "reminded": true
+      "date": "2026-11-05",
+      "topic": "[警戒済]ポケ 30th CELEBRATION カードセット(9種) 買取相場大幅下落",
+      "price": "発売日買取21000(定価10800)→11/4買取14000(-33%、最安11/2の13800)",
+      "release_date": "2026-10-16",
+      "url": "https://kaitori-homura.com/column/2026/10/26/pokemon-30th-celebration-card-set-buyback-price/"
     },
     {
-      "date": "2026-10-05",
-      "topic": "ポケ 30th CELEBRATION BOX イエローサブマリン各店 LivePocket抽選(新チャネル)",
-      "price": "定価7200→現在相場21500-24000",
-      "release_date": "2026-09-16",
-      "url": "https://livepocket.jp/e/hzk15",
-      "deadline": "2026-10-07"
-    },
-    {
-      "date": "2026-10-05",
-      "topic": "トレカ全般 ベイブレードX グローリーワルキューレLF メタルコート:ブルー 公式Xフォロー&リポスト抽選(無料、10名)",
-      "price": "参加無料→過去実績でグローリーワルキューレは利益商品と確認済み",
-      "url": "https://beyblade.takaratomy.co.jp/beyblade-x/news/news260915_2.html",
-      "deadline": "2026-10-11"
+      "date": "2026-11-05",
+      "topic": "[警戒済]ロルカナ 大いなるアズライト 定価割れ。以前記録の発売日2026/10/31は誤りで実際は2025/10/31",
+      "price": "定価5280→買取2500前後/相場約4800(時期にずれあり)",
+      "url": "https://price-base.com/useful/azuritesea-box-market"
     }
   ]
 }
