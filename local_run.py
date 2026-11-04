@@ -33,7 +33,7 @@ KINDS = {
 9. price 付きの過去の項目3〜4件の相場警戒・上昇検知''',
     },
     'conveni': {
-        'prompt': 'conveni_prompt.md', 'history': 'history_conveni.json', 'turns': 40,
+        'prompt': 'conveni_prompt.md', 'history': 'history_conveni.json', 'turns': 50,
         'checks': '''1. history_conveni.json の release_date が今後14日以内の項目の続報と相場
 2. conveni_prompt.md の調査範囲の各節を、節ごとに最低1回検索する
 3. 一番くじの発売予定（厳選トリガーとアフターフォローを含む）
