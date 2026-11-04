@@ -52,3 +52,14 @@ jobs:
             git pull --rebase origin main || true
             git push
           fi
+
+      - name: 失敗を知らせる
+        if: failure()
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          printf '{"content":"⚠️ 転売ウォッチが失敗しました。今日の配信は届いていません。\\n%s"}' "$RUN_URL" > notice.json
+          code=$(curl -sS -o /dev/null -w '%{http_code}' -H 'Content-Type: application/json' -d @notice.json "$WEBHOOK?wait=true")
+          echo "Discord応答: $code"
+          test "$code" = "200"
