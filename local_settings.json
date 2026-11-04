@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "ToolSearch",
+      "WebSearch",
+      "WebFetch",
+      "Read(./**)",
+      "Glob",
+      "Grep",
+      "Edit(./outbox/**)",
+      "Write(./outbox/**)",
+      "Edit(./history.json)",
+      "Write(./history.json)",
+      "Edit(./history_conveni.json)",
+      "Write(./history_conveni.json)"
+    ],
+    "deny": [
+      "Bash",
+      "Edit(./.github/**)",
+      "Write(./.github/**)",
+      "Edit(./*.py)",
+      "Write(./*.py)",
+      "Edit(./*.md)",
+      "Write(./*.md)",
+      "Edit(./local_settings.json)",
+      "Write(./local_settings.json)",
+      "Edit(./last_run.json)",
+      "Write(./last_run.json)"
+    ]
+  }
+}

@@ -83,6 +83,10 @@ def load_outbox():
     return plan
 
 
+def via_cloud(kind):
+    return json.loads((OUTBOX / kind / 'done.json').read_text(encoding='utf-8')).get('via') == 'cloud'
+
+
 def send():
     plan = load_outbox()
     for kind, texts in plan.items():
@@ -93,6 +97,8 @@ def send():
             print(f'{kind} {i + 1}/{len(texts)} {len(text)}文字 応答{status}')
             time.sleep(1)
         print(f'{kind}: {len(texts)}通')
+        if kind in HOOKS and via_cloud(kind):
+            post(os.environ[HOOKS[kind]], f'ℹ️ {NAMES[kind]}: PCが動いていなかったので、クラウドの予備で配信しました。開けないサイトがあるため、調査は浅めです。')
     out = os.environ.get('GITHUB_OUTPUT')
     if out:
         with open(out, 'a', encoding='utf-8') as f:
