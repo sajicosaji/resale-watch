@@ -1,117 +1,133 @@
 {
-  "items": [
-    {
-      "date": "2026-09-13",
-      "topic": "ワンピ OP-18神の支配 発売日11/22・価格確定(仕込み候補)",
-      "price": "1パック240円/1BOX5760円→相場未確定(参考値なし)",
-      "release_date": "2026-11-22",
-      "reminded": false,
-      "url": "https://tier-one-onepiece.jp/blog/op18-card-list/"
-    },
-    {
-      "date": "2026-09-18",
-      "topic": "ワンピ OP-18神の支配BOX ファミマオンライン抽選(仕込み候補)",
-      "price": "1BOX5760円→相場未確定(11/22発売前、過去OP-17等BOX予約権は定価の3-4倍実績)",
-      "release_date": "2026-11-22",
-      "url": "https://convenicheck.com/news/news_famima/136387/",
-      "deadline": "2026-09-21"
-    },
-    {
-      "date": "2026-09-19",
-      "topic": "【続報・締切間近】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切)。※発売日は公式流通情報で11/21(土)説あり、既報11/22とは1日ずれあるため要確認",
-      "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
-      "release_date": "2026-11-21",
-      "url": "https://convenicheck.com/news/news_famima/136387/",
-      "deadline": "2026-09-21",
-      "reminded": false
-    },
-    {
-      "date": "2026-09-20",
-      "topic": "【続報・明日締切】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切、要メルマガ会員登録)",
-      "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
-      "release_date": "2026-11-21",
-      "url": "https://convenicheck.com/news/news_famima/136387/",
-      "deadline": "2026-09-21",
-      "reminded": false
-    },
-    {
-      "date": "2026-09-21",
-      "topic": "【続報・本日最終締切】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切、要メルマガ会員登録、受取11/28〜)",
-      "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
-      "release_date": "2026-11-21",
-      "url": "https://convenicheck.com/news/news_famima/136387/",
-      "deadline": "2026-09-21",
-      "reminded": false
-    },
-    {
-      "date": "2026-09-21",
-      "topic": "【その他ジャンル・仕込み候補】一番くじ ワンピース～あにまる大集合！～ 11/14発売",
-      "price": "1回750円→相場未確定(A賞チョッパーのマルチスタンド、参考値なし)",
-      "release_date": "2026-11-14",
-      "reminded": false,
-      "url": "https://1kuji.com/products/onep105"
-    },
-    {
-      "date": "2026-09-22",
-      "topic": "ワンピ OP-18神の支配BOX Amazon招待リクエスト抽選(常時受付)",
-      "price": "5782円→相場未確定(11/21発売前、前弾OP-17は予約権が定価の3-4倍で取引された実績あり)",
-      "release_date": "2026-11-21",
-      "url": "https://www.inside-games.jp/article/2026/09/17/187890.html"
-    },
-    {
-      "date": "2026-09-29",
-      "topic": "【その他ジャンル・仕込み候補】一番くじ hololive FLOW GLOW 11/13発売。hololive DEV_IS所属5人組VTuberグループ、描き下ろしメッセージ入りアクリルビジュアルボード等封入",
-      "price": "1回790円→相場未確定(発売前、参考値なし)",
-      "release_date": "2026-11-13",
-      "reminded": false,
-      "url": "https://1kuji.com/products/hololive-flowglow"
-    },
-    {
-      "date": "2026-11-05",
-      "topic": "ポケ ハドウシーカー(MEGA拡張パック、11/27発売) BOX抽選。ポケモンセンターオンライン追加抽選11/6 16:00-11/10 16:59、ファミマオンライン11/9、TSUTAYA等11/8、ドンキ・三洋堂11/15",
-      "price": "定価6000→発売直後の買取予想10000-12000(弱気8000/強気16000、発売前の参考値)",
-      "release_date": "2026-11-27",
-      "url": "https://cardchusen.com/pokeka/hadou-seeker",
-      "deadline": "2026-11-15",
-      "reminded": false
-    },
-    {
-      "date": "2026-11-05",
-      "topic": "ワンピ EB-05 ヒロインズエディション2 BOX 発売後相場(10/31発売)。バンダイカードショップ等18件の抽選が受付中",
-      "price": "定価5760→買取12000-14000(11/4時点、最高14000はシュリンク付き)",
-      "release_date": "2026-10-31",
-      "url": "https://pokeso.jp/tcg/onepiece/eb-05"
-    },
-    {
-      "date": "2026-11-05",
-      "topic": "【締切間近】ワンピ OP-18神の支配 BOX抽選(ゲオ11/5 17:59、TSUTAYAトレカ府中駅前11/5 21:00、ホビーステーション各店11/5 23:59、JUMP SHOP各店11/7 23:59、店頭抽選は11/8まで)。発売日は11/21説と11/22説あり",
-      "price": "定価5760→相場未確定(直近EB-05は買取12000前後で約2倍、OP-17は買取9925で約1.7倍、利益4000-6000見込みの参考値)",
-      "release_date": "2026-11-21",
-      "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
-      "deadline": "2026-11-08",
-      "reminded": false
-    },
-    {
-      "date": "2026-11-05",
-      "topic": "[警戒済]ポケ 30th CELEBRATION カードセット(9種) 買取相場大幅下落",
-      "price": "発売日買取21000(定価10800)→11/4買取14000(-33%、最安11/2の13800)",
-      "release_date": "2026-10-16",
-      "url": "https://kaitori-homura.com/column/2026/10/26/pokemon-30th-celebration-card-set-buyback-price/"
-    },
-    {
-      "date": "2026-11-05",
-      "topic": "[警戒済]ロルカナ 大いなるアズライト 定価割れ。以前記録の発売日2026/10/31は誤りで実際は2025/10/31",
-      "price": "定価5280→買取2500前後/相場約4800(時期にずれあり)",
-      "url": "https://price-base.com/useful/azuritesea-box-market"
-    },
-    {
-      "date": "2026-11-07",
-      "topic": "【続報・本日締切】ワンピ OP-18 BOX抽選 JUMP SHOP各店11/7 23:59、店頭11/8まで／ポケ ハドウシーカー ポケセン追加抽選11/10 16:59",
-      "price": "OP-18定価5760→EB-05買取中央値11000(約1.9倍)参考値",
-      "release_date": "2026-11-21",
-      "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
-      "deadline": "2026-11-10",
-      "reminded": false
-    }
-  ]
+ "items": [
+  {
+   "date": "2026-09-13",
+   "topic": "ワンピ OP-18神の支配 発売日11/22・価格確定(仕込み候補)",
+   "price": "1パック240円/1BOX5760円→相場未確定(参考値なし)",
+   "release_date": "2026-11-22",
+   "reminded": false,
+   "url": "https://tier-one-onepiece.jp/blog/op18-card-list/"
+  },
+  {
+   "date": "2026-09-18",
+   "topic": "ワンピ OP-18神の支配BOX ファミマオンライン抽選(仕込み候補)",
+   "price": "1BOX5760円→相場未確定(11/22発売前、過去OP-17等BOX予約権は定価の3-4倍実績)",
+   "release_date": "2026-11-22",
+   "url": "https://convenicheck.com/news/news_famima/136387/",
+   "deadline": "2026-09-21"
+  },
+  {
+   "date": "2026-09-19",
+   "topic": "【続報・締切間近】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切)。※発売日は公式流通情報で11/21(土)説あり、既報11/22とは1日ずれあるため要確認",
+   "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
+   "release_date": "2026-11-21",
+   "url": "https://convenicheck.com/news/news_famima/136387/",
+   "deadline": "2026-09-21",
+   "reminded": false
+  },
+  {
+   "date": "2026-09-20",
+   "topic": "【続報・明日締切】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切、要メルマガ会員登録)",
+   "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
+   "release_date": "2026-11-21",
+   "url": "https://convenicheck.com/news/news_famima/136387/",
+   "deadline": "2026-09-21",
+   "reminded": false
+  },
+  {
+   "date": "2026-09-21",
+   "topic": "【続報・本日最終締切】ワンピ OP-18神の支配BOX予約 ファミマオンライン抽選(9/21 23:59締切、要メルマガ会員登録、受取11/28〜)",
+   "price": "定価5760→過去OP-17等の予約権は定価の3-4倍実績(参考値、本商品はまだ相場なし)",
+   "release_date": "2026-11-21",
+   "url": "https://convenicheck.com/news/news_famima/136387/",
+   "deadline": "2026-09-21",
+   "reminded": false
+  },
+  {
+   "date": "2026-09-21",
+   "topic": "【その他ジャンル・仕込み候補】一番くじ ワンピース～あにまる大集合！～ 11/14発売",
+   "price": "1回750円→相場未確定(A賞チョッパーのマルチスタンド、参考値なし)",
+   "release_date": "2026-11-14",
+   "reminded": false,
+   "url": "https://1kuji.com/products/onep105"
+  },
+  {
+   "date": "2026-09-22",
+   "topic": "ワンピ OP-18神の支配BOX Amazon招待リクエスト抽選(常時受付)",
+   "price": "5782円→相場未確定(11/21発売前、前弾OP-17は予約権が定価の3-4倍で取引された実績あり)",
+   "release_date": "2026-11-21",
+   "url": "https://www.inside-games.jp/article/2026/09/17/187890.html"
+  },
+  {
+   "date": "2026-09-29",
+   "topic": "【その他ジャンル・仕込み候補】一番くじ hololive FLOW GLOW 11/13発売。hololive DEV_IS所属5人組VTuberグループ、描き下ろしメッセージ入りアクリルビジュアルボード等封入",
+   "price": "1回790円→相場未確定(発売前、参考値なし)",
+   "release_date": "2026-11-13",
+   "reminded": true,
+   "url": "https://1kuji.com/products/hololive-flowglow"
+  },
+  {
+   "date": "2026-11-05",
+   "topic": "ポケ ハドウシーカー(MEGA拡張パック、11/27発売) BOX抽選。ポケモンセンターオンライン追加抽選11/6 16:00-11/10 16:59、ファミマオンライン11/9、TSUTAYA等11/8、ドンキ・三洋堂11/15",
+   "price": "定価6000→発売直後の買取予想10000-12000(弱気8000/強気16000、発売前の参考値)",
+   "release_date": "2026-11-27",
+   "url": "https://cardchusen.com/pokeka/hadou-seeker",
+   "deadline": "2026-11-15",
+   "reminded": false
+  },
+  {
+   "date": "2026-11-05",
+   "topic": "ワンピ EB-05 ヒロインズエディション2 BOX 発売後相場(10/31発売)。バンダイカードショップ等18件の抽選が受付中",
+   "price": "定価5760→買取12000-14000(11/4時点、最高14000はシュリンク付き)",
+   "release_date": "2026-10-31",
+   "url": "https://pokeso.jp/tcg/onepiece/eb-05"
+  },
+  {
+   "date": "2026-11-05",
+   "topic": "【締切間近】ワンピ OP-18神の支配 BOX抽選(ゲオ11/5 17:59、TSUTAYAトレカ府中駅前11/5 21:00、ホビーステーション各店11/5 23:59、JUMP SHOP各店11/7 23:59、店頭抽選は11/8まで)。発売日は11/21説と11/22説あり",
+   "price": "定価5760→相場未確定(直近EB-05は買取12000前後で約2倍、OP-17は買取9925で約1.7倍、利益4000-6000見込みの参考値)",
+   "release_date": "2026-11-21",
+   "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
+   "deadline": "2026-11-08",
+   "reminded": false
+  },
+  {
+   "date": "2026-11-05",
+   "topic": "[警戒済]ポケ 30th CELEBRATION カードセット(9種) 買取相場大幅下落",
+   "price": "発売日買取21000(定価10800)→11/4買取14000(-33%、最安11/2の13800)",
+   "release_date": "2026-10-16",
+   "url": "https://kaitori-homura.com/column/2026/10/26/pokemon-30th-celebration-card-set-buyback-price/"
+  },
+  {
+   "date": "2026-11-05",
+   "topic": "[警戒済]ロルカナ 大いなるアズライト 定価割れ。以前記録の発売日2026/10/31は誤りで実際は2025/10/31",
+   "price": "定価5280→買取2500前後/相場約4800(時期にずれあり)",
+   "url": "https://price-base.com/useful/azuritesea-box-market"
+  },
+  {
+   "date": "2026-11-07",
+   "topic": "【続報・本日締切】ワンピ OP-18 BOX抽選 JUMP SHOP各店11/7 23:59、店頭11/8まで／ポケ ハドウシーカー ポケセン追加抽選11/10 16:59",
+   "price": "OP-18定価5760→EB-05買取中央値11000(約1.9倍)参考値",
+   "release_date": "2026-11-21",
+   "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
+   "deadline": "2026-11-10",
+   "reminded": false
+  },
+  {
+   "date": "2026-11-12",
+   "topic": "【続報】ポケ ハドウシーカー ポケセン追加抽選 結果11/17、注文〆11/24",
+   "price": "定価6000→発売直後の買取予想10000-12000(参考値)",
+   "release_date": "2026-11-27",
+   "url": "https://www.pokemoncenter-online.com/9900000008482.html",
+   "reminded": false
+  },
+  {
+   "date": "2026-11-12",
+   "topic": "【その他ジャンル・続報】一番くじ ワンピース〜あにまる大集合！〜 11/14発売、ラストワン賞=カルーのビッグぬいぐるみ",
+   "price": "1回750円→相場未確定(発売前)",
+   "release_date": "2026-11-14",
+   "url": "https://1kuji.com/products/onep105",
+   "reminded": false
+  }
+ ]
 }
