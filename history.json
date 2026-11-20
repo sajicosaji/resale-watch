@@ -23,7 +23,7 @@
    "release_date": "2026-11-21",
    "url": "https://convenicheck.com/news/news_famima/136387/",
    "deadline": "2026-09-21",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-09-20",
@@ -32,7 +32,7 @@
    "release_date": "2026-11-21",
    "url": "https://convenicheck.com/news/news_famima/136387/",
    "deadline": "2026-09-21",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-09-21",
@@ -41,7 +41,7 @@
    "release_date": "2026-11-21",
    "url": "https://convenicheck.com/news/news_famima/136387/",
    "deadline": "2026-09-21",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-09-21",
@@ -56,7 +56,8 @@
    "topic": "ワンピ OP-18神の支配BOX Amazon招待リクエスト抽選(常時受付)",
    "price": "5782円→相場未確定(11/21発売前、前弾OP-17は予約権が定価の3-4倍で取引された実績あり)",
    "release_date": "2026-11-21",
-   "url": "https://www.inside-games.jp/article/2026/09/17/187890.html"
+   "url": "https://www.inside-games.jp/article/2026/09/17/187890.html",
+   "reminded": true
   },
   {
    "date": "2026-09-29",
@@ -89,7 +90,7 @@
    "release_date": "2026-11-21",
    "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
    "deadline": "2026-11-08",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-11-05",
@@ -111,7 +112,7 @@
    "release_date": "2026-11-21",
    "url": "https://cardchusen.com/onepiece/op18-kami-no-shihai",
    "deadline": "2026-11-10",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-11-12",
@@ -128,6 +129,23 @@
    "release_date": "2026-11-14",
    "url": "https://1kuji.com/products/onep105",
    "reminded": true
+  },
+  {
+   "date": "2026-11-20",
+   "topic": "【明日発売】ワンピ OP-18神の支配BOX 11/21発売(11/22・11/28表記も混在)",
+   "price": "定価5760→EB-05買取約12000(2倍)参考値",
+   "release_date": "2026-11-21",
+   "url": "https://gamewith.jp/gaming-pc/587442",
+   "reminded": true
+  },
+  {
+   "date": "2026-11-20",
+   "topic": "【続報】ポケ ハドウシーカー ポケセン追加抽選当選者 注文〆11/24 16:59",
+   "price": "定価6000→発売直後買取予想10000-12000(参考値)",
+   "release_date": "2026-11-27",
+   "url": "https://www.pokemoncenter-online.com/9900000008482.html",
+   "deadline": "2026-11-24",
+   "reminded": false
   }
  ]
 }
