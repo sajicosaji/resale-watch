@@ -5,7 +5,7 @@
       "topic": "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS（ローソン他、11月21日発売）",
       "price": "850円→相場データ薄い。歴代ライバル7人(DIO・カーズ・ディアボロ等)集結の豪華ラインナップで人気集中の可能性（推測ベース）",
       "release_date": "2026-11-21",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/jojo_26"
     },
     {
@@ -13,7 +13,7 @@
       "topic": "【続報】一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS（ローソン他）ラストワン賞判明：ディエゴ・ブランドー MASTERLISE",
       "price": "850円→同系統MASTERLISEフィギュアの買取実績2,400〜3,600円（ディアボロ・カーズの実例、DIOやディアボロより知名度が下がるため確度中程度）",
       "release_date": "2026-11-21",
-      "reminded": false,
+      "reminded": true,
       "url": "https://1kuji.com/products/jojo_26"
     },
     {
@@ -33,15 +33,6 @@
       "url": "https://1kuji.com/products/db_fa3"
     },
     {
-      "date": "2026-08-20",
-      "topic": "一番くじ ドラゴンボール SPIRIT OF THE SAIYAN（セブン-イレブン他、ラストワン賞：孫悟空＆孫悟飯MASTERLISE PLUS）",
-      "price": "790円→【検証済・的中】実際の結果：発売日時点の買取約15,000円（別店11,000円）・メルカリ出品15,000〜17,500円（約14〜19倍）",
-      "release_date": "2026-10-17",
-      "reminded": false,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/db_z8"
-    },
-    {
       "date": "2026-08-26",
       "topic": "一番くじ 僕のヒーローアカデミア -彼女たちの物語-（ファミリーマート他想定、ラストワン賞：トガヒミコMASTERLISE）",
       "price": "850円→同シリーズ緑谷出久MASTERLISEの買取実績7,500〜10,500円が参考値。トガヒミコは単体フィギュアでも買取19,800〜20,202円の実績があり歴代ラストワンの中でも高水準が期待できる（推測ベース）",
@@ -58,15 +49,6 @@
       "reminded": false,
       "followup_checked": false,
       "url": "https://1kuji.com/products/tokyoghoul8"
-    },
-    {
-      "date": "2026-09-12",
-      "topic": "🎯厳選ピック 一番くじ 鬼滅の刃 ～雷の兄弟～（セブン-イレブン他）ラストワン賞：狛治 MASTERLISE 約25cm",
-      "price": "790円→【検証済・微妙】実際の結果：フリマ相場18,500円〜だが買取店は3,770〜4,090円（フリマ相場の約1/5）。出品価格と買取価格の差が大きく、即買い即売りには不向きだった",
-      "release_date": "2026-09-26",
-      "reminded": true,
-      "followup_checked": true,
-      "url": "https://1kuji.com/products/kimetsu28"
     },
     {
       "date": "2026-09-28",
