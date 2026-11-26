@@ -74,7 +74,7 @@
    "release_date": "2026-11-27",
    "url": "https://cardchusen.com/pokeka/hadou-seeker",
    "deadline": "2026-11-15",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-11-05",
@@ -120,7 +120,7 @@
    "price": "定価6000→発売直後の買取予想10000-12000(参考値)",
    "release_date": "2026-11-27",
    "url": "https://www.pokemoncenter-online.com/9900000008482.html",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-11-12",
@@ -145,7 +145,7 @@
    "release_date": "2026-11-27",
    "url": "https://www.pokemoncenter-online.com/9900000008482.html",
    "deadline": "2026-11-24",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-11-24",
@@ -154,7 +154,7 @@
    "release_date": "2026-11-27",
    "url": "https://www.pokemoncenter-online.com/9900000008482.html",
    "deadline": "2026-11-24",
-   "reminded": false
+   "reminded": true
   },
   {
    "date": "2026-11-25",
@@ -170,6 +170,14 @@
    "price": "定価10800→買取14000(11/4時点)",
    "url": "https://www.pokemoncenter-online.com/news/?id=20260929",
    "reminded": false
+  },
+  {
+   "date": "2026-11-26",
+   "topic": "【明日発売】ポケ ハドウシーカー(MEGA拡張パック)BOX 11/27発売",
+   "price": "定価6000→発売直後買取予想10000-12000(参考値)",
+   "release_date": "2026-11-27",
+   "url": "https://www.pokemoncenter-online.com/9900000008482.html",
+   "reminded": true
   }
  ]
 }
